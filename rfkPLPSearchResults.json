@@ -1,0 +1,2842 @@
+{
+    "facet": {
+      "product_type": {
+        "value": [
+          {
+            "id": "facet_idQmFja3BhY2tz",
+            "text": "Backpacks",
+            "count": 85,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idRHVmZmVscw==",
+            "text": "Duffels",
+            "count": 1,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idU2xpbmdzICYgV2Fpc3RwYWNrcw==",
+            "text": "Slings &amp; Waistpacks",
+            "count": 1,
+            "in_content": "product"
+          }
+        ],
+        "number_of_products": 87,
+        "display_name": "Product Type"
+      },
+      "genders": {
+        "value": [
+          {
+            "id": "facet_idTWVuJ3M=",
+            "text": "Men&#x27;s",
+            "count": 57,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idV29tZW4ncw==",
+            "text": "Women&#x27;s",
+            "count": 30,
+            "in_content": "product"
+          }
+        ],
+        "number_of_products": 87,
+        "display_name": "Gender"
+      },
+      "material": {
+        "value": [
+          {
+            "id": "facet_idTnlsb24=",
+            "text": "Nylon",
+            "count": 29,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idQmFsbGlzdGljIE55bG9u",
+            "text": "Ballistic Nylon",
+            "count": 25,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idTGVhdGhlcg==",
+            "text": "Leather",
+            "count": 13,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idRmFicmlj",
+            "text": "Fabric",
+            "count": 9,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idTnlsb24gVHJpY290",
+            "text": "Nylon Tricot",
+            "count": 6,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idQ2FyYm9uIEZpYmVy",
+            "text": "Carbon Fiber",
+            "count": 2,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idQWx1bWludW0=",
+            "text": "Aluminum",
+            "count": 1,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idUGViYmxlZCBMZWF0aGVy",
+            "text": "Pebbled Leather",
+            "count": 1,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idU21vb3RoIExlYXRoZXI=",
+            "text": "Smooth Leather",
+            "count": 1,
+            "in_content": "product"
+          }
+        ],
+        "number_of_products": 87,
+        "display_name": "Material"
+      },
+      "color_group": {
+        "value": [
+          {
+            "id": "facet_idQmxhY2s=",
+            "text": "Black",
+            "count": 49,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idQmx1ZQ==",
+            "text": "Blue",
+            "count": 15,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idR3JleQ==",
+            "text": "Grey",
+            "count": 15,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idQnJvd24=",
+            "text": "Brown",
+            "count": 2,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idUGluaw==",
+            "text": "Pink",
+            "count": 2,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idQmVpZ2U=",
+            "text": "Beige",
+            "count": 1,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idTWV0YWxsaWM=",
+            "text": "Metallic",
+            "count": 1,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idTXVsdGk=",
+            "text": "Multi",
+            "count": 1,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idUmVk",
+            "text": "Red",
+            "count": 1,
+            "in_content": "product"
+          }
+        ],
+        "number_of_products": 87,
+        "display_name": "Color"
+      },
+      "collection": {
+        "value": [
+          {
+            "id": "facet_idQWxwaGEgQnJhdm8=",
+            "text": "Alpha Bravo",
+            "count": 30,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idVm95YWdldXI=",
+            "text": "Voyageur",
+            "count": 27,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idSGFycmlzb24=",
+            "text": "Harrison",
+            "count": 10,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idQWxwaGE=",
+            "text": "Alpha",
+            "count": 6,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idVFVNSSBJIE1jTGFyZW4=",
+            "text": "TUMI I McLaren",
+            "count": 5,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idQXJyaXbDqQ==",
+            "text": "Arrivé",
+            "count": 3,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idR2VvcmdpY2E=",
+            "text": "Georgica",
+            "count": 3,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idMTkgRGVncmVlIEFsdW1pbnVt",
+            "text": "19 Degree Aluminum",
+            "count": 1,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idQWxwaGEgWA==",
+            "text": "Alpha X",
+            "count": 1,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idVFVNSSBTcG9ydA==",
+            "text": "TUMI Sport",
+            "count": 1,
+            "in_content": "product"
+          }
+        ],
+        "number_of_products": 87,
+        "display_name": "Collection"
+      },
+      "feature": {
+        "value": [
+          {
+            "id": "facet_idTW9ub2dyYW1hYmxl",
+            "text": "Monogramable",
+            "count": 84,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idTWVkaWEgUG9ja2V0",
+            "text": "Media Pocket",
+            "count": 60,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idRXhwYW5kYWJsZQ==",
+            "text": "Expandable",
+            "count": 15,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idVVNCIFBvcnQ=",
+            "text": "USB Port",
+            "count": 8,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idUGFja2FibGU=",
+            "text": "Packable",
+            "count": 3,
+            "in_content": "product"
+          },
+          {
+            "id": "facet_idTG9jayBDbG9zdXJl",
+            "text": "Lock Closure",
+            "count": 1,
+            "in_content": "product"
+          }
+        ],
+        "number_of_products": 87,
+        "display_name": "Feature"
+      }
+    },
+    "facet_names": [
+      "product_type",
+      "genders",
+      "material",
+      "color_group",
+      "collection",
+      "feature"
+    ],
+    "content": {
+      "product": {
+        "total_item": 87,
+        "value": [
+          {
+            "new_arrival": "true",
+            "collection_url": "/c/voyageur/",
+            "swatch_list": [
+              {
+                "product_url": "/p/montana-backpack-01501352693/",
+                "color": "Black/Gold",
+                "final_price": 550,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501352693_alt1,https://tumi.scene7.com/is/image/Tumi/1501352693_alt2,https://tumi.scene7.com/is/image/Tumi/1501352693_alt4,https://tumi.scene7.com/is/image/Tumi/1501352693_alt5,https://tumi.scene7.com/is/image/Tumi/1501352693_alt6,https://tumi.scene7.com/is/image/Tumi/1501352693_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501352693_sw"
+              },
+              {
+                "product_url": "/p/montana-backpack-0150135T522/",
+                "color": "Black/Gunmetal",
+                "final_price": 550,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150135T522_alt7,https://tumi.scene7.com/is/image/Tumi/150135T522_alt1,https://tumi.scene7.com/is/image/Tumi/150135T522_alt2,https://tumi.scene7.com/is/image/Tumi/150135T522_alt4,https://tumi.scene7.com/is/image/Tumi/150135T522_alt5,https://tumi.scene7.com/is/image/Tumi/150135T522_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150135T522_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/montana-backpack-01501352693/",
+                "color": "Black/Gold",
+                "final_price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501352693_alt1,https://tumi.scene7.com/is/image/Tumi/1501352693_alt2,https://tumi.scene7.com/is/image/Tumi/1501352693_alt4,https://tumi.scene7.com/is/image/Tumi/1501352693_alt5,https://tumi.scene7.com/is/image/Tumi/1501352693_alt6,https://tumi.scene7.com/is/image/Tumi/1501352693_alt7",
+                "price_ca": 715,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501352693_sw",
+                "final_price_ca": 715
+              },
+              {
+                "product_url": "/p/montana-backpack-0150135T522/",
+                "color": "Black/Gunmetal",
+                "final_price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150135T522_alt7,https://tumi.scene7.com/is/image/Tumi/150135T522_alt1,https://tumi.scene7.com/is/image/Tumi/150135T522_alt2,https://tumi.scene7.com/is/image/Tumi/150135T522_alt4,https://tumi.scene7.com/is/image/Tumi/150135T522_alt5,https://tumi.scene7.com/is/image/Tumi/150135T522_alt6",
+                "price_ca": 715,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150135T522_sw",
+                "final_price_ca": 715
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/montana-backpack-01501352693/",
+                "color": "Black/Gold",
+                "final_price": 550,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501352693_alt1,https://tumi.scene7.com/is/image/Tumi/1501352693_alt2,https://tumi.scene7.com/is/image/Tumi/1501352693_alt4,https://tumi.scene7.com/is/image/Tumi/1501352693_alt5,https://tumi.scene7.com/is/image/Tumi/1501352693_alt6,https://tumi.scene7.com/is/image/Tumi/1501352693_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501352693_sw",
+                "swatch_sku": "01501352693"
+              },
+              {
+                "product_url": "/p/montana-backpack-0150135T522/",
+                "color": "Black/Gunmetal",
+                "final_price": 550,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150135T522_alt7,https://tumi.scene7.com/is/image/Tumi/150135T522_alt1,https://tumi.scene7.com/is/image/Tumi/150135T522_alt2,https://tumi.scene7.com/is/image/Tumi/150135T522_alt4,https://tumi.scene7.com/is/image/Tumi/150135T522_alt5,https://tumi.scene7.com/is/image/Tumi/150135T522_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150135T522_sw",
+                "swatch_sku": "0150135T522"
+              }
+            ],
+            "category_names": [
+              "New",
+              "15\" Laptop Backpacks",
+              "Black Backpacks",
+              "Travel Backpacks",
+              "New Women&#x27;s Styles",
+              "Nylon",
+              "Voyageur",
+              "Backpacks",
+              "Women&#x27;s Backpacks",
+              "Recycled Fabric",
+              "New Arrivals",
+              "College Backpacks",
+              "Commuter Backpacks",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 715,
+            "stock_USwarehouse": 1774,
+            "stock_CAwarehouse": 1595,
+            "feature": [
+              "Media Pocket",
+              "Expandable",
+              "Monogramable"
+            ],
+            "widthInches": "12.000",
+            "heightInches": "16.000",
+            "star_rating": 4.5,
+            "id": 1842222348,
+            "sku": "01501352693",
+            "lengthInches": "5.500",
+            "product_group": "01501352693",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/1501352693_main",
+            "heightCms": "40.500",
+            "badge_en": "BESTSELLER",
+            "collection": "Voyageur",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/montana-backpack-01501352693/",
+            "final_price_ca": 715,
+            "badge": "BESTSELLER",
+            "widthCms": "30.500",
+            "name": "Montana Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501352693_alt1,https://tumi.scene7.com/is/image/Tumi/1501352693_alt2,https://tumi.scene7.com/is/image/Tumi/1501352693_alt4,https://tumi.scene7.com/is/image/Tumi/1501352693_alt5,https://tumi.scene7.com/is/image/Tumi/1501352693_alt6,https://tumi.scene7.com/is/image/Tumi/1501352693_alt7",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;College Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||Backpacks&gt;Shop By Material&gt;Recycled Fabric||Backpacks&gt;Black Backpacks||Backpacks&gt;Shop By Material&gt;Nylon||New Arrivals||Backpacks&gt;Shop By Purpose&gt;Commuter Backpacks||Collections&gt;Collections&gt;Voyageur||New&gt;New Women&#x27;s Styles||New||Backpacks&gt;Shop By Laptop Size&gt;15\" Laptop Backpacks||Backpacks&gt;Shop By Style&gt;Women&#x27;s Backpacks||Backpacks",
+            "final_price": "550.00",
+            "price": "550.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "true",
+            "collection_url": "/c/voyageur/",
+            "swatch_list": [
+              {
+                "product_url": "/p/montana-backpack-01501352693/",
+                "color": "Black/Gold",
+                "final_price": 550,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501352693_alt1,https://tumi.scene7.com/is/image/Tumi/1501352693_alt2,https://tumi.scene7.com/is/image/Tumi/1501352693_alt4,https://tumi.scene7.com/is/image/Tumi/1501352693_alt5,https://tumi.scene7.com/is/image/Tumi/1501352693_alt6,https://tumi.scene7.com/is/image/Tumi/1501352693_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501352693_sw"
+              },
+              {
+                "product_url": "/p/montana-backpack-0150135T522/",
+                "color": "Black/Gunmetal",
+                "final_price": 550,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150135T522_alt7,https://tumi.scene7.com/is/image/Tumi/150135T522_alt1,https://tumi.scene7.com/is/image/Tumi/150135T522_alt2,https://tumi.scene7.com/is/image/Tumi/150135T522_alt4,https://tumi.scene7.com/is/image/Tumi/150135T522_alt5,https://tumi.scene7.com/is/image/Tumi/150135T522_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150135T522_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/montana-backpack-01501352693/",
+                "color": "Black/Gold",
+                "final_price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501352693_alt1,https://tumi.scene7.com/is/image/Tumi/1501352693_alt2,https://tumi.scene7.com/is/image/Tumi/1501352693_alt4,https://tumi.scene7.com/is/image/Tumi/1501352693_alt5,https://tumi.scene7.com/is/image/Tumi/1501352693_alt6,https://tumi.scene7.com/is/image/Tumi/1501352693_alt7",
+                "price_ca": 715,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501352693_sw",
+                "final_price_ca": 715
+              },
+              {
+                "product_url": "/p/montana-backpack-0150135T522/",
+                "color": "Black/Gunmetal",
+                "final_price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150135T522_alt7,https://tumi.scene7.com/is/image/Tumi/150135T522_alt1,https://tumi.scene7.com/is/image/Tumi/150135T522_alt2,https://tumi.scene7.com/is/image/Tumi/150135T522_alt4,https://tumi.scene7.com/is/image/Tumi/150135T522_alt5,https://tumi.scene7.com/is/image/Tumi/150135T522_alt6",
+                "price_ca": 715,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150135T522_sw",
+                "final_price_ca": 715
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/montana-backpack-0150135T522/",
+                "color": "Black/Gunmetal",
+                "final_price": 550,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150135T522_alt7,https://tumi.scene7.com/is/image/Tumi/150135T522_alt1,https://tumi.scene7.com/is/image/Tumi/150135T522_alt2,https://tumi.scene7.com/is/image/Tumi/150135T522_alt4,https://tumi.scene7.com/is/image/Tumi/150135T522_alt5,https://tumi.scene7.com/is/image/Tumi/150135T522_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150135T522_sw",
+                "swatch_sku": "0150135T522"
+              },
+              {
+                "product_url": "/p/montana-backpack-01501352693/",
+                "color": "Black/Gold",
+                "final_price": 550,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501352693_alt1,https://tumi.scene7.com/is/image/Tumi/1501352693_alt2,https://tumi.scene7.com/is/image/Tumi/1501352693_alt4,https://tumi.scene7.com/is/image/Tumi/1501352693_alt5,https://tumi.scene7.com/is/image/Tumi/1501352693_alt6,https://tumi.scene7.com/is/image/Tumi/1501352693_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501352693_sw",
+                "swatch_sku": "01501352693"
+              }
+            ],
+            "category_names": [
+              "New",
+              "15\" Laptop Backpacks",
+              "Gifts For Her",
+              "Black Backpacks",
+              "Travel Backpacks",
+              "New Women&#x27;s Styles",
+              "Nylon",
+              "Women&#x27;s Best Sellers",
+              "Backpacks",
+              "Voyageur",
+              "Women&#x27;s Backpacks",
+              "Recycled Fabric",
+              "New Arrivals",
+              "College Backpacks",
+              "Valentine&#x27;s Day Gifts",
+              "Commuter Backpacks",
+              "Carry On Backpack",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 715,
+            "stock_USwarehouse": 1300,
+            "stock_CAwarehouse": 1156,
+            "feature": [
+              "Media Pocket",
+              "Expandable",
+              "Monogramable"
+            ],
+            "widthInches": "12.000",
+            "heightInches": "16.000",
+            "star_rating": 4.5,
+            "id": 2026194378,
+            "sku": "0150135T522",
+            "lengthInches": "5.500",
+            "product_group": "0150135T522",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/150135T522_main",
+            "heightCms": "40.500",
+            "badge_en": "BESTSELLER",
+            "collection": "Voyageur",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/montana-backpack-0150135T522/",
+            "final_price_ca": 715,
+            "badge": "BESTSELLER",
+            "widthCms": "30.500",
+            "name": "Montana Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150135T522_alt7,https://tumi.scene7.com/is/image/Tumi/150135T522_alt1,https://tumi.scene7.com/is/image/Tumi/150135T522_alt2,https://tumi.scene7.com/is/image/Tumi/150135T522_alt4,https://tumi.scene7.com/is/image/Tumi/150135T522_alt5,https://tumi.scene7.com/is/image/Tumi/150135T522_alt6",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;College Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||Backpacks&gt;Shop By Style&gt;Women&#x27;s Backpacks||Backpacks&gt;Shop By Material&gt;Recycled Fabric||Backpacks&gt;Shop By Material&gt;Nylon||Gifts&gt;Gifts For Her||New Arrivals||Backpacks&gt;Black Backpacks||Backpacks&gt;Shop By Purpose&gt;Commuter Backpacks||Collections&gt;Collections&gt;Voyageur||New&gt;New Women&#x27;s Styles||Backpacks&gt;Carry On Backpack||Backpacks&gt;Shop By Laptop Size&gt;15\" Laptop Backpacks||New||New&gt;Women&#x27;s Best Sellers||New&gt;Valentine&#x27;s Day Gifts||Backpacks",
+            "final_price": "550.00",
+            "price": "550.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "true",
+            "collection_url": "/c/voyageur/",
+            "swatch_list": [
+              {
+                "product_url": "/p/dasha-backpack-01501411041/",
+                "color": "Black",
+                "final_price": 550,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501411041_alt1,https://tumi.scene7.com/is/image/Tumi/1501411041_alt2,https://tumi.scene7.com/is/image/Tumi/1501411041_alt3",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501411041_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/dasha-backpack-01501411041/",
+                "color": "Black",
+                "final_price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501411041_alt1,https://tumi.scene7.com/is/image/Tumi/1501411041_alt2,https://tumi.scene7.com/is/image/Tumi/1501411041_alt3",
+                "price_ca": 715,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501411041_sw",
+                "final_price_ca": 715
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/dasha-backpack-01501411041/",
+                "color": "Black",
+                "final_price": 550,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501411041_alt1,https://tumi.scene7.com/is/image/Tumi/1501411041_alt2,https://tumi.scene7.com/is/image/Tumi/1501411041_alt3",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501411041_sw",
+                "swatch_sku": "01501411041"
+              }
+            ],
+            "category_names": [
+              "New",
+              "Gifts For Her",
+              "Black Backpacks",
+              "Travel Backpacks",
+              "New Women&#x27;s Styles",
+              "Mother&#x27;s Day Gifts",
+              "Voyageur",
+              "Backpacks",
+              "Compact Backpacks",
+              "Women&#x27;s Backpacks",
+              "New Arrivals",
+              "Leather Backpacks",
+              "Valentine&#x27;s Day Gifts",
+              "Online Exclusives",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 715,
+            "stock_USwarehouse": 157,
+            "stock_CAwarehouse": 153,
+            "feature": [
+              "Monogramable"
+            ],
+            "widthInches": "9.000",
+            "heightInches": "11.750",
+            "star_rating": 0,
+            "id": 1199454602,
+            "sku": "01501411041",
+            "lengthInches": "4.500",
+            "product_group": "01501411041",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/1501411041_main",
+            "heightCms": "30.000",
+            "badge_en": "ONLINE EXCLUSIVE",
+            "collection": "Voyageur",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/dasha-backpack-01501411041/",
+            "final_price_ca": 715,
+            "badge": "ONLINE EXCLUSIVE",
+            "widthCms": "23.000",
+            "name": "Dasha Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501411041_alt1,https://tumi.scene7.com/is/image/Tumi/1501411041_alt2,https://tumi.scene7.com/is/image/Tumi/1501411041_alt3",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||Backpacks&gt;Black Backpacks||New Arrivals||Gifts&gt;Gifts For Her||Backpacks&gt;Shop By Purpose&gt;Compact Backpacks||Backpacks&gt;Shop By Material&gt;Leather Backpacks||Collections&gt;Collections&gt;Voyageur||New&gt;New Women&#x27;s Styles||New&gt;Online Exclusives||New||Backpacks&gt;Shop By Style&gt;Women&#x27;s Backpacks||Gifts&gt;Mother&#x27;s Day Gifts||Backpacks||New&gt;Valentine&#x27;s Day Gifts",
+            "final_price": "550.00",
+            "price": "550.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "true",
+            "collection_url": "/c/mclaren/",
+            "swatch_list": [
+              {
+                "product_url": "/p/paddock-backpack-01502151164/",
+                "color": "Carbon",
+                "final_price": 1995,
+                "price": 1995,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502151164_alt1,https://tumi.scene7.com/is/image/Tumi/1502151164_alt2,https://tumi.scene7.com/is/image/Tumi/1502151164_alt3,https://tumi.scene7.com/is/image/Tumi/1502151164_alt4,https://tumi.scene7.com/is/image/Tumi/1502151164_alt5,https://tumi.scene7.com/is/image/Tumi/1502151164_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1502151164_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/paddock-backpack-01502151164/",
+                "color": "Carbon",
+                "final_price": 1995,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502151164_alt1,https://tumi.scene7.com/is/image/Tumi/1502151164_alt2,https://tumi.scene7.com/is/image/Tumi/1502151164_alt3,https://tumi.scene7.com/is/image/Tumi/1502151164_alt4,https://tumi.scene7.com/is/image/Tumi/1502151164_alt5,https://tumi.scene7.com/is/image/Tumi/1502151164_alt6",
+                "price_ca": 2595,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1502151164_sw",
+                "final_price_ca": 2595
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/paddock-backpack-01502151164/",
+                "color": "Carbon",
+                "final_price": 1995,
+                "price": 1995,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502151164_alt1,https://tumi.scene7.com/is/image/Tumi/1502151164_alt2,https://tumi.scene7.com/is/image/Tumi/1502151164_alt3,https://tumi.scene7.com/is/image/Tumi/1502151164_alt4,https://tumi.scene7.com/is/image/Tumi/1502151164_alt5,https://tumi.scene7.com/is/image/Tumi/1502151164_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1502151164_sw",
+                "swatch_sku": "01502151164"
+              }
+            ],
+            "category_names": [
+              "Travel Backpacks",
+              "Backpacks",
+              "Men&#x27;s Backpacks",
+              "New Arrivals",
+              "TUMI | McLaren",
+              "15\" Laptop Backpacks",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 2595,
+            "stock_USwarehouse": 294,
+            "stock_CAwarehouse": 269,
+            "feature": [
+              "USB Port",
+              "Monogramable"
+            ],
+            "widthInches": "12.000",
+            "heightInches": "18.000",
+            "star_rating": 0,
+            "id": 1898548343,
+            "sku": "01502151164",
+            "lengthInches": "7.750",
+            "product_group": "01502151164",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/1502151164_main",
+            "heightCms": "45.500",
+            "badge_en": "new",
+            "collection": "TUMI I McLaren",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/paddock-backpack-01502151164/",
+            "final_price_ca": 2595,
+            "badge": "new",
+            "widthCms": "30.500",
+            "name": "Paddock Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502151164_alt1,https://tumi.scene7.com/is/image/Tumi/1502151164_alt2,https://tumi.scene7.com/is/image/Tumi/1502151164_alt3,https://tumi.scene7.com/is/image/Tumi/1502151164_alt4,https://tumi.scene7.com/is/image/Tumi/1502151164_alt5,https://tumi.scene7.com/is/image/Tumi/1502151164_alt6",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||New Arrivals||Backpacks&gt;Shop By Style&gt;Men&#x27;s Backpacks||Backpacks&gt;Shop By Laptop Size&gt;15\" Laptop Backpacks||Collections&gt;Collections&gt;TUMI | McLaren||Backpacks",
+            "final_price": "1995.00",
+            "price": "1995.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "true",
+            "collection_url": "/c/harrison/",
+            "swatch_list": [
+              {
+                "product_url": "/p/warren-backpack-01502051221/",
+                "color": "Cognac",
+                "final_price": 795,
+                "price": 795,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502051221_alt1,https://tumi.scene7.com/is/image/Tumi/1502051221_alt2,https://tumi.scene7.com/is/image/Tumi/1502051221_alt3,https://tumi.scene7.com/is/image/Tumi/1502051221_alt5,https://tumi.scene7.com/is/image/Tumi/1502051221_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1502051221_sw"
+              },
+              {
+                "product_url": "/p/warren-backpack-01305551041/",
+                "color": "Black Leather",
+                "final_price": 795,
+                "price": 795,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1305551041_alt1,https://tumi.scene7.com/is/image/Tumi/1305551041_alt2,https://tumi.scene7.com/is/image/Tumi/1305551041_alt3,https://tumi.scene7.com/is/image/Tumi/1305551041_alt5,https://tumi.scene7.com/is/image/Tumi/1305551041_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1305551041_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/warren-backpack-01502051221/",
+                "color": "Cognac",
+                "final_price": 795,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502051221_alt1,https://tumi.scene7.com/is/image/Tumi/1502051221_alt2,https://tumi.scene7.com/is/image/Tumi/1502051221_alt3,https://tumi.scene7.com/is/image/Tumi/1502051221_alt5,https://tumi.scene7.com/is/image/Tumi/1502051221_alt7",
+                "price_ca": 1035,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1502051221_sw",
+                "final_price_ca": 1035
+              },
+              {
+                "product_url": "/p/warren-backpack-01305551041/",
+                "color": "Black Leather",
+                "final_price": 795,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1305551041_alt1,https://tumi.scene7.com/is/image/Tumi/1305551041_alt2,https://tumi.scene7.com/is/image/Tumi/1305551041_alt3,https://tumi.scene7.com/is/image/Tumi/1305551041_alt5,https://tumi.scene7.com/is/image/Tumi/1305551041_alt7",
+                "price_ca": 1035,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1305551041_sw",
+                "final_price_ca": 1035
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/warren-backpack-01502051221/",
+                "color": "Cognac",
+                "final_price": 795,
+                "price": 795,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502051221_alt1,https://tumi.scene7.com/is/image/Tumi/1502051221_alt2,https://tumi.scene7.com/is/image/Tumi/1502051221_alt3,https://tumi.scene7.com/is/image/Tumi/1502051221_alt5,https://tumi.scene7.com/is/image/Tumi/1502051221_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1502051221_sw",
+                "swatch_sku": "01502051221"
+              },
+              {
+                "product_url": "/p/warren-backpack-01305551041/",
+                "color": "Black Leather",
+                "final_price": 795,
+                "price": 795,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1305551041_alt1,https://tumi.scene7.com/is/image/Tumi/1305551041_alt2,https://tumi.scene7.com/is/image/Tumi/1305551041_alt3,https://tumi.scene7.com/is/image/Tumi/1305551041_alt5,https://tumi.scene7.com/is/image/Tumi/1305551041_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1305551041_sw",
+                "swatch_sku": "01305551041"
+              }
+            ],
+            "category_names": [
+              "New Men&#x27;s Styles",
+              "New",
+              "Travel Backpacks",
+              "Harrison",
+              "Backpacks",
+              "Men&#x27;s Backpacks",
+              "Brown Backpacks",
+              "New Arrivals",
+              "Leather Backpacks",
+              "15\" Laptop Backpacks",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 1035,
+            "stock_USwarehouse": 394,
+            "stock_CAwarehouse": 301,
+            "feature": [
+              "Monogramable"
+            ],
+            "widthInches": "12.000",
+            "heightInches": "17.000",
+            "star_rating": 4.5,
+            "id": 994321309,
+            "sku": "01502051221",
+            "lengthInches": "5.000",
+            "product_group": "01502051221",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/1502051221_main",
+            "heightCms": "43.000",
+            "badge_en": "new",
+            "collection": "Harrison",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/warren-backpack-01502051221/",
+            "final_price_ca": 1035,
+            "badge": "new",
+            "widthCms": "30.500",
+            "name": "Warren Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502051221_alt1,https://tumi.scene7.com/is/image/Tumi/1502051221_alt2,https://tumi.scene7.com/is/image/Tumi/1502051221_alt3,https://tumi.scene7.com/is/image/Tumi/1502051221_alt5,https://tumi.scene7.com/is/image/Tumi/1502051221_alt7",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||Collections&gt;Collections&gt;Harrison||New Arrivals||Backpacks&gt;Shop By Style&gt;Men&#x27;s Backpacks||Backpacks&gt;Shop By Material&gt;Leather Backpacks||New||New&gt;New Men&#x27;s Styles||Backpacks&gt;Shop By Laptop Size&gt;15\" Laptop Backpacks||Backpacks&gt;Brown Backpacks||Backpacks",
+            "final_price": "795.00",
+            "price": "795.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "true",
+            "collection_url": "/c/alpha-bravo/",
+            "swatch_list": [
+              {
+                "product_url": "/p/renegade-backpack-01466841596/",
+                "color": "Navy",
+                "final_price": 650,
+                "price": 650,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1466841596_alt1,https://tumi.scene7.com/is/image/Tumi/1466841596_alt2,https://tumi.scene7.com/is/image/Tumi/1466841596_alt3,https://tumi.scene7.com/is/image/Tumi/1466841596_alt4,https://tumi.scene7.com/is/image/Tumi/1466841596_alt5,https://tumi.scene7.com/is/image/Tumi/1466841596_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1466841596_sw"
+              },
+              {
+                "product_url": "/p/renegade-backpack-01466841041/",
+                "color": "Black",
+                "final_price": 650,
+                "price": 650,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1466841041_alt7,https://tumi.scene7.com/is/image/Tumi/1466841041_alt1,https://tumi.scene7.com/is/image/Tumi/1466841041_alt2,https://tumi.scene7.com/is/image/Tumi/1466841041_alt3,https://tumi.scene7.com/is/image/Tumi/1466841041_alt4,https://tumi.scene7.com/is/image/Tumi/1466841041_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1466841041_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/renegade-backpack-01466841596/",
+                "color": "Navy",
+                "final_price": 650,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1466841596_alt1,https://tumi.scene7.com/is/image/Tumi/1466841596_alt2,https://tumi.scene7.com/is/image/Tumi/1466841596_alt3,https://tumi.scene7.com/is/image/Tumi/1466841596_alt4,https://tumi.scene7.com/is/image/Tumi/1466841596_alt5,https://tumi.scene7.com/is/image/Tumi/1466841596_alt7",
+                "price_ca": 845,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1466841596_sw",
+                "final_price_ca": 845
+              },
+              {
+                "product_url": "/p/renegade-backpack-01466841041/",
+                "color": "Black",
+                "final_price": 650,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1466841041_alt7,https://tumi.scene7.com/is/image/Tumi/1466841041_alt1,https://tumi.scene7.com/is/image/Tumi/1466841041_alt2,https://tumi.scene7.com/is/image/Tumi/1466841041_alt3,https://tumi.scene7.com/is/image/Tumi/1466841041_alt4,https://tumi.scene7.com/is/image/Tumi/1466841041_alt5",
+                "price_ca": 845,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1466841041_sw",
+                "final_price_ca": 845
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/renegade-backpack-01466841596/",
+                "color": "Navy",
+                "final_price": 650,
+                "price": 650,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1466841596_alt1,https://tumi.scene7.com/is/image/Tumi/1466841596_alt2,https://tumi.scene7.com/is/image/Tumi/1466841596_alt3,https://tumi.scene7.com/is/image/Tumi/1466841596_alt4,https://tumi.scene7.com/is/image/Tumi/1466841596_alt5,https://tumi.scene7.com/is/image/Tumi/1466841596_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1466841596_sw",
+                "swatch_sku": "01466841596"
+              },
+              {
+                "product_url": "/p/renegade-backpack-01466841041/",
+                "color": "Black",
+                "final_price": 650,
+                "price": 650,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1466841041_alt7,https://tumi.scene7.com/is/image/Tumi/1466841041_alt1,https://tumi.scene7.com/is/image/Tumi/1466841041_alt2,https://tumi.scene7.com/is/image/Tumi/1466841041_alt3,https://tumi.scene7.com/is/image/Tumi/1466841041_alt4,https://tumi.scene7.com/is/image/Tumi/1466841041_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1466841041_sw",
+                "swatch_sku": "01466841041"
+              }
+            ],
+            "category_names": [
+              "New Men&#x27;s Styles",
+              "New",
+              "Travel Backpacks",
+              "Active Backpacks",
+              "Backpacks",
+              "Men&#x27;s Backpacks",
+              "Recycled Fabric",
+              "New Arrivals",
+              "Ballistic Nylon Backpacks",
+              "Commuter Backpacks",
+              "Alpha Bravo",
+              "Blue Backpacks",
+              "Large Backpacks",
+              "16\" Laptop Backpacks or Larger",
+              "Carry On Backpack",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 845,
+            "stock_USwarehouse": 582,
+            "stock_CAwarehouse": 518,
+            "feature": [
+              "Media Pocket",
+              "Monogramable"
+            ],
+            "widthInches": "12.750",
+            "heightInches": "18.500",
+            "star_rating": 5,
+            "id": 1717977471,
+            "sku": "01466841596",
+            "lengthInches": "7.000",
+            "product_group": "01466841596",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/1466841596_main",
+            "heightCms": "47.000",
+            "badge_en": "new",
+            "collection": "Alpha Bravo",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/renegade-backpack-01466841596/",
+            "final_price_ca": 845,
+            "badge": "new",
+            "widthCms": "32.500",
+            "name": "Renegade Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1466841596_alt1,https://tumi.scene7.com/is/image/Tumi/1466841596_alt2,https://tumi.scene7.com/is/image/Tumi/1466841596_alt3,https://tumi.scene7.com/is/image/Tumi/1466841596_alt4,https://tumi.scene7.com/is/image/Tumi/1466841596_alt5,https://tumi.scene7.com/is/image/Tumi/1466841596_alt7",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;Shop By Purpose&gt;Active Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||Backpacks&gt;Shop By Material&gt;Recycled Fabric||New Arrivals||Backpacks&gt;Shop By Style&gt;Men&#x27;s Backpacks||Backpacks&gt;Blue Backpacks||Backpacks&gt;Shop By Purpose&gt;Commuter Backpacks||Backpacks&gt;Ballistic Nylon Backpacks||Backpacks&gt;Carry On Backpack||Backpacks&gt;Large Backpacks||New&gt;New Men&#x27;s Styles||New||Backpacks&gt;Shop By Laptop Size&gt;16\" Laptop Backpacks or Larger||Collections&gt;Collections&gt;Alpha Bravo||Backpacks",
+            "final_price": "650.00",
+            "price": "650.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "true",
+            "collection_url": "/c/alpha-bravo/",
+            "swatch_list": [
+              {
+                "product_url": "/p/expedition-flap-backpack-0146692A052/",
+                "color": "Midnight Navy/Khaki",
+                "final_price": 850,
+                "price": 850,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146692A052_alt1,https://tumi.scene7.com/is/image/Tumi/146692A052_alt2,https://tumi.scene7.com/is/image/Tumi/146692A052_alt3,https://tumi.scene7.com/is/image/Tumi/146692A052_alt4,https://tumi.scene7.com/is/image/Tumi/146692A052_alt5,https://tumi.scene7.com/is/image/Tumi/146692A052_alt6,https://tumi.scene7.com/is/image/Tumi/146692A052_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146692A052_sw"
+              },
+              {
+                "product_url": "/p/expedition-flap-backpack-01501853487/",
+                "color": "Steel",
+                "final_price": 850,
+                "price": 850,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501853487_alt1,https://tumi.scene7.com/is/image/Tumi/1501853487_alt2,https://tumi.scene7.com/is/image/Tumi/1501853487_alt3,https://tumi.scene7.com/is/image/Tumi/1501853487_alt4,https://tumi.scene7.com/is/image/Tumi/1501853487_alt5,https://tumi.scene7.com/is/image/Tumi/1501853487_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501853487_sw"
+              },
+              {
+                "product_url": "/p/expedition-flap-backpack-01466911041/",
+                "color": "Black",
+                "final_price": 795,
+                "price": 795,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1466911041_alt7,https://tumi.scene7.com/is/image/Tumi/1466911041_alt1,https://tumi.scene7.com/is/image/Tumi/1466911041_alt2,https://tumi.scene7.com/is/image/Tumi/1466911041_alt3,https://tumi.scene7.com/is/image/Tumi/1466911041_alt4,https://tumi.scene7.com/is/image/Tumi/1466911041_alt5,https://tumi.scene7.com/is/image/Tumi/1466911041_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1466911041_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/expedition-flap-backpack-0146692A052/",
+                "color": "Midnight Navy/Khaki",
+                "final_price": 850,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146692A052_alt1,https://tumi.scene7.com/is/image/Tumi/146692A052_alt2,https://tumi.scene7.com/is/image/Tumi/146692A052_alt3,https://tumi.scene7.com/is/image/Tumi/146692A052_alt4,https://tumi.scene7.com/is/image/Tumi/146692A052_alt5,https://tumi.scene7.com/is/image/Tumi/146692A052_alt6,https://tumi.scene7.com/is/image/Tumi/146692A052_alt7",
+                "price_ca": 1105,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146692A052_sw",
+                "final_price_ca": 1105
+              },
+              {
+                "product_url": "/p/expedition-flap-backpack-01501853487/",
+                "color": "Steel",
+                "final_price": 850,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501853487_alt1,https://tumi.scene7.com/is/image/Tumi/1501853487_alt2,https://tumi.scene7.com/is/image/Tumi/1501853487_alt3,https://tumi.scene7.com/is/image/Tumi/1501853487_alt4,https://tumi.scene7.com/is/image/Tumi/1501853487_alt5,https://tumi.scene7.com/is/image/Tumi/1501853487_alt7",
+                "price_ca": 1105,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501853487_sw",
+                "final_price_ca": 1105
+              },
+              {
+                "product_url": "/p/expedition-flap-backpack-01466911041/",
+                "color": "Black",
+                "final_price": 795,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1466911041_alt7,https://tumi.scene7.com/is/image/Tumi/1466911041_alt1,https://tumi.scene7.com/is/image/Tumi/1466911041_alt2,https://tumi.scene7.com/is/image/Tumi/1466911041_alt3,https://tumi.scene7.com/is/image/Tumi/1466911041_alt4,https://tumi.scene7.com/is/image/Tumi/1466911041_alt5,https://tumi.scene7.com/is/image/Tumi/1466911041_alt6",
+                "price_ca": 1035,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1466911041_sw",
+                "final_price_ca": 1035
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/expedition-flap-backpack-01501853487/",
+                "color": "Steel",
+                "final_price": 850,
+                "price": 850,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501853487_alt1,https://tumi.scene7.com/is/image/Tumi/1501853487_alt2,https://tumi.scene7.com/is/image/Tumi/1501853487_alt3,https://tumi.scene7.com/is/image/Tumi/1501853487_alt4,https://tumi.scene7.com/is/image/Tumi/1501853487_alt5,https://tumi.scene7.com/is/image/Tumi/1501853487_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501853487_sw",
+                "swatch_sku": "01501853487"
+              },
+              {
+                "product_url": "/p/expedition-flap-backpack-0146692A052/",
+                "color": "Midnight Navy/Khaki",
+                "final_price": 850,
+                "price": 850,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146692A052_alt1,https://tumi.scene7.com/is/image/Tumi/146692A052_alt2,https://tumi.scene7.com/is/image/Tumi/146692A052_alt3,https://tumi.scene7.com/is/image/Tumi/146692A052_alt4,https://tumi.scene7.com/is/image/Tumi/146692A052_alt5,https://tumi.scene7.com/is/image/Tumi/146692A052_alt6,https://tumi.scene7.com/is/image/Tumi/146692A052_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146692A052_sw",
+                "swatch_sku": "0146692A052"
+              },
+              {
+                "product_url": "/p/expedition-flap-backpack-01466911041/",
+                "color": "Black",
+                "final_price": 795,
+                "price": 795,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1466911041_alt7,https://tumi.scene7.com/is/image/Tumi/1466911041_alt1,https://tumi.scene7.com/is/image/Tumi/1466911041_alt2,https://tumi.scene7.com/is/image/Tumi/1466911041_alt3,https://tumi.scene7.com/is/image/Tumi/1466911041_alt4,https://tumi.scene7.com/is/image/Tumi/1466911041_alt5,https://tumi.scene7.com/is/image/Tumi/1466911041_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1466911041_sw",
+                "swatch_sku": "01466911041"
+              }
+            ],
+            "category_names": [
+              "New Men&#x27;s Styles",
+              "New",
+              "Travel Backpacks",
+              "Grey Backpacks",
+              "Active Backpacks",
+              "Backpacks",
+              "Men&#x27;s Backpacks",
+              "Recycled Fabric",
+              "New Arrivals",
+              "Commuter Backpacks",
+              "Alpha Bravo",
+              "16\" Laptop Backpacks or Larger",
+              "Large Backpacks",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 1105,
+            "stock_USwarehouse": 312,
+            "stock_CAwarehouse": 204,
+            "feature": [
+              "Media Pocket",
+              "Monogramable"
+            ],
+            "widthInches": "12.500",
+            "heightInches": "21.000",
+            "star_rating": 5,
+            "id": 1872459474,
+            "sku": "01501853487",
+            "lengthInches": "7.500",
+            "product_group": "01501853487",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/1501853487_main",
+            "heightCms": "53.500",
+            "badge_en": "new",
+            "collection": "Alpha Bravo",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/expedition-flap-backpack-01501853487/",
+            "final_price_ca": 1105,
+            "badge": "new",
+            "widthCms": "32.000",
+            "name": "Expedition Flap Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501853487_alt1,https://tumi.scene7.com/is/image/Tumi/1501853487_alt2,https://tumi.scene7.com/is/image/Tumi/1501853487_alt3,https://tumi.scene7.com/is/image/Tumi/1501853487_alt4,https://tumi.scene7.com/is/image/Tumi/1501853487_alt5,https://tumi.scene7.com/is/image/Tumi/1501853487_alt7",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;Shop By Purpose&gt;Active Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||Backpacks&gt;Shop By Material&gt;Recycled Fabric||New Arrivals||Backpacks&gt;Shop By Style&gt;Men&#x27;s Backpacks||Backpacks&gt;Shop By Purpose&gt;Commuter Backpacks||Backpacks&gt;Large Backpacks||New&gt;New Men&#x27;s Styles||New||Backpacks&gt;Shop By Laptop Size&gt;16\" Laptop Backpacks or Larger||Collections&gt;Collections&gt;Alpha Bravo||Backpacks&gt;Grey Backpacks||Backpacks",
+            "final_price": "850.00",
+            "price": "850.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "true",
+            "collection_url": "/c/alpha-bravo/",
+            "swatch_list": [
+              {
+                "product_url": "/p/search-backpack-01424801041/",
+                "color": "Black",
+                "final_price": 595,
+                "price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801041_alt7,https://tumi.scene7.com/is/image/Tumi/1424801041_alt1,https://tumi.scene7.com/is/image/Tumi/1424801041_alt2,https://tumi.scene7.com/is/image/Tumi/1424801041_alt3,https://tumi.scene7.com/is/image/Tumi/1424801041_alt4,https://tumi.scene7.com/is/image/Tumi/1424801041_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801041_sw"
+              },
+              {
+                "product_url": "/p/search-backpack-01424802665/",
+                "color": "Grey/Blue",
+                "final_price": 475,
+                "price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424802665_alt1,https://tumi.scene7.com/is/image/Tumi/1424802665_alt2,https://tumi.scene7.com/is/image/Tumi/1424802665_alt3,https://tumi.scene7.com/is/image/Tumi/1424802665_alt4,https://tumi.scene7.com/is/image/Tumi/1424802665_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424802665_sw"
+              },
+              {
+                "product_url": "/p/search-backpack-0146707A027/",
+                "color": "Desert Red",
+                "final_price": 499,
+                "price": 625,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146707A027_alt1,https://tumi.scene7.com/is/image/Tumi/146707A027_alt2,https://tumi.scene7.com/is/image/Tumi/146707A027_alt3,https://tumi.scene7.com/is/image/Tumi/146707A027_alt4,https://tumi.scene7.com/is/image/Tumi/146707A027_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146707A027_sw"
+              },
+              {
+                "product_url": "/p/search-backpack-0148605A213/",
+                "color": "Grey Dynamic Stitch",
+                "final_price": 499,
+                "price": 625,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/148605A213_alt1,https://tumi.scene7.com/is/image/Tumi/148605A213_alt2,https://tumi.scene7.com/is/image/Tumi/148605A213_alt3,https://tumi.scene7.com/is/image/Tumi/148605A213_alt4,https://tumi.scene7.com/is/image/Tumi/148605A213_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/148605A213_sw"
+              },
+              {
+                "product_url": "/p/search-backpack-0150189A320/",
+                "color": "Royal Blue Ombre",
+                "final_price": 650,
+                "price": 650,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150189A320_alt1,https://tumi.scene7.com/is/image/Tumi/150189A320_alt2,https://tumi.scene7.com/is/image/Tumi/150189A320_alt3,https://tumi.scene7.com/is/image/Tumi/150189A320_alt4,https://tumi.scene7.com/is/image/Tumi/150189A320_alt5,https://tumi.scene7.com/is/image/Tumi/150189A320_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150189A320_sw"
+              },
+              {
+                "product_url": "/p/search-backpack-01424801174/",
+                "color": "Charcoal",
+                "final_price": 595,
+                "price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801174_alt1,https://tumi.scene7.com/is/image/Tumi/1424801174_alt2,https://tumi.scene7.com/is/image/Tumi/1424801174_alt3,https://tumi.scene7.com/is/image/Tumi/1424801174_alt4,https://tumi.scene7.com/is/image/Tumi/1424801174_alt5,https://tumi.scene7.com/is/image/Tumi/1424801174_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801174_sw"
+              },
+              {
+                "product_url": "/p/search-backpack-01424801596/",
+                "color": "Navy",
+                "final_price": 595,
+                "price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801596_alt1,https://tumi.scene7.com/is/image/Tumi/1424801596_alt2,https://tumi.scene7.com/is/image/Tumi/1424801596_alt3,https://tumi.scene7.com/is/image/Tumi/1424801596_alt4,https://tumi.scene7.com/is/image/Tumi/1424801596_alt5,https://tumi.scene7.com/is/image/Tumi/1424801596_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801596_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/search-backpack-01424801041/",
+                "color": "Black",
+                "final_price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801041_alt7,https://tumi.scene7.com/is/image/Tumi/1424801041_alt1,https://tumi.scene7.com/is/image/Tumi/1424801041_alt2,https://tumi.scene7.com/is/image/Tumi/1424801041_alt3,https://tumi.scene7.com/is/image/Tumi/1424801041_alt4,https://tumi.scene7.com/is/image/Tumi/1424801041_alt5",
+                "price_ca": 775,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801041_sw",
+                "final_price_ca": 775
+              },
+              {
+                "product_url": "/p/search-backpack-0150189A320/",
+                "color": "Royal Blue Ombre",
+                "final_price": 650,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150189A320_alt1,https://tumi.scene7.com/is/image/Tumi/150189A320_alt2,https://tumi.scene7.com/is/image/Tumi/150189A320_alt3,https://tumi.scene7.com/is/image/Tumi/150189A320_alt4,https://tumi.scene7.com/is/image/Tumi/150189A320_alt5,https://tumi.scene7.com/is/image/Tumi/150189A320_alt7",
+                "price_ca": 845,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150189A320_sw",
+                "final_price_ca": 845
+              },
+              {
+                "product_url": "/p/search-backpack-01424801174/",
+                "color": "Charcoal",
+                "final_price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801174_alt1,https://tumi.scene7.com/is/image/Tumi/1424801174_alt2,https://tumi.scene7.com/is/image/Tumi/1424801174_alt3,https://tumi.scene7.com/is/image/Tumi/1424801174_alt4,https://tumi.scene7.com/is/image/Tumi/1424801174_alt5,https://tumi.scene7.com/is/image/Tumi/1424801174_alt7",
+                "price_ca": 775,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801174_sw",
+                "final_price_ca": 775
+              },
+              {
+                "product_url": "/p/search-backpack-01424801596/",
+                "color": "Navy",
+                "final_price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801596_alt1,https://tumi.scene7.com/is/image/Tumi/1424801596_alt2,https://tumi.scene7.com/is/image/Tumi/1424801596_alt3,https://tumi.scene7.com/is/image/Tumi/1424801596_alt4,https://tumi.scene7.com/is/image/Tumi/1424801596_alt5,https://tumi.scene7.com/is/image/Tumi/1424801596_alt7",
+                "price_ca": 775,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801596_sw",
+                "final_price_ca": 775
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/search-backpack-0150189A320/",
+                "color": "Royal Blue Ombre",
+                "final_price": 650,
+                "price": 650,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150189A320_alt1,https://tumi.scene7.com/is/image/Tumi/150189A320_alt2,https://tumi.scene7.com/is/image/Tumi/150189A320_alt3,https://tumi.scene7.com/is/image/Tumi/150189A320_alt4,https://tumi.scene7.com/is/image/Tumi/150189A320_alt5,https://tumi.scene7.com/is/image/Tumi/150189A320_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150189A320_sw",
+                "swatch_sku": "0150189A320"
+              },
+              {
+                "product_url": "/p/search-backpack-01424801041/",
+                "color": "Black",
+                "final_price": 595,
+                "price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801041_alt7,https://tumi.scene7.com/is/image/Tumi/1424801041_alt1,https://tumi.scene7.com/is/image/Tumi/1424801041_alt2,https://tumi.scene7.com/is/image/Tumi/1424801041_alt3,https://tumi.scene7.com/is/image/Tumi/1424801041_alt4,https://tumi.scene7.com/is/image/Tumi/1424801041_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801041_sw",
+                "swatch_sku": "01424801041"
+              },
+              {
+                "product_url": "/p/search-backpack-01424801174/",
+                "color": "Charcoal",
+                "final_price": 595,
+                "price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801174_alt1,https://tumi.scene7.com/is/image/Tumi/1424801174_alt2,https://tumi.scene7.com/is/image/Tumi/1424801174_alt3,https://tumi.scene7.com/is/image/Tumi/1424801174_alt4,https://tumi.scene7.com/is/image/Tumi/1424801174_alt5,https://tumi.scene7.com/is/image/Tumi/1424801174_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801174_sw",
+                "swatch_sku": "01424801174"
+              },
+              {
+                "product_url": "/p/search-backpack-01424801596/",
+                "color": "Navy",
+                "final_price": 595,
+                "price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801596_alt1,https://tumi.scene7.com/is/image/Tumi/1424801596_alt2,https://tumi.scene7.com/is/image/Tumi/1424801596_alt3,https://tumi.scene7.com/is/image/Tumi/1424801596_alt4,https://tumi.scene7.com/is/image/Tumi/1424801596_alt5,https://tumi.scene7.com/is/image/Tumi/1424801596_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801596_sw",
+                "swatch_sku": "01424801596"
+              }
+            ],
+            "category_names": [
+              "New Men&#x27;s Styles",
+              "New",
+              "15\" Laptop Backpacks",
+              "Travel Backpacks",
+              "Acid Green &amp; Ombre Blue",
+              "Active Backpacks",
+              "Backpacks",
+              "Men&#x27;s Backpacks",
+              "Recycled Fabric",
+              "New Arrivals",
+              "Commuter Backpacks",
+              "Alpha Bravo",
+              "Blue Backpacks",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 845,
+            "stock_USwarehouse": 829,
+            "stock_CAwarehouse": 793,
+            "feature": [
+              "Media Pocket",
+              "Monogramable"
+            ],
+            "widthInches": "14.000",
+            "heightInches": "17.000",
+            "star_rating": 5,
+            "id": 1366338422,
+            "sku": "0150189A320",
+            "lengthInches": "8.250",
+            "product_group": "0150189A320",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/150189A320_main",
+            "heightCms": "43.000",
+            "badge_en": "RECYCLED MATERIALS",
+            "collection": "Alpha Bravo",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/search-backpack-0150189A320/",
+            "final_price_ca": 845,
+            "badge": "RECYCLED MATERIALS",
+            "widthCms": "35.500",
+            "name": "Search Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150189A320_alt1,https://tumi.scene7.com/is/image/Tumi/150189A320_alt2,https://tumi.scene7.com/is/image/Tumi/150189A320_alt3,https://tumi.scene7.com/is/image/Tumi/150189A320_alt4,https://tumi.scene7.com/is/image/Tumi/150189A320_alt5,https://tumi.scene7.com/is/image/Tumi/150189A320_alt7",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;Shop By Purpose&gt;Active Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||Backpacks&gt;Shop By Material&gt;Recycled Fabric||New Arrivals||New&gt;Acid Green &amp; Ombre Blue||Backpacks&gt;Shop By Style&gt;Men&#x27;s Backpacks||Backpacks&gt;Shop By Purpose&gt;Commuter Backpacks||Backpacks&gt;Blue Backpacks||New&gt;New Men&#x27;s Styles||Backpacks&gt;Shop By Laptop Size&gt;15\" Laptop Backpacks||New||Collections&gt;Collections&gt;Alpha Bravo||Backpacks",
+            "final_price": "650.00",
+            "price": "650.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "true",
+            "collection_url": "/c/alpha-bravo/",
+            "swatch_list": [
+              {
+                "product_url": "/p/navigation-backpack-01424791596/",
+                "color": "Navy",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791596_alt1,https://tumi.scene7.com/is/image/Tumi/1424791596_alt2,https://tumi.scene7.com/is/image/Tumi/1424791596_alt3,https://tumi.scene7.com/is/image/Tumi/1424791596_alt4,https://tumi.scene7.com/is/image/Tumi/1424791596_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791596_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424792665/",
+                "color": "Grey/Blue",
+                "final_price": 419,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424792665_alt1,https://tumi.scene7.com/is/image/Tumi/1424792665_alt2,https://tumi.scene7.com/is/image/Tumi/1424792665_alt3,https://tumi.scene7.com/is/image/Tumi/1424792665_alt4,https://tumi.scene7.com/is/image/Tumi/1424792665_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424792665_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-0142492A027/",
+                "color": "Desert Red",
+                "final_price": 439,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/142492A027_alt1,https://tumi.scene7.com/is/image/Tumi/142492A027_alt2,https://tumi.scene7.com/is/image/Tumi/142492A027_alt3,https://tumi.scene7.com/is/image/Tumi/142492A027_alt4,https://tumi.scene7.com/is/image/Tumi/142492A027_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/142492A027_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-0142492A052/",
+                "color": "Midnight Navy/Khaki",
+                "final_price": 550,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/142492A052_alt1,https://tumi.scene7.com/is/image/Tumi/142492A052_alt2,https://tumi.scene7.com/is/image/Tumi/142492A052_alt3,https://tumi.scene7.com/is/image/Tumi/142492A052_alt4,https://tumi.scene7.com/is/image/Tumi/142492A052_alt5,https://tumi.scene7.com/is/image/Tumi/142492A052_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/142492A052_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-0148604A213/",
+                "color": "Grey Dynamic Stitch",
+                "final_price": 439,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/148604A213_alt1,https://tumi.scene7.com/is/image/Tumi/148604A213_alt2,https://tumi.scene7.com/is/image/Tumi/148604A213_alt3,https://tumi.scene7.com/is/image/Tumi/148604A213_alt4,https://tumi.scene7.com/is/image/Tumi/148604A213_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/148604A213_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-0150187A320/",
+                "color": "Royal Blue Ombre",
+                "final_price": 575,
+                "price": 575,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150187A320_alt1,https://tumi.scene7.com/is/image/Tumi/150187A320_alt2,https://tumi.scene7.com/is/image/Tumi/150187A320_alt3,https://tumi.scene7.com/is/image/Tumi/150187A320_alt4,https://tumi.scene7.com/is/image/Tumi/150187A320_alt5,https://tumi.scene7.com/is/image/Tumi/150187A320_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150187A320_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424791174/",
+                "color": "Charcoal",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791174_alt1,https://tumi.scene7.com/is/image/Tumi/1424791174_alt2,https://tumi.scene7.com/is/image/Tumi/1424791174_alt3,https://tumi.scene7.com/is/image/Tumi/1424791174_alt4,https://tumi.scene7.com/is/image/Tumi/1424791174_alt5,https://tumi.scene7.com/is/image/Tumi/1424791174_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791174_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-0150451A309/",
+                "color": "Dragon Print",
+                "final_price": 575,
+                "price": 575,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150451A309_alt1,https://tumi.scene7.com/is/image/Tumi/150451A309_alt2,https://tumi.scene7.com/is/image/Tumi/150451A309_alt3,https://tumi.scene7.com/is/image/Tumi/150451A309_alt4,https://tumi.scene7.com/is/image/Tumi/150451A309_alt5,https://tumi.scene7.com/is/image/Tumi/150451A309_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150451A309_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-01504583487/",
+                "color": "Steel",
+                "final_price": 575,
+                "price": 575,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1504583487_alt1,https://tumi.scene7.com/is/image/Tumi/1504583487_alt2,https://tumi.scene7.com/is/image/Tumi/1504583487_alt3,https://tumi.scene7.com/is/image/Tumi/1504583487_alt4,https://tumi.scene7.com/is/image/Tumi/1504583487_alt5,https://tumi.scene7.com/is/image/Tumi/1504583487_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1504583487_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424791041/",
+                "color": "Black",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791041_alt7,https://tumi.scene7.com/is/image/Tumi/1424791041_alt1,https://tumi.scene7.com/is/image/Tumi/1424791041_alt2,https://tumi.scene7.com/is/image/Tumi/1424791041_alt3,https://tumi.scene7.com/is/image/Tumi/1424791041_alt4,https://tumi.scene7.com/is/image/Tumi/1424791041_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791041_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/navigation-backpack-01424791596/",
+                "color": "Navy",
+                "final_price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791596_alt1,https://tumi.scene7.com/is/image/Tumi/1424791596_alt2,https://tumi.scene7.com/is/image/Tumi/1424791596_alt3,https://tumi.scene7.com/is/image/Tumi/1424791596_alt4,https://tumi.scene7.com/is/image/Tumi/1424791596_alt7",
+                "price_ca": 685,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791596_sw",
+                "final_price_ca": 685
+              },
+              {
+                "product_url": "/p/navigation-backpack-0142492A052/",
+                "color": "Midnight Navy/Khaki",
+                "final_price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/142492A052_alt1,https://tumi.scene7.com/is/image/Tumi/142492A052_alt2,https://tumi.scene7.com/is/image/Tumi/142492A052_alt3,https://tumi.scene7.com/is/image/Tumi/142492A052_alt4,https://tumi.scene7.com/is/image/Tumi/142492A052_alt5,https://tumi.scene7.com/is/image/Tumi/142492A052_alt7",
+                "price_ca": 715,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/142492A052_sw",
+                "final_price_ca": 715
+              },
+              {
+                "product_url": "/p/navigation-backpack-0150187A320/",
+                "color": "Royal Blue Ombre",
+                "final_price": 575,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150187A320_alt1,https://tumi.scene7.com/is/image/Tumi/150187A320_alt2,https://tumi.scene7.com/is/image/Tumi/150187A320_alt3,https://tumi.scene7.com/is/image/Tumi/150187A320_alt4,https://tumi.scene7.com/is/image/Tumi/150187A320_alt5,https://tumi.scene7.com/is/image/Tumi/150187A320_alt7",
+                "price_ca": 750,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150187A320_sw",
+                "final_price_ca": 750
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424791174/",
+                "color": "Charcoal",
+                "final_price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791174_alt1,https://tumi.scene7.com/is/image/Tumi/1424791174_alt2,https://tumi.scene7.com/is/image/Tumi/1424791174_alt3,https://tumi.scene7.com/is/image/Tumi/1424791174_alt4,https://tumi.scene7.com/is/image/Tumi/1424791174_alt5,https://tumi.scene7.com/is/image/Tumi/1424791174_alt7",
+                "price_ca": 685,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791174_sw",
+                "final_price_ca": 685
+              },
+              {
+                "product_url": "/p/navigation-backpack-01504583487/",
+                "color": "Steel",
+                "final_price": 575,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1504583487_alt1,https://tumi.scene7.com/is/image/Tumi/1504583487_alt2,https://tumi.scene7.com/is/image/Tumi/1504583487_alt3,https://tumi.scene7.com/is/image/Tumi/1504583487_alt4,https://tumi.scene7.com/is/image/Tumi/1504583487_alt5,https://tumi.scene7.com/is/image/Tumi/1504583487_alt7",
+                "price_ca": 750,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1504583487_sw",
+                "final_price_ca": 750
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424791041/",
+                "color": "Black",
+                "final_price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791041_alt7,https://tumi.scene7.com/is/image/Tumi/1424791041_alt1,https://tumi.scene7.com/is/image/Tumi/1424791041_alt2,https://tumi.scene7.com/is/image/Tumi/1424791041_alt3,https://tumi.scene7.com/is/image/Tumi/1424791041_alt4,https://tumi.scene7.com/is/image/Tumi/1424791041_alt5",
+                "price_ca": 685,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791041_sw",
+                "final_price_ca": 685
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/navigation-backpack-01504583487/",
+                "color": "Steel",
+                "final_price": 575,
+                "price": 575,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1504583487_alt1,https://tumi.scene7.com/is/image/Tumi/1504583487_alt2,https://tumi.scene7.com/is/image/Tumi/1504583487_alt3,https://tumi.scene7.com/is/image/Tumi/1504583487_alt4,https://tumi.scene7.com/is/image/Tumi/1504583487_alt5,https://tumi.scene7.com/is/image/Tumi/1504583487_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1504583487_sw",
+                "swatch_sku": "01504583487"
+              },
+              {
+                "product_url": "/p/navigation-backpack-0142492A052/",
+                "color": "Midnight Navy/Khaki",
+                "final_price": 550,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/142492A052_alt1,https://tumi.scene7.com/is/image/Tumi/142492A052_alt2,https://tumi.scene7.com/is/image/Tumi/142492A052_alt3,https://tumi.scene7.com/is/image/Tumi/142492A052_alt4,https://tumi.scene7.com/is/image/Tumi/142492A052_alt5,https://tumi.scene7.com/is/image/Tumi/142492A052_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/142492A052_sw",
+                "swatch_sku": "0142492A052"
+              },
+              {
+                "product_url": "/p/navigation-backpack-0150187A320/",
+                "color": "Royal Blue Ombre",
+                "final_price": 575,
+                "price": 575,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150187A320_alt1,https://tumi.scene7.com/is/image/Tumi/150187A320_alt2,https://tumi.scene7.com/is/image/Tumi/150187A320_alt3,https://tumi.scene7.com/is/image/Tumi/150187A320_alt4,https://tumi.scene7.com/is/image/Tumi/150187A320_alt5,https://tumi.scene7.com/is/image/Tumi/150187A320_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150187A320_sw",
+                "swatch_sku": "0150187A320"
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424791174/",
+                "color": "Charcoal",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791174_alt1,https://tumi.scene7.com/is/image/Tumi/1424791174_alt2,https://tumi.scene7.com/is/image/Tumi/1424791174_alt3,https://tumi.scene7.com/is/image/Tumi/1424791174_alt4,https://tumi.scene7.com/is/image/Tumi/1424791174_alt5,https://tumi.scene7.com/is/image/Tumi/1424791174_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791174_sw",
+                "swatch_sku": "01424791174"
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424791596/",
+                "color": "Navy",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791596_alt1,https://tumi.scene7.com/is/image/Tumi/1424791596_alt2,https://tumi.scene7.com/is/image/Tumi/1424791596_alt3,https://tumi.scene7.com/is/image/Tumi/1424791596_alt4,https://tumi.scene7.com/is/image/Tumi/1424791596_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791596_sw",
+                "swatch_sku": "01424791596"
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424791041/",
+                "color": "Black",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791041_alt7,https://tumi.scene7.com/is/image/Tumi/1424791041_alt1,https://tumi.scene7.com/is/image/Tumi/1424791041_alt2,https://tumi.scene7.com/is/image/Tumi/1424791041_alt3,https://tumi.scene7.com/is/image/Tumi/1424791041_alt4,https://tumi.scene7.com/is/image/Tumi/1424791041_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791041_sw",
+                "swatch_sku": "01424791041"
+              }
+            ],
+            "category_names": [
+              "New Men&#x27;s Styles",
+              "New",
+              "15\" Laptop Backpacks",
+              "Travel Backpacks",
+              "Grey Backpacks",
+              "Active Backpacks",
+              "Backpacks",
+              "Men&#x27;s Backpacks",
+              "New Arrivals",
+              "Ballistic Nylon Backpacks",
+              "Commuter Backpacks",
+              "Alpha Bravo",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 750,
+            "stock_USwarehouse": 405,
+            "stock_CAwarehouse": 286,
+            "feature": [
+              "Media Pocket",
+              "Expandable",
+              "Monogramable"
+            ],
+            "widthInches": "14.000",
+            "heightInches": "16.000",
+            "star_rating": 4.5,
+            "id": 1130749654,
+            "sku": "01504583487",
+            "lengthInches": "7.250",
+            "product_group": "01504583487",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/1504583487_main",
+            "heightCms": "40.500",
+            "badge_en": "new",
+            "collection": "Alpha Bravo",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/navigation-backpack-01504583487/",
+            "final_price_ca": 750,
+            "badge": "new",
+            "widthCms": "35.500",
+            "name": "Navigation Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1504583487_alt1,https://tumi.scene7.com/is/image/Tumi/1504583487_alt2,https://tumi.scene7.com/is/image/Tumi/1504583487_alt3,https://tumi.scene7.com/is/image/Tumi/1504583487_alt4,https://tumi.scene7.com/is/image/Tumi/1504583487_alt5,https://tumi.scene7.com/is/image/Tumi/1504583487_alt7",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;Shop By Purpose&gt;Active Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||New Arrivals||Backpacks&gt;Shop By Style&gt;Men&#x27;s Backpacks||Backpacks&gt;Shop By Purpose&gt;Commuter Backpacks||Backpacks&gt;Ballistic Nylon Backpacks||New||New&gt;New Men&#x27;s Styles||Backpacks&gt;Shop By Laptop Size&gt;15\" Laptop Backpacks||Collections&gt;Collections&gt;Alpha Bravo||Backpacks&gt;Grey Backpacks||Backpacks",
+            "final_price": "575.00",
+            "price": "575.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "true",
+            "collection_url": "/c/mclaren/",
+            "swatch_list": [
+              {
+                "product_url": "/p/terrain-backpack-01502161041/",
+                "color": "Black",
+                "final_price": 795,
+                "price": 795,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502161041_alt7,https://tumi.scene7.com/is/image/Tumi/1502161041_alt1,https://tumi.scene7.com/is/image/Tumi/1502161041_alt2,https://tumi.scene7.com/is/image/Tumi/1502161041_alt3,https://tumi.scene7.com/is/image/Tumi/1502161041_alt4,https://tumi.scene7.com/is/image/Tumi/1502161041_alt5,https://tumi.scene7.com/is/image/Tumi/1502161041_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1502161041_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/terrain-backpack-01502161041/",
+                "color": "Black",
+                "final_price": 795,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502161041_alt7,https://tumi.scene7.com/is/image/Tumi/1502161041_alt1,https://tumi.scene7.com/is/image/Tumi/1502161041_alt2,https://tumi.scene7.com/is/image/Tumi/1502161041_alt3,https://tumi.scene7.com/is/image/Tumi/1502161041_alt4,https://tumi.scene7.com/is/image/Tumi/1502161041_alt5,https://tumi.scene7.com/is/image/Tumi/1502161041_alt6",
+                "price_ca": 1035,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1502161041_sw",
+                "final_price_ca": 1035
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/terrain-backpack-01502161041/",
+                "color": "Black",
+                "final_price": 795,
+                "price": 795,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502161041_alt7,https://tumi.scene7.com/is/image/Tumi/1502161041_alt1,https://tumi.scene7.com/is/image/Tumi/1502161041_alt2,https://tumi.scene7.com/is/image/Tumi/1502161041_alt3,https://tumi.scene7.com/is/image/Tumi/1502161041_alt4,https://tumi.scene7.com/is/image/Tumi/1502161041_alt5,https://tumi.scene7.com/is/image/Tumi/1502161041_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1502161041_sw",
+                "swatch_sku": "01502161041"
+              }
+            ],
+            "category_names": [
+              "New Men&#x27;s Styles",
+              "Tumi Sports",
+              "New",
+              "Travel Backpacks",
+              "Backpacks",
+              "Men&#x27;s Backpacks",
+              "New Arrivals",
+              "TUMI | McLaren",
+              "15\" Laptop Backpacks",
+              "Active Backpacks",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 1035,
+            "stock_USwarehouse": 148,
+            "stock_CAwarehouse": 124,
+            "feature": [
+              "Monogramable"
+            ],
+            "widthInches": "16.250",
+            "heightInches": "18.000",
+            "star_rating": 0,
+            "id": 1443667771,
+            "sku": "01502161041",
+            "lengthInches": "6.750",
+            "product_group": "01502161041",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/1502161041_main",
+            "heightCms": "45.500",
+            "badge_en": "new",
+            "collection": "TUMI I McLaren",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/terrain-backpack-01502161041/",
+            "final_price_ca": 1035,
+            "badge": "new",
+            "widthCms": "41.500",
+            "name": "Terrain Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502161041_alt7,https://tumi.scene7.com/is/image/Tumi/1502161041_alt1,https://tumi.scene7.com/is/image/Tumi/1502161041_alt2,https://tumi.scene7.com/is/image/Tumi/1502161041_alt3,https://tumi.scene7.com/is/image/Tumi/1502161041_alt4,https://tumi.scene7.com/is/image/Tumi/1502161041_alt5,https://tumi.scene7.com/is/image/Tumi/1502161041_alt6",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;Shop By Purpose&gt;Active Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||New Arrivals||Backpacks&gt;Shop By Style&gt;Men&#x27;s Backpacks||Collections&gt;Collections&gt;Tumi Sports||New||New&gt;New Men&#x27;s Styles||Backpacks&gt;Shop By Laptop Size&gt;15\" Laptop Backpacks||Collections&gt;Collections&gt;TUMI | McLaren||Backpacks",
+            "final_price": "795.00",
+            "price": "795.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "true",
+            "collection_url": "/c/alpha-bravo/",
+            "swatch_list": [
+              {
+                "product_url": "/p/nomadic-backpack-0146690A052/",
+                "color": "Midnight Navy/Khaki",
+                "final_price": 775,
+                "price": 775,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146690A052_alt1,https://tumi.scene7.com/is/image/Tumi/146690A052_alt2,https://tumi.scene7.com/is/image/Tumi/146690A052_alt3,https://tumi.scene7.com/is/image/Tumi/146690A052_alt4,https://tumi.scene7.com/is/image/Tumi/146690A052_alt5,https://tumi.scene7.com/is/image/Tumi/146690A052_alt6,https://tumi.scene7.com/is/image/Tumi/146690A052_alt7,https://tumi.scene7.com/is/image/Tumi/146690A052_alt8",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146690A052_sw"
+              },
+              {
+                "product_url": "/p/nomadic-backpack-01501823487/",
+                "color": "Steel",
+                "final_price": 775,
+                "price": 775,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501823487_alt1,https://tumi.scene7.com/is/image/Tumi/1501823487_alt2,https://tumi.scene7.com/is/image/Tumi/1501823487_alt3,https://tumi.scene7.com/is/image/Tumi/1501823487_alt4,https://tumi.scene7.com/is/image/Tumi/1501823487_alt5,https://tumi.scene7.com/is/image/Tumi/1501823487_alt6,https://tumi.scene7.com/is/image/Tumi/1501823487_alt7,https://tumi.scene7.com/is/image/Tumi/1501823487_alt8",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501823487_sw"
+              },
+              {
+                "product_url": "/p/nomadic-backpack-01466891041/",
+                "color": "Black",
+                "final_price": 725,
+                "price": 725,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1466891041_alt7,https://tumi.scene7.com/is/image/Tumi/1466891041_alt8,https://tumi.scene7.com/is/image/Tumi/1466891041_alt1,https://tumi.scene7.com/is/image/Tumi/1466891041_alt2,https://tumi.scene7.com/is/image/Tumi/1466891041_alt3,https://tumi.scene7.com/is/image/Tumi/1466891041_alt4,https://tumi.scene7.com/is/image/Tumi/1466891041_alt5,https://tumi.scene7.com/is/image/Tumi/1466891041_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1466891041_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/nomadic-backpack-0146690A052/",
+                "color": "Midnight Navy/Khaki",
+                "final_price": 775,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146690A052_alt1,https://tumi.scene7.com/is/image/Tumi/146690A052_alt2,https://tumi.scene7.com/is/image/Tumi/146690A052_alt3,https://tumi.scene7.com/is/image/Tumi/146690A052_alt4,https://tumi.scene7.com/is/image/Tumi/146690A052_alt5,https://tumi.scene7.com/is/image/Tumi/146690A052_alt6,https://tumi.scene7.com/is/image/Tumi/146690A052_alt7,https://tumi.scene7.com/is/image/Tumi/146690A052_alt8",
+                "price_ca": 1010,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146690A052_sw",
+                "final_price_ca": 1010
+              },
+              {
+                "product_url": "/p/nomadic-backpack-01501823487/",
+                "color": "Steel",
+                "final_price": 775,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501823487_alt1,https://tumi.scene7.com/is/image/Tumi/1501823487_alt2,https://tumi.scene7.com/is/image/Tumi/1501823487_alt3,https://tumi.scene7.com/is/image/Tumi/1501823487_alt4,https://tumi.scene7.com/is/image/Tumi/1501823487_alt5,https://tumi.scene7.com/is/image/Tumi/1501823487_alt6,https://tumi.scene7.com/is/image/Tumi/1501823487_alt7,https://tumi.scene7.com/is/image/Tumi/1501823487_alt8",
+                "price_ca": 1010,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501823487_sw",
+                "final_price_ca": 1010
+              },
+              {
+                "product_url": "/p/nomadic-backpack-01466891041/",
+                "color": "Black",
+                "final_price": 725,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1466891041_alt7,https://tumi.scene7.com/is/image/Tumi/1466891041_alt8,https://tumi.scene7.com/is/image/Tumi/1466891041_alt1,https://tumi.scene7.com/is/image/Tumi/1466891041_alt2,https://tumi.scene7.com/is/image/Tumi/1466891041_alt3,https://tumi.scene7.com/is/image/Tumi/1466891041_alt4,https://tumi.scene7.com/is/image/Tumi/1466891041_alt5,https://tumi.scene7.com/is/image/Tumi/1466891041_alt6",
+                "price_ca": 945,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1466891041_sw",
+                "final_price_ca": 945
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/nomadic-backpack-01501823487/",
+                "color": "Steel",
+                "final_price": 775,
+                "price": 775,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501823487_alt1,https://tumi.scene7.com/is/image/Tumi/1501823487_alt2,https://tumi.scene7.com/is/image/Tumi/1501823487_alt3,https://tumi.scene7.com/is/image/Tumi/1501823487_alt4,https://tumi.scene7.com/is/image/Tumi/1501823487_alt5,https://tumi.scene7.com/is/image/Tumi/1501823487_alt6,https://tumi.scene7.com/is/image/Tumi/1501823487_alt7,https://tumi.scene7.com/is/image/Tumi/1501823487_alt8",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501823487_sw",
+                "swatch_sku": "01501823487"
+              },
+              {
+                "product_url": "/p/nomadic-backpack-0146690A052/",
+                "color": "Midnight Navy/Khaki",
+                "final_price": 775,
+                "price": 775,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146690A052_alt1,https://tumi.scene7.com/is/image/Tumi/146690A052_alt2,https://tumi.scene7.com/is/image/Tumi/146690A052_alt3,https://tumi.scene7.com/is/image/Tumi/146690A052_alt4,https://tumi.scene7.com/is/image/Tumi/146690A052_alt5,https://tumi.scene7.com/is/image/Tumi/146690A052_alt6,https://tumi.scene7.com/is/image/Tumi/146690A052_alt7,https://tumi.scene7.com/is/image/Tumi/146690A052_alt8",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146690A052_sw",
+                "swatch_sku": "0146690A052"
+              },
+              {
+                "product_url": "/p/nomadic-backpack-01466891041/",
+                "color": "Black",
+                "final_price": 725,
+                "price": 725,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1466891041_alt7,https://tumi.scene7.com/is/image/Tumi/1466891041_alt8,https://tumi.scene7.com/is/image/Tumi/1466891041_alt1,https://tumi.scene7.com/is/image/Tumi/1466891041_alt2,https://tumi.scene7.com/is/image/Tumi/1466891041_alt3,https://tumi.scene7.com/is/image/Tumi/1466891041_alt4,https://tumi.scene7.com/is/image/Tumi/1466891041_alt5,https://tumi.scene7.com/is/image/Tumi/1466891041_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1466891041_sw",
+                "swatch_sku": "01466891041"
+              }
+            ],
+            "category_names": [
+              "New Men&#x27;s Styles",
+              "New",
+              "15\" Laptop Backpacks",
+              "Travel Backpacks",
+              "Grey Backpacks",
+              "The Spring Shop",
+              "Active Backpacks",
+              "Backpacks",
+              "Men&#x27;s Backpacks",
+              "Recycled Fabric",
+              "New Arrivals",
+              "Commuter Backpacks",
+              "Alpha Bravo",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 1010,
+            "stock_USwarehouse": 543,
+            "stock_CAwarehouse": 408,
+            "feature": [
+              "Media Pocket",
+              "Expandable",
+              "Monogramable"
+            ],
+            "widthInches": "15.000",
+            "heightInches": "18.750",
+            "star_rating": 4.5,
+            "id": 721450832,
+            "sku": "01501823487",
+            "lengthInches": "9.000",
+            "product_group": "01501823487",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/1501823487_main",
+            "heightCms": "47.500",
+            "badge_en": "new",
+            "collection": "Alpha Bravo",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/nomadic-backpack-01501823487/",
+            "final_price_ca": 1010,
+            "badge": "new",
+            "widthCms": "38.000",
+            "name": "Nomadic Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501823487_alt1,https://tumi.scene7.com/is/image/Tumi/1501823487_alt2,https://tumi.scene7.com/is/image/Tumi/1501823487_alt3,https://tumi.scene7.com/is/image/Tumi/1501823487_alt4,https://tumi.scene7.com/is/image/Tumi/1501823487_alt5,https://tumi.scene7.com/is/image/Tumi/1501823487_alt6,https://tumi.scene7.com/is/image/Tumi/1501823487_alt7,https://tumi.scene7.com/is/image/Tumi/1501823487_alt8",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;Shop By Purpose&gt;Active Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||Backpacks&gt;Shop By Material&gt;Recycled Fabric||New Arrivals||Backpacks&gt;Shop By Style&gt;Men&#x27;s Backpacks||Backpacks&gt;Shop By Purpose&gt;Commuter Backpacks||New&gt;The Spring Shop||New&gt;New Men&#x27;s Styles||Backpacks&gt;Shop By Laptop Size&gt;15\" Laptop Backpacks||New||Collections&gt;Collections&gt;Alpha Bravo||Backpacks&gt;Grey Backpacks||Backpacks",
+            "final_price": "775.00",
+            "price": "775.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "true",
+            "collection_url": "/c/harrison/",
+            "swatch_list": [
+              {
+                "product_url": "/p/bradner-backpack-01501991221/",
+                "color": "Cognac",
+                "final_price": 775,
+                "price": 775,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501991221_alt1,https://tumi.scene7.com/is/image/Tumi/1501991221_alt2,https://tumi.scene7.com/is/image/Tumi/1501991221_alt3,https://tumi.scene7.com/is/image/Tumi/1501991221_alt4,https://tumi.scene7.com/is/image/Tumi/1501991221_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501991221_sw"
+              },
+              {
+                "product_url": "/p/bradner-backpack-01305321041/",
+                "color": "Black Leather",
+                "final_price": 619,
+                "price": 775,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1305321041_alt1,https://tumi.scene7.com/is/image/Tumi/1305321041_alt2,https://tumi.scene7.com/is/image/Tumi/1305321041_alt3,https://tumi.scene7.com/is/image/Tumi/1305321041_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1305321041_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/bradner-backpack-01501991221/",
+                "color": "Cognac",
+                "final_price": 775,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501991221_alt1,https://tumi.scene7.com/is/image/Tumi/1501991221_alt2,https://tumi.scene7.com/is/image/Tumi/1501991221_alt3,https://tumi.scene7.com/is/image/Tumi/1501991221_alt4,https://tumi.scene7.com/is/image/Tumi/1501991221_alt7",
+                "price_ca": 1010,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501991221_sw",
+                "final_price_ca": 1010
+              },
+              {
+                "product_url": "/p/bradner-backpack-01305321041/",
+                "color": "Black Leather",
+                "final_price": 619,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1305321041_alt1,https://tumi.scene7.com/is/image/Tumi/1305321041_alt2,https://tumi.scene7.com/is/image/Tumi/1305321041_alt3,https://tumi.scene7.com/is/image/Tumi/1305321041_alt5",
+                "price_ca": 1010,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1305321041_sw",
+                "final_price_ca": 805
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/bradner-backpack-01501991221/",
+                "color": "Cognac",
+                "final_price": 775,
+                "price": 775,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501991221_alt1,https://tumi.scene7.com/is/image/Tumi/1501991221_alt2,https://tumi.scene7.com/is/image/Tumi/1501991221_alt3,https://tumi.scene7.com/is/image/Tumi/1501991221_alt4,https://tumi.scene7.com/is/image/Tumi/1501991221_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1501991221_sw",
+                "swatch_sku": "01501991221"
+              },
+              {
+                "product_url": "/p/bradner-backpack-01305321041/",
+                "color": "Black Leather",
+                "final_price": 619,
+                "price": 775,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1305321041_alt1,https://tumi.scene7.com/is/image/Tumi/1305321041_alt2,https://tumi.scene7.com/is/image/Tumi/1305321041_alt3,https://tumi.scene7.com/is/image/Tumi/1305321041_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1305321041_sw",
+                "swatch_sku": "01305321041"
+              }
+            ],
+            "category_names": [
+              "Travel Backpacks",
+              "Harrison",
+              "The Spring Shop",
+              "Backpacks",
+              "Men&#x27;s Backpacks",
+              "Brown Backpacks",
+              "New Arrivals",
+              "Leather Backpacks",
+              "14\" Laptop Backpacks",
+              "Online Exclusives",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 1010,
+            "stock_USwarehouse": 61,
+            "stock_CAwarehouse": 57,
+            "feature": [
+              "Monogramable"
+            ],
+            "widthInches": "11.500",
+            "heightInches": "16.500",
+            "star_rating": 5,
+            "id": 1905587567,
+            "sku": "01501991221",
+            "lengthInches": "3.500",
+            "product_group": "01501991221",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/1501991221_main",
+            "heightCms": "42.000",
+            "badge_en": "ONLINE EXCLUSIVE",
+            "collection": "Harrison",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/bradner-backpack-01501991221/",
+            "final_price_ca": 1010,
+            "badge": "ONLINE EXCLUSIVE",
+            "widthCms": "29.000",
+            "name": "Bradner Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1501991221_alt1,https://tumi.scene7.com/is/image/Tumi/1501991221_alt2,https://tumi.scene7.com/is/image/Tumi/1501991221_alt3,https://tumi.scene7.com/is/image/Tumi/1501991221_alt4,https://tumi.scene7.com/is/image/Tumi/1501991221_alt7",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||Collections&gt;Collections&gt;Harrison||Backpacks&gt;Shop By Laptop Size&gt;14\" Laptop Backpacks||New Arrivals||Backpacks&gt;Shop By Style&gt;Men&#x27;s Backpacks||Backpacks&gt;Shop By Material&gt;Leather Backpacks||New&gt;The Spring Shop||New&gt;Online Exclusives||Backpacks&gt;Brown Backpacks||Backpacks",
+            "final_price": "775.00",
+            "price": "775.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "true",
+            "collection_url": "/c/harrison/",
+            "swatch_list": [
+              {
+                "product_url": "/p/hadden-backpack-01502101041/",
+                "color": "Black",
+                "final_price": 650,
+                "price": 650,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502101041_alt7,https://tumi.scene7.com/is/image/Tumi/1502101041_alt1,https://tumi.scene7.com/is/image/Tumi/1502101041_alt2,https://tumi.scene7.com/is/image/Tumi/1502101041_alt3,https://tumi.scene7.com/is/image/Tumi/1502101041_alt4",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1502101041_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/hadden-backpack-01502101041/",
+                "color": "Black",
+                "final_price": 650,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502101041_alt7,https://tumi.scene7.com/is/image/Tumi/1502101041_alt1,https://tumi.scene7.com/is/image/Tumi/1502101041_alt2,https://tumi.scene7.com/is/image/Tumi/1502101041_alt3,https://tumi.scene7.com/is/image/Tumi/1502101041_alt4",
+                "price_ca": 845,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1502101041_sw",
+                "final_price_ca": 845
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/hadden-backpack-01502101041/",
+                "color": "Black",
+                "final_price": 650,
+                "price": 650,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502101041_alt7,https://tumi.scene7.com/is/image/Tumi/1502101041_alt1,https://tumi.scene7.com/is/image/Tumi/1502101041_alt2,https://tumi.scene7.com/is/image/Tumi/1502101041_alt3,https://tumi.scene7.com/is/image/Tumi/1502101041_alt4",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1502101041_sw",
+                "swatch_sku": "01502101041"
+              }
+            ],
+            "category_names": [
+              "New Men&#x27;s Styles",
+              "New",
+              "Black Backpacks",
+              "Travel Backpacks",
+              "Nylon",
+              "Harrison",
+              "Backpacks",
+              "Men&#x27;s Backpacks",
+              "New Arrivals",
+              "15\" Laptop Backpacks",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 845,
+            "stock_USwarehouse": 176,
+            "stock_CAwarehouse": 85,
+            "feature": [
+              "Media Pocket",
+              "Monogramable"
+            ],
+            "widthInches": "11.000",
+            "heightInches": "16.500",
+            "star_rating": 0,
+            "id": 1006483881,
+            "sku": "01502101041",
+            "lengthInches": "5.500",
+            "product_group": "01502101041",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/1502101041_main",
+            "heightCms": "42.000",
+            "badge_en": "new",
+            "collection": "Harrison",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/hadden-backpack-01502101041/",
+            "final_price_ca": 845,
+            "badge": "new",
+            "widthCms": "28.000",
+            "name": "Hadden Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1502101041_alt7,https://tumi.scene7.com/is/image/Tumi/1502101041_alt1,https://tumi.scene7.com/is/image/Tumi/1502101041_alt2,https://tumi.scene7.com/is/image/Tumi/1502101041_alt3,https://tumi.scene7.com/is/image/Tumi/1502101041_alt4",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||Collections&gt;Collections&gt;Harrison||Backpacks&gt;Shop By Material&gt;Nylon||New Arrivals||Backpacks&gt;Black Backpacks||Backpacks&gt;Shop By Style&gt;Men&#x27;s Backpacks||New&gt;New Men&#x27;s Styles||Backpacks&gt;Shop By Laptop Size&gt;15\" Laptop Backpacks||New||Backpacks",
+            "final_price": "650.00",
+            "price": "650.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "true",
+            "collection_url": "/c/alpha-bravo/",
+            "swatch_list": [
+              {
+                "product_url": "/p/navigation-backpack-01424791596/",
+                "color": "Navy",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791596_alt1,https://tumi.scene7.com/is/image/Tumi/1424791596_alt2,https://tumi.scene7.com/is/image/Tumi/1424791596_alt3,https://tumi.scene7.com/is/image/Tumi/1424791596_alt4,https://tumi.scene7.com/is/image/Tumi/1424791596_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791596_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424792665/",
+                "color": "Grey/Blue",
+                "final_price": 419,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424792665_alt1,https://tumi.scene7.com/is/image/Tumi/1424792665_alt2,https://tumi.scene7.com/is/image/Tumi/1424792665_alt3,https://tumi.scene7.com/is/image/Tumi/1424792665_alt4,https://tumi.scene7.com/is/image/Tumi/1424792665_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424792665_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-0142492A027/",
+                "color": "Desert Red",
+                "final_price": 439,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/142492A027_alt1,https://tumi.scene7.com/is/image/Tumi/142492A027_alt2,https://tumi.scene7.com/is/image/Tumi/142492A027_alt3,https://tumi.scene7.com/is/image/Tumi/142492A027_alt4,https://tumi.scene7.com/is/image/Tumi/142492A027_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/142492A027_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-0142492A052/",
+                "color": "Midnight Navy/Khaki",
+                "final_price": 550,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/142492A052_alt1,https://tumi.scene7.com/is/image/Tumi/142492A052_alt2,https://tumi.scene7.com/is/image/Tumi/142492A052_alt3,https://tumi.scene7.com/is/image/Tumi/142492A052_alt4,https://tumi.scene7.com/is/image/Tumi/142492A052_alt5,https://tumi.scene7.com/is/image/Tumi/142492A052_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/142492A052_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-0148604A213/",
+                "color": "Grey Dynamic Stitch",
+                "final_price": 439,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/148604A213_alt1,https://tumi.scene7.com/is/image/Tumi/148604A213_alt2,https://tumi.scene7.com/is/image/Tumi/148604A213_alt3,https://tumi.scene7.com/is/image/Tumi/148604A213_alt4,https://tumi.scene7.com/is/image/Tumi/148604A213_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/148604A213_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-0150187A320/",
+                "color": "Royal Blue Ombre",
+                "final_price": 575,
+                "price": 575,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150187A320_alt1,https://tumi.scene7.com/is/image/Tumi/150187A320_alt2,https://tumi.scene7.com/is/image/Tumi/150187A320_alt3,https://tumi.scene7.com/is/image/Tumi/150187A320_alt4,https://tumi.scene7.com/is/image/Tumi/150187A320_alt5,https://tumi.scene7.com/is/image/Tumi/150187A320_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150187A320_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424791174/",
+                "color": "Charcoal",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791174_alt1,https://tumi.scene7.com/is/image/Tumi/1424791174_alt2,https://tumi.scene7.com/is/image/Tumi/1424791174_alt3,https://tumi.scene7.com/is/image/Tumi/1424791174_alt4,https://tumi.scene7.com/is/image/Tumi/1424791174_alt5,https://tumi.scene7.com/is/image/Tumi/1424791174_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791174_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-0150451A309/",
+                "color": "Dragon Print",
+                "final_price": 575,
+                "price": 575,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150451A309_alt1,https://tumi.scene7.com/is/image/Tumi/150451A309_alt2,https://tumi.scene7.com/is/image/Tumi/150451A309_alt3,https://tumi.scene7.com/is/image/Tumi/150451A309_alt4,https://tumi.scene7.com/is/image/Tumi/150451A309_alt5,https://tumi.scene7.com/is/image/Tumi/150451A309_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150451A309_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-01504583487/",
+                "color": "Steel",
+                "final_price": 575,
+                "price": 575,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1504583487_alt1,https://tumi.scene7.com/is/image/Tumi/1504583487_alt2,https://tumi.scene7.com/is/image/Tumi/1504583487_alt3,https://tumi.scene7.com/is/image/Tumi/1504583487_alt4,https://tumi.scene7.com/is/image/Tumi/1504583487_alt5,https://tumi.scene7.com/is/image/Tumi/1504583487_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1504583487_sw"
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424791041/",
+                "color": "Black",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791041_alt7,https://tumi.scene7.com/is/image/Tumi/1424791041_alt1,https://tumi.scene7.com/is/image/Tumi/1424791041_alt2,https://tumi.scene7.com/is/image/Tumi/1424791041_alt3,https://tumi.scene7.com/is/image/Tumi/1424791041_alt4,https://tumi.scene7.com/is/image/Tumi/1424791041_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791041_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/navigation-backpack-01424791596/",
+                "color": "Navy",
+                "final_price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791596_alt1,https://tumi.scene7.com/is/image/Tumi/1424791596_alt2,https://tumi.scene7.com/is/image/Tumi/1424791596_alt3,https://tumi.scene7.com/is/image/Tumi/1424791596_alt4,https://tumi.scene7.com/is/image/Tumi/1424791596_alt7",
+                "price_ca": 685,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791596_sw",
+                "final_price_ca": 685
+              },
+              {
+                "product_url": "/p/navigation-backpack-0142492A052/",
+                "color": "Midnight Navy/Khaki",
+                "final_price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/142492A052_alt1,https://tumi.scene7.com/is/image/Tumi/142492A052_alt2,https://tumi.scene7.com/is/image/Tumi/142492A052_alt3,https://tumi.scene7.com/is/image/Tumi/142492A052_alt4,https://tumi.scene7.com/is/image/Tumi/142492A052_alt5,https://tumi.scene7.com/is/image/Tumi/142492A052_alt7",
+                "price_ca": 715,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/142492A052_sw",
+                "final_price_ca": 715
+              },
+              {
+                "product_url": "/p/navigation-backpack-0150187A320/",
+                "color": "Royal Blue Ombre",
+                "final_price": 575,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150187A320_alt1,https://tumi.scene7.com/is/image/Tumi/150187A320_alt2,https://tumi.scene7.com/is/image/Tumi/150187A320_alt3,https://tumi.scene7.com/is/image/Tumi/150187A320_alt4,https://tumi.scene7.com/is/image/Tumi/150187A320_alt5,https://tumi.scene7.com/is/image/Tumi/150187A320_alt7",
+                "price_ca": 750,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150187A320_sw",
+                "final_price_ca": 750
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424791174/",
+                "color": "Charcoal",
+                "final_price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791174_alt1,https://tumi.scene7.com/is/image/Tumi/1424791174_alt2,https://tumi.scene7.com/is/image/Tumi/1424791174_alt3,https://tumi.scene7.com/is/image/Tumi/1424791174_alt4,https://tumi.scene7.com/is/image/Tumi/1424791174_alt5,https://tumi.scene7.com/is/image/Tumi/1424791174_alt7",
+                "price_ca": 685,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791174_sw",
+                "final_price_ca": 685
+              },
+              {
+                "product_url": "/p/navigation-backpack-01504583487/",
+                "color": "Steel",
+                "final_price": 575,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1504583487_alt1,https://tumi.scene7.com/is/image/Tumi/1504583487_alt2,https://tumi.scene7.com/is/image/Tumi/1504583487_alt3,https://tumi.scene7.com/is/image/Tumi/1504583487_alt4,https://tumi.scene7.com/is/image/Tumi/1504583487_alt5,https://tumi.scene7.com/is/image/Tumi/1504583487_alt7",
+                "price_ca": 750,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1504583487_sw",
+                "final_price_ca": 750
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424791041/",
+                "color": "Black",
+                "final_price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791041_alt7,https://tumi.scene7.com/is/image/Tumi/1424791041_alt1,https://tumi.scene7.com/is/image/Tumi/1424791041_alt2,https://tumi.scene7.com/is/image/Tumi/1424791041_alt3,https://tumi.scene7.com/is/image/Tumi/1424791041_alt4,https://tumi.scene7.com/is/image/Tumi/1424791041_alt5",
+                "price_ca": 685,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791041_sw",
+                "final_price_ca": 685
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/navigation-backpack-0150187A320/",
+                "color": "Royal Blue Ombre",
+                "final_price": 575,
+                "price": 575,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150187A320_alt1,https://tumi.scene7.com/is/image/Tumi/150187A320_alt2,https://tumi.scene7.com/is/image/Tumi/150187A320_alt3,https://tumi.scene7.com/is/image/Tumi/150187A320_alt4,https://tumi.scene7.com/is/image/Tumi/150187A320_alt5,https://tumi.scene7.com/is/image/Tumi/150187A320_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150187A320_sw",
+                "swatch_sku": "0150187A320"
+              },
+              {
+                "product_url": "/p/navigation-backpack-0142492A052/",
+                "color": "Midnight Navy/Khaki",
+                "final_price": 550,
+                "price": 550,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/142492A052_alt1,https://tumi.scene7.com/is/image/Tumi/142492A052_alt2,https://tumi.scene7.com/is/image/Tumi/142492A052_alt3,https://tumi.scene7.com/is/image/Tumi/142492A052_alt4,https://tumi.scene7.com/is/image/Tumi/142492A052_alt5,https://tumi.scene7.com/is/image/Tumi/142492A052_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/142492A052_sw",
+                "swatch_sku": "0142492A052"
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424791596/",
+                "color": "Navy",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791596_alt1,https://tumi.scene7.com/is/image/Tumi/1424791596_alt2,https://tumi.scene7.com/is/image/Tumi/1424791596_alt3,https://tumi.scene7.com/is/image/Tumi/1424791596_alt4,https://tumi.scene7.com/is/image/Tumi/1424791596_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791596_sw",
+                "swatch_sku": "01424791596"
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424791174/",
+                "color": "Charcoal",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791174_alt1,https://tumi.scene7.com/is/image/Tumi/1424791174_alt2,https://tumi.scene7.com/is/image/Tumi/1424791174_alt3,https://tumi.scene7.com/is/image/Tumi/1424791174_alt4,https://tumi.scene7.com/is/image/Tumi/1424791174_alt5,https://tumi.scene7.com/is/image/Tumi/1424791174_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791174_sw",
+                "swatch_sku": "01424791174"
+              },
+              {
+                "product_url": "/p/navigation-backpack-01504583487/",
+                "color": "Steel",
+                "final_price": 575,
+                "price": 575,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1504583487_alt1,https://tumi.scene7.com/is/image/Tumi/1504583487_alt2,https://tumi.scene7.com/is/image/Tumi/1504583487_alt3,https://tumi.scene7.com/is/image/Tumi/1504583487_alt4,https://tumi.scene7.com/is/image/Tumi/1504583487_alt5,https://tumi.scene7.com/is/image/Tumi/1504583487_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1504583487_sw",
+                "swatch_sku": "01504583487"
+              },
+              {
+                "product_url": "/p/navigation-backpack-01424791041/",
+                "color": "Black",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424791041_alt7,https://tumi.scene7.com/is/image/Tumi/1424791041_alt1,https://tumi.scene7.com/is/image/Tumi/1424791041_alt2,https://tumi.scene7.com/is/image/Tumi/1424791041_alt3,https://tumi.scene7.com/is/image/Tumi/1424791041_alt4,https://tumi.scene7.com/is/image/Tumi/1424791041_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424791041_sw",
+                "swatch_sku": "01424791041"
+              }
+            ],
+            "category_names": [
+              "New Men&#x27;s Styles",
+              "New",
+              "15\" Laptop Backpacks",
+              "Travel Backpacks",
+              "Acid Green &amp; Ombre Blue",
+              "Active Backpacks",
+              "Backpacks",
+              "Men&#x27;s Backpacks",
+              "Recycled Fabric",
+              "New Arrivals",
+              "Ballistic Nylon Backpacks",
+              "Commuter Backpacks",
+              "Alpha Bravo",
+              "Blue Backpacks",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 750,
+            "stock_USwarehouse": 638,
+            "stock_CAwarehouse": 601,
+            "feature": [
+              "Media Pocket",
+              "Expandable",
+              "Monogramable"
+            ],
+            "widthInches": "14.000",
+            "heightInches": "16.000",
+            "star_rating": 4.5,
+            "id": 1241331051,
+            "sku": "0150187A320",
+            "lengthInches": "7.250",
+            "product_group": "0150187A320",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/150187A320_main",
+            "heightCms": "40.500",
+            "badge_en": "RECYCLED MATERIALS",
+            "collection": "Alpha Bravo",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/navigation-backpack-0150187A320/",
+            "final_price_ca": 750,
+            "badge": "RECYCLED MATERIALS",
+            "widthCms": "35.500",
+            "name": "Navigation Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150187A320_alt1,https://tumi.scene7.com/is/image/Tumi/150187A320_alt2,https://tumi.scene7.com/is/image/Tumi/150187A320_alt3,https://tumi.scene7.com/is/image/Tumi/150187A320_alt4,https://tumi.scene7.com/is/image/Tumi/150187A320_alt5,https://tumi.scene7.com/is/image/Tumi/150187A320_alt7",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;Shop By Purpose&gt;Active Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||Backpacks&gt;Shop By Material&gt;Recycled Fabric||New Arrivals||New&gt;Acid Green &amp; Ombre Blue||Backpacks&gt;Shop By Style&gt;Men&#x27;s Backpacks||Backpacks&gt;Shop By Purpose&gt;Commuter Backpacks||Backpacks&gt;Blue Backpacks||Backpacks&gt;Ballistic Nylon Backpacks||New&gt;New Men&#x27;s Styles||Backpacks&gt;Shop By Laptop Size&gt;15\" Laptop Backpacks||New||Collections&gt;Collections&gt;Alpha Bravo||Backpacks",
+            "final_price": "575.00",
+            "price": "575.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "true",
+            "collection_url": "/c/alpha-bravo/",
+            "swatch_list": [
+              {
+                "product_url": "/p/esports-pro-large-backpack-0150218A319/",
+                "color": "Red Ombre",
+                "final_price": 675,
+                "price": 675,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150218A319_alt1,https://tumi.scene7.com/is/image/Tumi/150218A319_alt2,https://tumi.scene7.com/is/image/Tumi/150218A319_alt3,https://tumi.scene7.com/is/image/Tumi/150218A319_alt4,https://tumi.scene7.com/is/image/Tumi/150218A319_alt5,https://tumi.scene7.com/is/image/Tumi/150218A319_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150218A319_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/esports-pro-large-backpack-0150218A319/",
+                "color": "Red Ombre",
+                "final_price": 675,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150218A319_alt1,https://tumi.scene7.com/is/image/Tumi/150218A319_alt2,https://tumi.scene7.com/is/image/Tumi/150218A319_alt3,https://tumi.scene7.com/is/image/Tumi/150218A319_alt4,https://tumi.scene7.com/is/image/Tumi/150218A319_alt5,https://tumi.scene7.com/is/image/Tumi/150218A319_alt6",
+                "price_ca": 880,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150218A319_sw",
+                "final_price_ca": 880
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/esports-pro-large-backpack-0150218A319/",
+                "color": "Red Ombre",
+                "final_price": 675,
+                "price": 675,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150218A319_alt1,https://tumi.scene7.com/is/image/Tumi/150218A319_alt2,https://tumi.scene7.com/is/image/Tumi/150218A319_alt3,https://tumi.scene7.com/is/image/Tumi/150218A319_alt4,https://tumi.scene7.com/is/image/Tumi/150218A319_alt5,https://tumi.scene7.com/is/image/Tumi/150218A319_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150218A319_sw",
+                "swatch_sku": "0150218A319"
+              }
+            ],
+            "category_names": [
+              "Tumi Sports",
+              "Laptop Backpacks",
+              "Travel Backpacks",
+              "Lunar New Year",
+              "Active Backpacks",
+              "Backpacks",
+              "Men&#x27;s Backpacks",
+              "New Arrivals",
+              "Valentine&#x27;s Day Gifts",
+              "15\" Laptop Backpacks",
+              "Alpha Bravo",
+              "Gifts For Him",
+              "Large Backpacks",
+              "Backpack with Charger"
+            ],
+            "price_ca": 880,
+            "stock_USwarehouse": 71,
+            "stock_CAwarehouse": 67,
+            "feature": [
+              "USB Port",
+              "Media Pocket",
+              "Expandable",
+              "Monogramable"
+            ],
+            "widthInches": "12.000",
+            "heightInches": "18.000",
+            "star_rating": 0,
+            "id": 352536836,
+            "sku": "0150218A319",
+            "lengthInches": "8.500",
+            "product_group": "0150218A319",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/150218A319_main",
+            "heightCms": "45.500",
+            "badge_en": "new",
+            "collection": "Alpha Bravo",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/esports-pro-large-backpack-0150218A319/",
+            "final_price_ca": 880,
+            "badge": "new",
+            "widthCms": "30.500",
+            "name": "Esports Pro Large Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150218A319_alt1,https://tumi.scene7.com/is/image/Tumi/150218A319_alt2,https://tumi.scene7.com/is/image/Tumi/150218A319_alt3,https://tumi.scene7.com/is/image/Tumi/150218A319_alt4,https://tumi.scene7.com/is/image/Tumi/150218A319_alt5,https://tumi.scene7.com/is/image/Tumi/150218A319_alt6",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;Shop By Purpose&gt;Active Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||New Arrivals||Gifts&gt;Gifts For Him||Backpacks&gt;Shop By Style&gt;Men&#x27;s Backpacks||Backpacks&gt;Backpack with Charger||Collections&gt;Collections&gt;Tumi Sports||Backpacks&gt;Large Backpacks||New&gt;Lunar New Year||Backpacks&gt;Shop By Laptop Size&gt;15\" Laptop Backpacks||Collections&gt;Collections&gt;Alpha Bravo||New&gt;Valentine&#x27;s Day Gifts||Backpacks",
+            "final_price": "675.00",
+            "price": "675.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "false",
+            "collection_url": "/c/voyageur/",
+            "swatch_list": [
+              {
+                "product_url": "/p/celina-backpack-01465661438/",
+                "color": "Indigo",
+                "final_price": 475,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1465661438_alt1,https://tumi.scene7.com/is/image/Tumi/1465661438_alt2,https://tumi.scene7.com/is/image/Tumi/1465661438_alt3,https://tumi.scene7.com/is/image/Tumi/1465661438_alt4,https://tumi.scene7.com/is/image/Tumi/1465661438_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1465661438_sw"
+              },
+              {
+                "product_url": "/p/celina-backpack-01465662693/",
+                "color": "Black/Gold",
+                "final_price": 475,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1465662693_alt7,https://tumi.scene7.com/is/image/Tumi/1465662693_alt1,https://tumi.scene7.com/is/image/Tumi/1465662693_alt2,https://tumi.scene7.com/is/image/Tumi/1465662693_alt3,https://tumi.scene7.com/is/image/Tumi/1465662693_alt4,https://tumi.scene7.com/is/image/Tumi/1465662693_alt5,https://tumi.scene7.com/is/image/Tumi/1465662693_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1465662693_sw"
+              },
+              {
+                "product_url": "/p/celina-backpack-0146566405E/",
+                "color": "Deep Plum",
+                "final_price": 379,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146566405E_alt1,https://tumi.scene7.com/is/image/Tumi/146566405E_alt2,https://tumi.scene7.com/is/image/Tumi/146566405E_alt3,https://tumi.scene7.com/is/image/Tumi/146566405E_alt5,https://tumi.scene7.com/is/image/Tumi/146566405E_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146566405E_sw"
+              },
+              {
+                "product_url": "/p/celina-backpack-0146566A027/",
+                "color": "Desert Red",
+                "final_price": 329,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146566A027_alt1,https://tumi.scene7.com/is/image/Tumi/146566A027_alt2,https://tumi.scene7.com/is/image/Tumi/146566A027_alt3,https://tumi.scene7.com/is/image/Tumi/146566A027_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146566A027_sw"
+              },
+              {
+                "product_url": "/p/celina-backpack-0146566A030/",
+                "color": "Fog",
+                "final_price": 475,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146566A030_alt1,https://tumi.scene7.com/is/image/Tumi/146566A030_alt2,https://tumi.scene7.com/is/image/Tumi/146566A030_alt3,https://tumi.scene7.com/is/image/Tumi/146566A030_alt4,https://tumi.scene7.com/is/image/Tumi/146566A030_alt5,https://tumi.scene7.com/is/image/Tumi/146566A030_alt6,https://tumi.scene7.com/is/image/Tumi/146566A030_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146566A030_sw"
+              },
+              {
+                "product_url": "/p/celina-backpack-0146566T522/",
+                "color": "Black/Gunmetal",
+                "final_price": 475,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146566T522_alt1,https://tumi.scene7.com/is/image/Tumi/146566T522_alt2,https://tumi.scene7.com/is/image/Tumi/146566T522_alt3,https://tumi.scene7.com/is/image/Tumi/146566T522_alt4,https://tumi.scene7.com/is/image/Tumi/146566T522_alt5,https://tumi.scene7.com/is/image/Tumi/146566T522_alt6,https://tumi.scene7.com/is/image/Tumi/146566T522_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146566T522_sw"
+              },
+              {
+                "product_url": "/p/celina-backpack-0146598A032/",
+                "color": "Swallowtail Print",
+                "final_price": 329,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146598A032_alt1,https://tumi.scene7.com/is/image/Tumi/146598A032_alt2,https://tumi.scene7.com/is/image/Tumi/146598A032_alt3,https://tumi.scene7.com/is/image/Tumi/146598A032_alt4,https://tumi.scene7.com/is/image/Tumi/146598A032_alt5,https://tumi.scene7.com/is/image/Tumi/146598A032_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146598A032_sw"
+              },
+              {
+                "product_url": "/p/celina-backpack-0146598A222/",
+                "color": "Navy Liquid Print",
+                "final_price": 379,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146598A222_alt1,https://tumi.scene7.com/is/image/Tumi/146598A222_alt2,https://tumi.scene7.com/is/image/Tumi/146598A222_alt3,https://tumi.scene7.com/is/image/Tumi/146598A222_alt5,https://tumi.scene7.com/is/image/Tumi/146598A222_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146598A222_sw"
+              },
+              {
+                "product_url": "/p/celina-backpack-0146566A311/",
+                "color": "Halogen Blue",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146566A311_alt1,https://tumi.scene7.com/is/image/Tumi/146566A311_alt2,https://tumi.scene7.com/is/image/Tumi/146566A311_alt3,https://tumi.scene7.com/is/image/Tumi/146566A311_alt4,https://tumi.scene7.com/is/image/Tumi/146566A311_alt5,https://tumi.scene7.com/is/image/Tumi/146566A311_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146566A311_sw"
+              },
+              {
+                "product_url": "/p/celina-backpack-0146566A312/",
+                "color": "Light Mauve",
+                "final_price": 475,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146566A312_alt1,https://tumi.scene7.com/is/image/Tumi/146566A312_alt2,https://tumi.scene7.com/is/image/Tumi/146566A312_alt3,https://tumi.scene7.com/is/image/Tumi/146566A312_alt4,https://tumi.scene7.com/is/image/Tumi/146566A312_alt5,https://tumi.scene7.com/is/image/Tumi/146566A312_alt6,https://tumi.scene7.com/is/image/Tumi/146566A312_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146566A312_sw"
+              },
+              {
+                "product_url": "/p/celina-backpack-0146598A321/",
+                "color": "Sentosa Sunset",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146598A321_alt1,https://tumi.scene7.com/is/image/Tumi/146598A321_alt2,https://tumi.scene7.com/is/image/Tumi/146598A321_alt3,https://tumi.scene7.com/is/image/Tumi/146598A321_alt4,https://tumi.scene7.com/is/image/Tumi/146598A321_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146598A321_sw"
+              },
+              {
+                "product_url": "/p/celina-backpack-01465661954/",
+                "color": "Lilac",
+                "final_price": 329,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1465661954_alt1,https://tumi.scene7.com/is/image/Tumi/1465661954_alt2,https://tumi.scene7.com/is/image/Tumi/1465661954_alt3,https://tumi.scene7.com/is/image/Tumi/1465661954_alt4,https://tumi.scene7.com/is/image/Tumi/1465661954_alt5,https://tumi.scene7.com/is/image/Tumi/1465661954_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1465661954_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/celina-backpack-01465661438/",
+                "color": "Indigo",
+                "final_price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1465661438_alt1,https://tumi.scene7.com/is/image/Tumi/1465661438_alt2,https://tumi.scene7.com/is/image/Tumi/1465661438_alt3,https://tumi.scene7.com/is/image/Tumi/1465661438_alt4,https://tumi.scene7.com/is/image/Tumi/1465661438_alt7",
+                "price_ca": 620,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1465661438_sw",
+                "final_price_ca": 620
+              },
+              {
+                "product_url": "/p/celina-backpack-01465662693/",
+                "color": "Black/Gold",
+                "final_price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1465662693_alt7,https://tumi.scene7.com/is/image/Tumi/1465662693_alt1,https://tumi.scene7.com/is/image/Tumi/1465662693_alt2,https://tumi.scene7.com/is/image/Tumi/1465662693_alt3,https://tumi.scene7.com/is/image/Tumi/1465662693_alt4,https://tumi.scene7.com/is/image/Tumi/1465662693_alt5,https://tumi.scene7.com/is/image/Tumi/1465662693_alt6",
+                "price_ca": 620,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1465662693_sw",
+                "final_price_ca": 620
+              },
+              {
+                "product_url": "/p/celina-backpack-0146566A030/",
+                "color": "Fog",
+                "final_price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146566A030_alt1,https://tumi.scene7.com/is/image/Tumi/146566A030_alt2,https://tumi.scene7.com/is/image/Tumi/146566A030_alt3,https://tumi.scene7.com/is/image/Tumi/146566A030_alt4,https://tumi.scene7.com/is/image/Tumi/146566A030_alt5,https://tumi.scene7.com/is/image/Tumi/146566A030_alt6,https://tumi.scene7.com/is/image/Tumi/146566A030_alt7",
+                "price_ca": 620,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146566A030_sw",
+                "final_price_ca": 620
+              },
+              {
+                "product_url": "/p/celina-backpack-0146566T522/",
+                "color": "Black/Gunmetal",
+                "final_price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146566T522_alt1,https://tumi.scene7.com/is/image/Tumi/146566T522_alt2,https://tumi.scene7.com/is/image/Tumi/146566T522_alt3,https://tumi.scene7.com/is/image/Tumi/146566T522_alt4,https://tumi.scene7.com/is/image/Tumi/146566T522_alt5,https://tumi.scene7.com/is/image/Tumi/146566T522_alt6,https://tumi.scene7.com/is/image/Tumi/146566T522_alt7",
+                "price_ca": 620,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146566T522_sw",
+                "final_price_ca": 620
+              },
+              {
+                "product_url": "/p/celina-backpack-0146566A311/",
+                "color": "Halogen Blue",
+                "final_price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146566A311_alt1,https://tumi.scene7.com/is/image/Tumi/146566A311_alt2,https://tumi.scene7.com/is/image/Tumi/146566A311_alt3,https://tumi.scene7.com/is/image/Tumi/146566A311_alt4,https://tumi.scene7.com/is/image/Tumi/146566A311_alt5,https://tumi.scene7.com/is/image/Tumi/146566A311_alt7",
+                "price_ca": 685,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146566A311_sw",
+                "final_price_ca": 685
+              },
+              {
+                "product_url": "/p/celina-backpack-0146566A312/",
+                "color": "Light Mauve",
+                "final_price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146566A312_alt1,https://tumi.scene7.com/is/image/Tumi/146566A312_alt2,https://tumi.scene7.com/is/image/Tumi/146566A312_alt3,https://tumi.scene7.com/is/image/Tumi/146566A312_alt4,https://tumi.scene7.com/is/image/Tumi/146566A312_alt5,https://tumi.scene7.com/is/image/Tumi/146566A312_alt6,https://tumi.scene7.com/is/image/Tumi/146566A312_alt7",
+                "price_ca": 620,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146566A312_sw",
+                "final_price_ca": 620
+              },
+              {
+                "product_url": "/p/celina-backpack-0146598A321/",
+                "color": "Sentosa Sunset",
+                "final_price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146598A321_alt1,https://tumi.scene7.com/is/image/Tumi/146598A321_alt2,https://tumi.scene7.com/is/image/Tumi/146598A321_alt3,https://tumi.scene7.com/is/image/Tumi/146598A321_alt4,https://tumi.scene7.com/is/image/Tumi/146598A321_alt7",
+                "price_ca": 685,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146598A321_sw",
+                "final_price_ca": 685
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/celina-backpack-01465662693/",
+                "color": "Black/Gold",
+                "final_price": 475,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1465662693_alt7,https://tumi.scene7.com/is/image/Tumi/1465662693_alt1,https://tumi.scene7.com/is/image/Tumi/1465662693_alt2,https://tumi.scene7.com/is/image/Tumi/1465662693_alt3,https://tumi.scene7.com/is/image/Tumi/1465662693_alt4,https://tumi.scene7.com/is/image/Tumi/1465662693_alt5,https://tumi.scene7.com/is/image/Tumi/1465662693_alt6",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1465662693_sw",
+                "swatch_sku": "01465662693"
+              },
+              {
+                "product_url": "/p/celina-backpack-01465661438/",
+                "color": "Indigo",
+                "final_price": 475,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1465661438_alt1,https://tumi.scene7.com/is/image/Tumi/1465661438_alt2,https://tumi.scene7.com/is/image/Tumi/1465661438_alt3,https://tumi.scene7.com/is/image/Tumi/1465661438_alt4,https://tumi.scene7.com/is/image/Tumi/1465661438_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1465661438_sw",
+                "swatch_sku": "01465661438"
+              },
+              {
+                "product_url": "/p/celina-backpack-0146566A030/",
+                "color": "Fog",
+                "final_price": 475,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146566A030_alt1,https://tumi.scene7.com/is/image/Tumi/146566A030_alt2,https://tumi.scene7.com/is/image/Tumi/146566A030_alt3,https://tumi.scene7.com/is/image/Tumi/146566A030_alt4,https://tumi.scene7.com/is/image/Tumi/146566A030_alt5,https://tumi.scene7.com/is/image/Tumi/146566A030_alt6,https://tumi.scene7.com/is/image/Tumi/146566A030_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146566A030_sw",
+                "swatch_sku": "0146566A030"
+              },
+              {
+                "product_url": "/p/celina-backpack-0146566T522/",
+                "color": "Black/Gunmetal",
+                "final_price": 475,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146566T522_alt1,https://tumi.scene7.com/is/image/Tumi/146566T522_alt2,https://tumi.scene7.com/is/image/Tumi/146566T522_alt3,https://tumi.scene7.com/is/image/Tumi/146566T522_alt4,https://tumi.scene7.com/is/image/Tumi/146566T522_alt5,https://tumi.scene7.com/is/image/Tumi/146566T522_alt6,https://tumi.scene7.com/is/image/Tumi/146566T522_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146566T522_sw",
+                "swatch_sku": "0146566T522"
+              },
+              {
+                "product_url": "/p/celina-backpack-0146566A311/",
+                "color": "Halogen Blue",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146566A311_alt1,https://tumi.scene7.com/is/image/Tumi/146566A311_alt2,https://tumi.scene7.com/is/image/Tumi/146566A311_alt3,https://tumi.scene7.com/is/image/Tumi/146566A311_alt4,https://tumi.scene7.com/is/image/Tumi/146566A311_alt5,https://tumi.scene7.com/is/image/Tumi/146566A311_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146566A311_sw",
+                "swatch_sku": "0146566A311"
+              },
+              {
+                "product_url": "/p/celina-backpack-0146566A312/",
+                "color": "Light Mauve",
+                "final_price": 475,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146566A312_alt1,https://tumi.scene7.com/is/image/Tumi/146566A312_alt2,https://tumi.scene7.com/is/image/Tumi/146566A312_alt3,https://tumi.scene7.com/is/image/Tumi/146566A312_alt4,https://tumi.scene7.com/is/image/Tumi/146566A312_alt5,https://tumi.scene7.com/is/image/Tumi/146566A312_alt6,https://tumi.scene7.com/is/image/Tumi/146566A312_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146566A312_sw",
+                "swatch_sku": "0146566A312"
+              },
+              {
+                "product_url": "/p/celina-backpack-0146598A321/",
+                "color": "Sentosa Sunset",
+                "final_price": 525,
+                "price": 525,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146598A321_alt1,https://tumi.scene7.com/is/image/Tumi/146598A321_alt2,https://tumi.scene7.com/is/image/Tumi/146598A321_alt3,https://tumi.scene7.com/is/image/Tumi/146598A321_alt4,https://tumi.scene7.com/is/image/Tumi/146598A321_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146598A321_sw",
+                "swatch_sku": "0146598A321"
+              }
+            ],
+            "category_names": [
+              "Best Sellers",
+              "15\" Laptop Backpacks",
+              "Gifts For Her",
+              "Black Backpacks",
+              "Travel Backpacks",
+              "Nylon",
+              "Mother&#x27;s Day Gifts",
+              "Women&#x27;s Best Sellers",
+              "Backpacks",
+              "Voyageur",
+              "Women&#x27;s Backpacks",
+              "Recycled Fabric",
+              "Gifts for Grads",
+              "College Backpacks",
+              "Valentine&#x27;s Day Gifts",
+              "Commuter Backpacks",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 620,
+            "capacity": "10 L",
+            "stock_USwarehouse": 1617,
+            "stock_CAwarehouse": 1258,
+            "feature": [
+              "Media Pocket",
+              "Monogramable"
+            ],
+            "widthInches": "10.600",
+            "heightInches": "16.000",
+            "star_rating": 4.5,
+            "id": 1591508736,
+            "sku": "01465662693",
+            "lengthInches": "6.500",
+            "product_group": "01465662693",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/1465662693_main",
+            "heightCms": "40.500",
+            "badge_en": "BESTSELLER",
+            "collection": "Voyageur",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/celina-backpack-01465662693/",
+            "final_price_ca": 620,
+            "badge": "BESTSELLER",
+            "widthCms": "27.000",
+            "name": "Celina Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1465662693_alt7,https://tumi.scene7.com/is/image/Tumi/1465662693_alt1,https://tumi.scene7.com/is/image/Tumi/1465662693_alt2,https://tumi.scene7.com/is/image/Tumi/1465662693_alt3,https://tumi.scene7.com/is/image/Tumi/1465662693_alt4,https://tumi.scene7.com/is/image/Tumi/1465662693_alt5,https://tumi.scene7.com/is/image/Tumi/1465662693_alt6",
+            "breadcrumbs": "Backpacks&gt;College Backpacks||Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||Gifts&gt;Mother&#x27;s Day Gifts||Backpacks&gt;Shop By Style&gt;Women&#x27;s Backpacks||Backpacks&gt;Shop By Material&gt;Recycled Fabric||Backpacks&gt;Black Backpacks||Backpacks&gt;Shop By Material&gt;Nylon||Gifts&gt;Gifts for Grads||Collections&gt;Collections&gt;Voyageur||Backpacks&gt;Shop By Purpose&gt;Commuter Backpacks||Gifts&gt;Best Sellers||Backpacks&gt;Shop By Laptop Size&gt;15\" Laptop Backpacks||Gifts&gt;Gifts For Her||New&gt;Women&#x27;s Best Sellers||New&gt;Valentine&#x27;s Day Gifts||Backpacks",
+            "final_price": "475.00",
+            "price": "475.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "false",
+            "collection_url": "/c/alpha-bravo/",
+            "swatch_list": [
+              {
+                "product_url": "/p/search-backpack-01424801041/",
+                "color": "Black",
+                "final_price": 595,
+                "price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801041_alt7,https://tumi.scene7.com/is/image/Tumi/1424801041_alt1,https://tumi.scene7.com/is/image/Tumi/1424801041_alt2,https://tumi.scene7.com/is/image/Tumi/1424801041_alt3,https://tumi.scene7.com/is/image/Tumi/1424801041_alt4,https://tumi.scene7.com/is/image/Tumi/1424801041_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801041_sw"
+              },
+              {
+                "product_url": "/p/search-backpack-01424802665/",
+                "color": "Grey/Blue",
+                "final_price": 475,
+                "price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424802665_alt1,https://tumi.scene7.com/is/image/Tumi/1424802665_alt2,https://tumi.scene7.com/is/image/Tumi/1424802665_alt3,https://tumi.scene7.com/is/image/Tumi/1424802665_alt4,https://tumi.scene7.com/is/image/Tumi/1424802665_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424802665_sw"
+              },
+              {
+                "product_url": "/p/search-backpack-0146707A027/",
+                "color": "Desert Red",
+                "final_price": 499,
+                "price": 625,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/146707A027_alt1,https://tumi.scene7.com/is/image/Tumi/146707A027_alt2,https://tumi.scene7.com/is/image/Tumi/146707A027_alt3,https://tumi.scene7.com/is/image/Tumi/146707A027_alt4,https://tumi.scene7.com/is/image/Tumi/146707A027_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/146707A027_sw"
+              },
+              {
+                "product_url": "/p/search-backpack-0148605A213/",
+                "color": "Grey Dynamic Stitch",
+                "final_price": 499,
+                "price": 625,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/148605A213_alt1,https://tumi.scene7.com/is/image/Tumi/148605A213_alt2,https://tumi.scene7.com/is/image/Tumi/148605A213_alt3,https://tumi.scene7.com/is/image/Tumi/148605A213_alt4,https://tumi.scene7.com/is/image/Tumi/148605A213_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/148605A213_sw"
+              },
+              {
+                "product_url": "/p/search-backpack-0150189A320/",
+                "color": "Royal Blue Ombre",
+                "final_price": 650,
+                "price": 650,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150189A320_alt1,https://tumi.scene7.com/is/image/Tumi/150189A320_alt2,https://tumi.scene7.com/is/image/Tumi/150189A320_alt3,https://tumi.scene7.com/is/image/Tumi/150189A320_alt4,https://tumi.scene7.com/is/image/Tumi/150189A320_alt5,https://tumi.scene7.com/is/image/Tumi/150189A320_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150189A320_sw"
+              },
+              {
+                "product_url": "/p/search-backpack-01424801174/",
+                "color": "Charcoal",
+                "final_price": 595,
+                "price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801174_alt1,https://tumi.scene7.com/is/image/Tumi/1424801174_alt2,https://tumi.scene7.com/is/image/Tumi/1424801174_alt3,https://tumi.scene7.com/is/image/Tumi/1424801174_alt4,https://tumi.scene7.com/is/image/Tumi/1424801174_alt5,https://tumi.scene7.com/is/image/Tumi/1424801174_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801174_sw"
+              },
+              {
+                "product_url": "/p/search-backpack-01424801596/",
+                "color": "Navy",
+                "final_price": 595,
+                "price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801596_alt1,https://tumi.scene7.com/is/image/Tumi/1424801596_alt2,https://tumi.scene7.com/is/image/Tumi/1424801596_alt3,https://tumi.scene7.com/is/image/Tumi/1424801596_alt4,https://tumi.scene7.com/is/image/Tumi/1424801596_alt5,https://tumi.scene7.com/is/image/Tumi/1424801596_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801596_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/search-backpack-01424801041/",
+                "color": "Black",
+                "final_price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801041_alt7,https://tumi.scene7.com/is/image/Tumi/1424801041_alt1,https://tumi.scene7.com/is/image/Tumi/1424801041_alt2,https://tumi.scene7.com/is/image/Tumi/1424801041_alt3,https://tumi.scene7.com/is/image/Tumi/1424801041_alt4,https://tumi.scene7.com/is/image/Tumi/1424801041_alt5",
+                "price_ca": 775,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801041_sw",
+                "final_price_ca": 775
+              },
+              {
+                "product_url": "/p/search-backpack-0150189A320/",
+                "color": "Royal Blue Ombre",
+                "final_price": 650,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150189A320_alt1,https://tumi.scene7.com/is/image/Tumi/150189A320_alt2,https://tumi.scene7.com/is/image/Tumi/150189A320_alt3,https://tumi.scene7.com/is/image/Tumi/150189A320_alt4,https://tumi.scene7.com/is/image/Tumi/150189A320_alt5,https://tumi.scene7.com/is/image/Tumi/150189A320_alt7",
+                "price_ca": 845,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150189A320_sw",
+                "final_price_ca": 845
+              },
+              {
+                "product_url": "/p/search-backpack-01424801174/",
+                "color": "Charcoal",
+                "final_price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801174_alt1,https://tumi.scene7.com/is/image/Tumi/1424801174_alt2,https://tumi.scene7.com/is/image/Tumi/1424801174_alt3,https://tumi.scene7.com/is/image/Tumi/1424801174_alt4,https://tumi.scene7.com/is/image/Tumi/1424801174_alt5,https://tumi.scene7.com/is/image/Tumi/1424801174_alt7",
+                "price_ca": 775,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801174_sw",
+                "final_price_ca": 775
+              },
+              {
+                "product_url": "/p/search-backpack-01424801596/",
+                "color": "Navy",
+                "final_price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801596_alt1,https://tumi.scene7.com/is/image/Tumi/1424801596_alt2,https://tumi.scene7.com/is/image/Tumi/1424801596_alt3,https://tumi.scene7.com/is/image/Tumi/1424801596_alt4,https://tumi.scene7.com/is/image/Tumi/1424801596_alt5,https://tumi.scene7.com/is/image/Tumi/1424801596_alt7",
+                "price_ca": 775,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801596_sw",
+                "final_price_ca": 775
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/search-backpack-01424801041/",
+                "color": "Black",
+                "final_price": 595,
+                "price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801041_alt7,https://tumi.scene7.com/is/image/Tumi/1424801041_alt1,https://tumi.scene7.com/is/image/Tumi/1424801041_alt2,https://tumi.scene7.com/is/image/Tumi/1424801041_alt3,https://tumi.scene7.com/is/image/Tumi/1424801041_alt4,https://tumi.scene7.com/is/image/Tumi/1424801041_alt5",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801041_sw",
+                "swatch_sku": "01424801041"
+              },
+              {
+                "product_url": "/p/search-backpack-0150189A320/",
+                "color": "Royal Blue Ombre",
+                "final_price": 650,
+                "price": 650,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/150189A320_alt1,https://tumi.scene7.com/is/image/Tumi/150189A320_alt2,https://tumi.scene7.com/is/image/Tumi/150189A320_alt3,https://tumi.scene7.com/is/image/Tumi/150189A320_alt4,https://tumi.scene7.com/is/image/Tumi/150189A320_alt5,https://tumi.scene7.com/is/image/Tumi/150189A320_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/150189A320_sw",
+                "swatch_sku": "0150189A320"
+              },
+              {
+                "product_url": "/p/search-backpack-01424801174/",
+                "color": "Charcoal",
+                "final_price": 595,
+                "price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801174_alt1,https://tumi.scene7.com/is/image/Tumi/1424801174_alt2,https://tumi.scene7.com/is/image/Tumi/1424801174_alt3,https://tumi.scene7.com/is/image/Tumi/1424801174_alt4,https://tumi.scene7.com/is/image/Tumi/1424801174_alt5,https://tumi.scene7.com/is/image/Tumi/1424801174_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801174_sw",
+                "swatch_sku": "01424801174"
+              },
+              {
+                "product_url": "/p/search-backpack-01424801596/",
+                "color": "Navy",
+                "final_price": 595,
+                "price": 595,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801596_alt1,https://tumi.scene7.com/is/image/Tumi/1424801596_alt2,https://tumi.scene7.com/is/image/Tumi/1424801596_alt3,https://tumi.scene7.com/is/image/Tumi/1424801596_alt4,https://tumi.scene7.com/is/image/Tumi/1424801596_alt5,https://tumi.scene7.com/is/image/Tumi/1424801596_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1424801596_sw",
+                "swatch_sku": "01424801596"
+              }
+            ],
+            "category_names": [
+              "Gifts for Grads",
+              "Recycled Fabric",
+              "College Backpacks",
+              "Valentine&#x27;s Day Gifts",
+              "Active Backpacks",
+              "Alpha Bravo",
+              "Men&#x27;s Best Sellers",
+              "Best Sellers",
+              "Ballistic Nylon Backpacks",
+              "Gifts For Him",
+              "Black Backpacks",
+              "Travel Backpacks",
+              "Father&#x27;s Day Gifts",
+              "Commuter Backpacks",
+              "Carry On Backpack",
+              "Laptop Backpacks",
+              "Men&#x27;s Backpacks",
+              "Backpacks",
+              "15\" Laptop Backpacks"
+            ],
+            "price_ca": 775,
+            "stock_USwarehouse": 3352,
+            "stock_CAwarehouse": 2662,
+            "feature": [
+              "Media Pocket",
+              "Monogramable"
+            ],
+            "widthInches": "14.000",
+            "heightInches": "17.000",
+            "star_rating": 5,
+            "id": 2025706450,
+            "sku": "01424801041",
+            "lengthInches": "8.250",
+            "product_group": "01424801041",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/1424801041_main",
+            "heightCms": "43.000",
+            "badge_en": "BESTSELLER",
+            "collection": "Alpha Bravo",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/search-backpack-01424801041/",
+            "final_price_ca": 775,
+            "badge": "BESTSELLER",
+            "widthCms": "35.500",
+            "name": "Search Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1424801041_alt7,https://tumi.scene7.com/is/image/Tumi/1424801041_alt1,https://tumi.scene7.com/is/image/Tumi/1424801041_alt2,https://tumi.scene7.com/is/image/Tumi/1424801041_alt3,https://tumi.scene7.com/is/image/Tumi/1424801041_alt4,https://tumi.scene7.com/is/image/Tumi/1424801041_alt5",
+            "breadcrumbs": "Backpacks&gt;College Backpacks||Backpacks&gt;Shop By Material&gt;Recycled Fabric||Backpacks&gt;Black Backpacks||Gifts&gt;Gifts for Grads||Gifts&gt;Best Sellers||Gifts&gt;Father&#x27;s Day Gifts||Backpacks&gt;Shop By Purpose&gt;Active Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||Gifts&gt;Gifts For Him||Backpacks&gt;Shop By Style&gt;Men&#x27;s Backpacks||Collections&gt;Collections&gt;Alpha Bravo||New&gt;Valentine&#x27;s Day Gifts||Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;Carry On Backpack||Backpacks&gt;Ballistic Nylon Backpacks||Backpacks||Backpacks&gt;Shop By Purpose&gt;Commuter Backpacks||Backpacks&gt;Shop By Laptop Size&gt;15\" Laptop Backpacks||New&gt;Men&#x27;s Best Sellers",
+            "final_price": "595.00",
+            "price": "595.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          },
+          {
+            "new_arrival": "false",
+            "collection_url": "/c/alpha-bravo/",
+            "swatch_list": [
+              {
+                "product_url": "/p/dynamic-backpack-0148606A213/",
+                "color": "Grey Dynamic Stitch",
+                "final_price": 379,
+                "price": 475,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/148606A213_alt1,https://tumi.scene7.com/is/image/Tumi/148606A213_alt2,https://tumi.scene7.com/is/image/Tumi/148606A213_alt3,https://tumi.scene7.com/is/image/Tumi/148606A213_alt4",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/148606A213_sw"
+              },
+              {
+                "product_url": "/p/dynamic-backack-01426141174/",
+                "color": "Charcoal",
+                "final_price": 450,
+                "price": 450,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1426141174_alt1,https://tumi.scene7.com/is/image/Tumi/1426141174_alt2,https://tumi.scene7.com/is/image/Tumi/1426141174_alt3,https://tumi.scene7.com/is/image/Tumi/1426141174_alt4",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1426141174_sw"
+              },
+              {
+                "product_url": "/p/dynamic-backpack-01426141041/",
+                "color": "Black",
+                "final_price": 450,
+                "price": 450,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1426141041_alt1,https://tumi.scene7.com/is/image/Tumi/1426141041_alt2,https://tumi.scene7.com/is/image/Tumi/1426141041_alt3,https://tumi.scene7.com/is/image/Tumi/1426141041_alt4,https://tumi.scene7.com/is/image/Tumi/1426141041_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1426141041_sw"
+              }
+            ],
+            "swatch_list_ca": [
+              {
+                "product_url": "/p/dynamic-backack-01426141174/",
+                "color": "Charcoal",
+                "final_price": 450,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1426141174_alt1,https://tumi.scene7.com/is/image/Tumi/1426141174_alt2,https://tumi.scene7.com/is/image/Tumi/1426141174_alt3,https://tumi.scene7.com/is/image/Tumi/1426141174_alt4",
+                "price_ca": 585,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1426141174_sw",
+                "final_price_ca": 585
+              },
+              {
+                "product_url": "/p/dynamic-backpack-01426141041/",
+                "color": "Black",
+                "final_price": 450,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1426141041_alt1,https://tumi.scene7.com/is/image/Tumi/1426141041_alt2,https://tumi.scene7.com/is/image/Tumi/1426141041_alt3,https://tumi.scene7.com/is/image/Tumi/1426141041_alt4,https://tumi.scene7.com/is/image/Tumi/1426141041_alt7",
+                "price_ca": 585,
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1426141041_sw",
+                "final_price_ca": 585
+              }
+            ],
+            "swatch_list_us": [
+              {
+                "product_url": "/p/dynamic-backpack-01426141041/",
+                "color": "Black",
+                "final_price": 450,
+                "price": 450,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1426141041_alt1,https://tumi.scene7.com/is/image/Tumi/1426141041_alt2,https://tumi.scene7.com/is/image/Tumi/1426141041_alt3,https://tumi.scene7.com/is/image/Tumi/1426141041_alt4,https://tumi.scene7.com/is/image/Tumi/1426141041_alt7",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1426141041_sw",
+                "swatch_sku": "01426141041"
+              },
+              {
+                "product_url": "/p/dynamic-backack-01426141174/",
+                "color": "Charcoal",
+                "final_price": 450,
+                "price": 450,
+                "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1426141174_alt1,https://tumi.scene7.com/is/image/Tumi/1426141174_alt2,https://tumi.scene7.com/is/image/Tumi/1426141174_alt3,https://tumi.scene7.com/is/image/Tumi/1426141174_alt4",
+                "swatch_image": "https://tumi.scene7.com/is/image/Tumi/1426141174_sw",
+                "swatch_sku": "01426141174"
+              }
+            ],
+            "category_names": [
+              "Best Sellers",
+              "15\" Laptop Backpacks",
+              "Black Backpacks",
+              "Travel Backpacks",
+              "Commuter Backpacks",
+              "Backpacks",
+              "Men&#x27;s Backpacks",
+              "Recycled Fabric",
+              "College Backpacks",
+              "Ballistic Nylon Backpacks",
+              "Carry On Backpack",
+              "Alpha Bravo",
+              "Laptop Backpacks"
+            ],
+            "price_ca": 585,
+            "stock_USwarehouse": 280,
+            "stock_CAwarehouse": 683,
+            "feature": [
+              "Media Pocket",
+              "Expandable",
+              "Monogramable"
+            ],
+            "widthInches": "11.250",
+            "heightInches": "16.250",
+            "star_rating": 5,
+            "id": 1806660677,
+            "sku": "01426141041",
+            "lengthInches": "5.500",
+            "product_group": "01426141041",
+            "available_ca": "1",
+            "available_us": "1",
+            "image_url": "//tumi.scene7.com/is/image/Tumi/1426141041_main",
+            "heightCms": "41.500",
+            "badge_en": "RECYCLED MATERIALS",
+            "collection": "Alpha Bravo",
+            "netWeightLb": "Under 5 lbs (2.7 kg)",
+            "url": "/p/dynamic-backpack-01426141041/",
+            "final_price_ca": 585,
+            "badge": "RECYCLED MATERIALS",
+            "widthCms": "28.500",
+            "name": "Dynamic Backpack",
+            "altimage_url": "https://tumi.scene7.com/is/image/Tumi/1426141041_alt1,https://tumi.scene7.com/is/image/Tumi/1426141041_alt2,https://tumi.scene7.com/is/image/Tumi/1426141041_alt3,https://tumi.scene7.com/is/image/Tumi/1426141041_alt4,https://tumi.scene7.com/is/image/Tumi/1426141041_alt7",
+            "breadcrumbs": "Backpacks&gt;Shop By Purpose&gt;Laptop Backpacks||Backpacks&gt;College Backpacks||Backpacks&gt;Shop By Purpose&gt;Travel Backpacks||Backpacks&gt;Shop By Material&gt;Recycled Fabric||Backpacks&gt;Black Backpacks||Backpacks&gt;Shop By Style&gt;Men&#x27;s Backpacks||Backpacks&gt;Shop By Purpose&gt;Commuter Backpacks||Backpacks&gt;Ballistic Nylon Backpacks||Backpacks&gt;Carry On Backpack||Gifts&gt;Best Sellers||Backpacks&gt;Shop By Laptop Size&gt;15\" Laptop Backpacks||Collections&gt;Collections&gt;Alpha Bravo||Backpacks",
+            "final_price": "450.00",
+            "price": "450.00",
+            "item_category": "Backpacks",
+            "item_category2": "Travel Backpacks"
+          }
+        ],
+        "n_item": 18
+      }
+    },
+    "n_item": 18,
+    "total_item": 87,
+    "page_number": 1,
+    "total_page": 5,
+    "widget": {
+      "rfkid": "rfkid_10",
+      "used_in": "page",
+      "variation_id": "893368",
+      "type": "content_grid"
+    },
+    "sort": {
+      "choices": [
+        {
+          "name": "featured",
+          "order": "desc",
+          "label": "Featured"
+        },
+        {
+          "name": "bestsellers",
+          "order": "desc",
+          "label": "Best Sellers"
+        },
+        {
+          "name": "price",
+          "order": "asc",
+          "label": "Price: Low to High"
+        },
+        {
+          "name": "price",
+          "order": "desc",
+          "label": "Price: High to Low"
+        },
+        {
+          "name": "rating",
+          "order": "desc",
+          "label": "Top Rated"
+        },
+        {
+          "name": "newest",
+          "order": "desc",
+          "label": "New Releases"
+        }
+      ]
+    },
+    "rid": "response_id:93178079:1712007809.4007618",
+    "url": "?data%3D%7B%22context%22%3A%20%7B%22page%22%3A%20%7B%22uri%22%3A%20%22/c/backpacks/travel/%22%2C%20%22locale_country%22%3A%20%22US%22%2C%20%22locale_language%22%3A%20%22en%22%7D%2C%20%22geo%22%3A%20%7B%22ip%22%3A%20%22204.2.49.116%22%7D%2C%20%22browser%22%3A%20%7B%22device%22%3A%20%22pc%22%7D%2C%20%22user%22%3A%20%7B%22uuid%22%3A%20%2293178079-2f-x4-40-1p-0afb32o5olr9wclxx86x-1712006827497%22%2C%20%22groups%22%3A%20%5B%22US%22%5D%7D%7D%2C%20%22widget%22%3A%20%7B%22rfkid%22%3A%20%22rfkid_10%22%2C%20%22used_in%22%3A%20%22page%22%2C%20%22variation_id%22%3A%20%22893368%22%2C%20%22type%22%3A%20%22content_grid%22%7D%2C%20%22n_item%22%3A%2018%2C%20%22page_number%22%3A%201%2C%20%22facet%22%3A%20%7B%22all%22%3A%20true%2C%20%22max%22%3A%202147483647%2C%20%22total%22%3A%20false%2C%20%22sort%22%3A%20null%2C%20%22empty%22%3A%20false%7D%2C%20%22sort%22%3A%20%7B%22value%22%3A%20%5B%7B%22name%22%3A%20%22featured%22%2C%20%22order%22%3A%20%22desc%22%7D%5D%2C%20%22choices%22%3A%20true%7D%2C%20%22content%22%3A%20%7B%22product%22%3A%20%7B%22max%22%3A%2018%2C%20%22sort%22%3A%20%5B%7B%22name%22%3A%20%22featured%22%2C%20%22order%22%3A%20%22desc%22%2C%20%22type%22%3A%20%22featured%22%7D%5D%7D%7D%7D",
+    "ts": 1712007809401,
+    "dt": 39
+  }

@@ -1,0 +1,438 @@
+
+AK-1>>>Nick Begich>>>R>>>125195>>>Mary Peltola>>>D>>>114918>>>71
+AL-1>>>Barry Moore>>>R>>>257310>>>Tom Holmes>>>D>>>70451>>>99
+AL-2>>>Shomari Figures>>>D>>>157092>>>Caroleene Dobson>>>R>>>130847>>>90
+AL-3>>>Mike Rogers>>>R>>>242652>>>undefined>>>undefined>>>undefined>>>94
+AL-4>>>Robert Aderholt>>>R>>>273915>>>undefined>>>undefined>>>undefined>>>99
+AL-5>>>Dale Strong>>>R>>>249365>>>undefined>>>undefined>>>undefined>>>91
+AL-6>>>Gary Palmer>>>R>>>243418>>>Elizabeth Anderson>>>D>>>102266>>>99
+AL-7>>>Terri Sewell>>>D>>>186407>>>Robin Litaker>>>R>>>106168>>>87
+AR-1>>>Rick Crawford>>>R>>>194434>>>Rodney Govens>>>D>>>63917>>>93
+AR-2>>>French Hill>>>R>>>180229>>>Marcus Jones>>>D>>>125395>>>92
+AR-3>>>Steve Womack>>>R>>>191788>>>Caitlin Draper>>>D>>>95396>>>99
+AR-4>>>Bruce Westerman>>>R>>>196719>>>Risie Howard>>>D>>>72984>>>90
+AZ-1>>>David Schweikert>>>R>>>211738>>>Amish Shah>>>D>>>194192>>>84
+AZ-2>>>Eli Crane>>>R>>>202482>>>Jonathan Nez>>>D>>>171153>>>88
+AZ-3>>>Yassamin Ansari>>>D>>>126094>>>Jeff Zink>>>R>>>48077>>>75
+AZ-4>>>Greg Stanton>>>D>>>156215>>>Kelly Cooper>>>R>>>136443>>>89
+AZ-5>>>Andy Biggs>>>R>>>240527>>>Katrina Schaffner>>>D>>>156481>>>91
+AZ-6>>>Juan Ciscomani>>>R>>>173654>>>Kirsten Engel>>>D>>>171239>>>77
+AZ-7>>>Raúl Grijalva>>>D>>>132542>>>Daniel Butierez>>>R>>>77344>>>67
+AZ-8>>>Abe Hamadeh>>>R>>>195422>>>Greg Whitten>>>D>>>149557>>>82
+AZ-9>>>Paul Gosar>>>R>>>224765>>>Quacy Smith>>>D>>>116190>>>90
+CA-1>>>Doug LaMalfa>>>R>>>136184>>>Rose Yee>>>D>>>77655>>>61
+CA-2>>>Jared Huffman>>>D>>>172314>>>Chris Coulombe>>>R>>>67488>>>57
+CA-3>>>Kevin Kiley>>>R>>>170406>>>Jessica Morse>>>D>>>130143>>>68
+CA-4>>>Mike Thompson>>>D>>>144198>>>John Munn>>>R>>>77385>>>59
+CA-5>>>Tom McClintock>>>R>>>188098>>>Mike Barkley>>>D>>>112278>>>75
+CA-6>>>Ami Bera>>>D>>>103067>>>Christine Bish>>>R>>>76908>>>54
+CA-7>>>Doris Matsui>>>D>>>118725>>>Tom Silva>>>R>>>62814>>>53
+CA-8>>>John Garamendi>>>D>>>175455>>>Rudy Recile>>>R>>>62796>>>74
+CA-9>>>Josh Harder>>>D>>>85528>>>Kevin Lincoln>>>R>>>81504>>>61
+CA-10>>>Mark DeSaulnier>>>D>>>203881>>>Katherine Piccinini>>>R>>>102255>>>74
+CA-11>>>Nancy Pelosi>>>D>>>219840>>>Bruce Lou>>>R>>>50562>>>68
+CA-12>>>Lateefah Simon>>>D>>>82906>>>Jennifer Tran>>>D>>>47520>>>35
+CA-13>>>John Duarte>>>R>>>66675>>>Adam Gray>>>D>>>63414>>>57
+CA-14>>>Eric Swalwell>>>D>>>94789>>>Vin Kruttiventi>>>R>>>49710>>>44
+CA-15>>>Kevin Mullin>>>D>>>143170>>>Anna Cheng Kramer>>>R>>>55158>>>56
+CA-16>>>Sam Liccardo>>>D>>>128820>>>Evan Low>>>D>>>87737>>>59
+CA-17>>>Ro Khanna>>>D>>>124175>>>Anita Chen>>>R>>>61087>>>62
+CA-18>>>Zoe Lofgren>>>D>>>105069>>>Peter Hernandez>>>R>>>59461>>>62
+CA-19>>>Jimmy Panetta>>>D>>>192709>>>Jason Anderson>>>R>>>82744>>>67
+CA-20>>>Vince Fong>>>R>>>125796>>>Mike Boudreaux>>>R>>>68754>>>62
+CA-21>>>Jim Costa>>>D>>>65967>>>Michael Maher>>>R>>>64664>>>64
+CA-22>>>David Valadao>>>R>>>71495>>>Rudy Salas>>>D>>>61987>>>71
+CA-23>>>Jay Obernolte>>>R>>>108339>>>Derek Marshall>>>D>>>72287>>>60
+CA-24>>>Salud Carbajal>>>D>>>151271>>>Thomas Cole>>>R>>>90108>>>64
+CA-25>>>Raul Ruiz>>>D>>>99351>>>Ian Weeks>>>R>>>76038>>>66
+CA-26>>>Julia Brownley>>>D>>>132886>>>Michael Koslow>>>R>>>110523>>>64
+CA-27>>>George Whitesides>>>D>>>134231>>>Mike Garcia>>>R>>>132117>>>81
+CA-28>>>Judy Chu>>>D>>>174118>>>April Verlato>>>R>>>93605>>>73
+CA-29>>>Luz Rivas>>>D>>>127719>>>Benito Bernal>>>R>>>56421>>>67
+CA-30>>>Laura Friedman>>>D>>>190554>>>Alex Balekian>>>R>>>89185>>>74
+CA-31>>>Gil Cisneros>>>D>>>128222>>>Daniel Martinez>>>R>>>89738>>>71
+CA-32>>>Brad Sherman>>>D>>>188950>>>Larry Thompson>>>R>>>98086>>>73
+CA-33>>>Pete Aguilar>>>D>>>81595>>>Tom Herman>>>R>>>60495>>>52
+CA-34>>>Jimmy Gomez>>>D>>>91473>>>David Kim>>>D>>>71492>>>88
+CA-35>>>Norma Torres>>>D>>>87228>>>Mike Cargile>>>R>>>65663>>>56
+CA-36>>>Ted Lieu>>>D>>>219269>>>Melissa Toomim>>>R>>>101645>>>76
+CA-37>>>Sydney Kamlager-Dove>>>D>>>139542>>>Juan Rey>>>NX>>>38375>>>71
+CA-38>>>Linda Sanchez>>>D>>>139653>>>Eric Ching>>>R>>>98124>>>70
+CA-39>>>Mark Takano>>>D>>>95996>>>David Serpa>>>R>>>75067>>>75
+CA-40>>>Young Kim>>>R>>>185729>>>Joe Kerr>>>D>>>146612>>>78
+CA-41>>>Ken Calvert>>>R>>>143621>>>Will Rollins>>>D>>>135741>>>76
+CA-42>>>Robert Garcia>>>D>>>130057>>>John Briscoe>>>R>>>64239>>>67
+CA-43>>>Maxine Waters>>>D>>>139068>>>Steve Williams>>>R>>>47113>>>69
+CA-44>>>Nanette Barragan>>>D>>>138312>>>Roger Groh>>>R>>>57925>>>67
+CA-45>>>Michelle Steel>>>R>>>137696>>>Derek Tran>>>D>>>130795>>>79
+CA-46>>>Lou Correa>>>D>>>111399>>>David Pan>>>R>>>66931>>>70
+CA-47>>>Dave Min>>>D>>>151254>>>Scott Baugh>>>R>>>148541>>>82
+CA-48>>>Darrell Issa>>>R>>>178822>>>Stephen Houlahan>>>D>>>120080>>>77
+CA-49>>>Mike Levin>>>D>>>167787>>>Matt Gunderson>>>R>>>156630>>>80
+CA-50>>>Scott Peters>>>D>>>191657>>>Peter Bono>>>R>>>109257>>>74
+CA-51>>>Sara Jacobs>>>D>>>164088>>>Bill Wells>>>R>>>108481>>>74
+CA-52>>>Juan Vargas>>>D>>>137169>>>Justin Lee>>>R>>>71584>>>68
+CO-1>>>Diana DeGette>>>D>>>256320>>>Valdamar Archuleta>>>R>>>71992>>>84
+CO-2>>>Joe Neguse>>>D>>>277984>>>Marshall Dawson>>>R>>>117619>>>89
+CO-3>>>Jeff Hurd>>>R>>>194044>>>Adam Frisch>>>D>>>178263>>>94
+CO-4>>>Lauren Boebert>>>R>>>234471>>>Trisha Calvarese>>>D>>>184402>>>99
+CO-5>>>Jeff Crank>>>R>>>197238>>>River Gassen>>>D>>>147114>>>96
+CO-6>>>Jason Crow>>>D>>>193743>>>John Fabbricatore>>>R>>>126560>>>86
+CO-7>>>Brittany Pettersen>>>D>>>234191>>>Sergei Matveyuk>>>R>>>174050>>>92
+CO-8>>>Gabe Evans>>>R>>>161992>>>Yadira Caraveo>>>D>>>159406>>>97
+CT-1>>>John Larson>>>D>>>204687>>>Jim Griffin>>>R>>>110533>>>92
+CT-2>>>Joe Courtney>>>D>>>219076>>>Mike France>>>R>>>158521>>>99
+CT-3>>>Rosa DeLauro>>>D>>>197047>>>Michael Massey>>>R>>>137985>>>95
+CT-4>>>Jim Himes>>>D>>>200601>>>Michael Goldstein>>>R>>>123033>>>95
+CT-5>>>Jahana Hayes>>>D>>>177826>>>George Logan>>>R>>>155480>>>96
+DE-1>>>Sarah McBride>>>D>>>287783>>>John Whalen>>>R>>>209567>>>99
+FL-1>>>Matt Gaetz>>>R>>>274023>>>Gay Valimont>>>D>>>140881>>>95
+FL-2>>>Neal Dunn>>>R>>>247849>>>Yen Bailey>>>D>>>154597>>>95
+FL-3>>>Kat Cammack>>>R>>>241154>>>Tom Wells>>>D>>>150252>>>96
+FL-4>>>Aaron Bean>>>R>>>222278>>>LaShonda Holloway>>>D>>>165830>>>95
+FL-5>>>John Rutherford>>>R>>>267419>>>Jay McGovern>>>D>>>156472>>>97
+FL-6>>>Michael Waltz>>>R>>>284274>>>James Stockton>>>D>>>152898>>>98
+FL-7>>>Cory Mills>>>R>>>233895>>>Jennifer Adams>>>D>>>179831>>>93
+FL-8>>>Mike Haridopolos>>>R>>>280312>>>Sandy Kennedy>>>D>>>170024>>>94
+FL-9>>>Darren Soto>>>D>>>178724>>>Thomas Chalifoux>>>R>>>138049>>>92
+FL-10>>>Maxwell Frost>>>D>>>181414>>>Willie Montague>>>R>>>109446>>>85
+FL-11>>>Daniel Webster>>>R>>>269247>>>Barbie Harden Hall>>>D>>>176660>>>99
+FL-12>>>Gus Bilirakis>>>R>>>306465>>>Rock Aboujaoude>>>D>>>124918>>>98
+FL-13>>>Anna Paulina Luna>>>R>>>225402>>>Whitney Fox>>>D>>>185644>>>90
+FL-14>>>Kathy Castor>>>D>>>199371>>>Rocky Rochford>>>R>>>145626>>>87
+FL-15>>>Laurel Lee>>>R>>>195314>>>Pat Kemp>>>D>>>152310>>>91
+FL-16>>>Vern Buchanan>>>R>>>247470>>>Jan Schneider>>>D>>>168559>>>97
+FL-17>>>Greg Steube>>>R>>>291450>>>Manny Lopez>>>D>>>164686>>>99
+FL-18>>>Scott Franklin>>>R>>>225131>>>Andrea Kale>>>D>>>119592>>>96
+FL-19>>>Byron Donalds>>>R>>>275675>>>Kari Lerner>>>D>>>139962>>>93
+FL-20>>>Sheila Cherfilus-McCormick>>>D>>>0>>>undefined>>>undefined>>>undefined>>>0
+FL-21>>>Brian Mast>>>R>>>277286>>>Thomas Witkop>>>D>>>171143>>>97
+FL-22>>>Lois Frankel>>>D>>>201486>>>Dan Franzese>>>R>>>165182>>>91
+FL-23>>>Jared Moskowitz>>>D>>>196176>>>Joe Kaufman>>>R>>>177935>>>88
+FL-24>>>Frederica Wilson>>>D>>>194440>>>Jesus Navarro>>>R>>>90470>>>84
+FL-25>>>Debbie Wasserman Schultz>>>D>>>186822>>>Chris Eddy>>>R>>>156152>>>87
+FL-26>>>Mario Diaz-Balart>>>R>>>217174>>>Joey Atkins>>>D>>>89013>>>93
+FL-27>>>Maria Elvira Salazar>>>R>>>199134>>>Lucia Baez-Geller>>>D>>>130655>>>89
+FL-28>>>Carlos Giménez>>>R>>>210044>>>Phil Ehr>>>D>>>115248>>>92
+GA-1>>>Buddy Carter>>>R>>>220487>>>Patti Hewitt>>>D>>>135166>>>97
+GA-2>>>Sanford Bishop>>>D>>>175841>>>Wayne Johnson>>>R>>>136428>>>91
+GA-3>>>Brian Jack>>>R>>>272927>>>Maura Keller>>>D>>>138652>>>99
+GA-4>>>Hank Johnson>>>D>>>228980>>>Eugene Yu>>>R>>>73971>>>89
+GA-5>>>Nikema Williams>>>D>>>293958>>>John Salvesen>>>R>>>49124>>>92
+GA-6>>>Lucy McBath>>>D>>>276663>>>Jeff Criswell>>>R>>>93793>>>93
+GA-7>>>Rich McCormick>>>R>>>322245>>>Bob Christian>>>D>>>148018>>>99
+GA-8>>>Austin Scott>>>R>>>231405>>>Darrius Butler>>>D>>>104265>>>93
+GA-9>>>Andrew Clyde>>>R>>>270917>>>Tambrei Cash>>>D>>>121592>>>99
+GA-10>>>Mike Collins>>>R>>>256342>>>Lexy Doherty>>>D>>>150194>>>99
+GA-11>>>Barry Loudermilk>>>R>>>269532>>>Katy Stamper>>>D>>>130691>>>95
+GA-12>>>Rick Allen>>>R>>>202614>>>Elizabeth Johnson>>>D>>>138001>>>93
+GA-13>>>David Scott>>>D>>>256754>>>Jonathan Chavez>>>R>>>100659>>>92
+GA-14>>>Marjorie Taylor Greene>>>R>>>243219>>>Shawn Harris>>>D>>>134489>>>99
+HI-1>>>Ed Case>>>D>>>163921>>>Patrick Largey>>>R>>>64226>>>82
+HI-2>>>Jill Tokuda>>>D>>>165881>>>Steve Bond>>>R>>>75282>>>84
+IA-1>>>Mariannette Miller-Meeks>>>R>>>206680>>>Christina Bohannan>>>D>>>205884>>>99
+IA-2>>>Ashley Hinson>>>R>>>233195>>>Sarah Corkery>>>D>>>169580>>>97
+IA-3>>>Zach Nunn>>>R>>>213625>>>Lanon Baccam>>>D>>>197777>>>99
+IA-4>>>Randy Feenstra>>>R>>>250460>>>Ryan Melton>>>D>>>122025>>>94
+ID-1>>>Russ Fulcher>>>R>>>331150>>>Kaylee Peterson>>>D>>>118656>>>99
+ID-2>>>Mike Simpson>>>R>>>249664>>>David Roth>>>D>>>126033>>>97
+IL-1>>>Jonathan Jackson>>>D>>>195715>>>Marcus Lewis>>>R>>>105891>>>83
+IL-2>>>Robin Kelly>>>D>>>186942>>>Ashley Ramos>>>R>>>92840>>>84
+IL-3>>>Delia Ramirez>>>D>>>160120>>>John Booras>>>R>>>82713>>>82
+IL-4>>>Jesús "Chuy" García>>>D>>>139968>>>Lupe Castillo>>>R>>>67530>>>98
+IL-5>>>Mike Quigley>>>D>>>219852>>>Tommy Hanson>>>R>>>106904>>>82
+IL-6>>>Sean Casten>>>D>>>188000>>>Niki Conforti>>>R>>>162595>>>89
+IL-7>>>Danny Davis>>>D>>>201209>>>Chad Koppie>>>R>>>41859>>>76
+IL-8>>>Raja Krishnamoorthi>>>D>>>165129>>>Mark Rice>>>R>>>127816>>>89
+IL-9>>>Janice Schakowsky>>>D>>>237348>>>Seth Cohen>>>R>>>139009>>>99
+IL-10>>>Brad Schneider>>>D>>>184010>>>Jim Carris>>>R>>>126509>>>88
+IL-11>>>Bill Foster>>>D>>>195488>>>Jerry Evans>>>R>>>157595>>>94
+IL-12>>>Mike Bost>>>R>>>269343>>>Brian Roberts>>>D>>>92099>>>95
+IL-13>>>Nikki Budzinski>>>D>>>181552>>>Joshua Loyd>>>R>>>133871>>>89
+IL-14>>>Lauren Underwood>>>D>>>176400>>>James Marter>>>R>>>150089>>>94
+IL-15>>>Mary Miller>>>R>>>305135>>>undefined>>>undefined>>>undefined>>>97
+IL-16>>>Darin LaHood>>>R>>>301913>>>undefined>>>undefined>>>undefined>>>95
+IL-17>>>Eric Sorensen>>>D>>>167639>>>Joe McGraw>>>R>>>141393>>>92
+IN-1>>>Frank Mrvan>>>D>>>172118>>>Randy Niemeyer>>>R>>>144886>>>94
+IN-2>>>Rudy Yakym>>>R>>>163872>>>Lori Camp>>>D>>>89784>>>84
+IN-3>>>Marlin Stutzman>>>R>>>202610>>>Kiley Adolph>>>D>>>97846>>>95
+IN-4>>>Jim Baird>>>R>>>221783>>>Derrick Holder>>>D>>>103519>>>98
+IN-5>>>Victoria Spartz>>>R>>>202549>>>Deborah Pickett>>>D>>>136180>>>97
+IN-6>>>Jefferson Shreve>>>R>>>200494>>>Cinde Wirth>>>D>>>99361>>>95
+IN-7>>>André Carson>>>D>>>185733>>>John Schmitz>>>R>>>78707>>>89
+IN-8>>>Mark Messmer>>>R>>>219843>>>Erik Hurt>>>D>>>95219>>>94
+IN-9>>>Erin Houchin>>>R>>>220576>>>Tim Peck>>>D>>>111901>>>96
+KS-1>>>Tracey Mann>>>R>>>195236>>>Paul Buskirk>>>D>>>88219>>>87
+KS-2>>>Derek Schmidt>>>R>>>169384>>>Nancy Boyda>>>D>>>113546>>>92
+KS-3>>>Sharice Davids>>>D>>>206010>>>Prasanth Reddy>>>R>>>164639>>>96
+KS-4>>>Ron Estes>>>R>>>193065>>>Esau Freeman>>>D>>>103088>>>91
+KY-1>>>James Comer>>>R>>>252534>>>Erin Marshall>>>D>>>85496>>>96
+KY-2>>>Brett Guthrie>>>R>>>252826>>>Hank Linderman>>>D>>>93029>>>98
+KY-3>>>Morgan McGarvey>>>D>>>203100>>>Mike Craven>>>R>>>124713>>>89
+KY-4>>>Thomas Massie>>>R>>>279696>>>undefined>>>undefined>>>undefined>>>93
+KY-5>>>Hal Rogers>>>R>>>263057>>>undefined>>>undefined>>>undefined>>>99
+KY-6>>>Andy Barr>>>R>>>220675>>>Randy Cravens>>>D>>>127672>>>96
+LA-1>>>Steve Scalise>>>R>>>238803>>>Mel Manuel>>>D>>>85880>>>97
+LA-2>>>Troy Carter>>>D>>>183897>>>Christy Lynch>>>R>>>41635>>>95
+LA-3>>>Clay Higgins>>>R>>>226264>>>Priscilla Gonzalez>>>D>>>59826>>>98
+LA-4>>>Mike Johnson>>>R>>>262794>>>Joshua Morott>>>R>>>43422>>>90
+LA-5>>>Julia Letlow>>>R>>>200990>>>Michael Vallien>>>D>>>82900>>>97
+LA-6>>>Cleo Fields>>>D>>>150312>>>Elbert Guillory>>>R>>>111733>>>94
+MA-1>>>Richard Neal>>>D>>>154749>>>Nadia Milleron>>>I>>>88842>>>69
+MA-2>>>Jim McGovern>>>D>>>188331>>>Cornelius Shea>>>I>>>87837>>>87
+MA-3>>>Lori Trahan>>>D>>>145448>>>undefined>>>undefined>>>undefined>>>51
+MA-4>>>Jake Auchincloss>>>D>>>209377>>>undefined>>>undefined>>>undefined>>>65
+MA-5>>>Katherine Clark>>>D>>>196620>>>undefined>>>undefined>>>undefined>>>62
+MA-6>>>Seth Moulton>>>D>>>252706>>>undefined>>>undefined>>>undefined>>>72
+MA-7>>>Ayanna Pressley>>>D>>>208272>>>undefined>>>undefined>>>undefined>>>84
+MA-8>>>Stephen Lynch>>>D>>>220977>>>Rob Burke>>>R>>>95936>>>76
+MA-9>>>Bill Keating>>>D>>>168330>>>Dan Sullivan>>>R>>>125058>>>65
+MD-1>>>Andy Harris>>>R>>>236373>>>Blane Miller>>>D>>>143090>>>95
+MD-2>>>Johnny Olszewski>>>D>>>201507>>>Kim Klacik>>>R>>>144175>>>88
+MD-3>>>Sarah Elfreth>>>D>>>221973>>>Robert Steinberger>>>R>>>144975>>>90
+MD-4>>>Glenn Ivey>>>D>>>201463>>>George McDermott>>>R>>>26174>>>75
+MD-5>>>Steny Hoyer>>>D>>>252779>>>Michelle Talkington>>>R>>>126625>>>90
+MD-6>>>April McClain Delaney>>>D>>>182891>>>Neil Parrott>>>R>>>168220>>>94
+MD-7>>>Kweisi Mfume>>>D>>>200085>>>Scott Collier>>>R>>>45378>>>81
+MD-8>>>Jamie Raskin>>>D>>>238525>>>Cheryl Riley>>>R>>>67640>>>78
+ME-1>>>Chellie Pingree>>>D>>>229027>>>Ronald Russell>>>R>>>142828>>>91
+ME-2>>>Jared Golden>>>D>>>196189>>>Austin Theriault>>>R>>>194030>>>99
+MI-1>>>Jack Bergman>>>R>>>279127>>>Callie Barr>>>D>>>179050>>>99
+MI-2>>>John Moolenaar>>>R>>>278533>>>Michael Lynch>>>D>>>135654>>>99
+MI-3>>>Hillary Scholten>>>D>>>224932>>>Paul Hudson>>>R>>>183135>>>98
+MI-4>>>Bill Huizenga>>>R>>>236200>>>Jessica Swartz>>>D>>>185977>>>99
+MI-5>>>Tim Walberg>>>R>>>268777>>>Libbi Urban>>>D>>>133936>>>98
+MI-6>>>Debbie Dingell>>>D>>>280889>>>Heather Smiley>>>R>>>158581>>>97
+MI-7>>>Tom Barrett>>>R>>>226694>>>Curtis Hertel>>>D>>>209842>>>98
+MI-8>>>Kristen McDonald Rivet>>>D>>>217390>>>Paul Junge>>>R>>>189239>>>96
+MI-9>>>Lisa McClain>>>R>>>311163>>>Clint St. Mosley>>>D>>>137701>>>98
+MI-10>>>John James>>>R>>>217440>>>Carl Marlinga>>>D>>>191352>>>96
+MI-11>>>Haley Stevens>>>D>>>260489>>>Nick Somberg>>>R>>>177286>>>94
+MI-12>>>Rashida Tlaib>>>D>>>253188>>>James Hooper>>>R>>>92437>>>91
+MI-13>>>Shri Thanedar>>>D>>>220586>>>Martell Bivings>>>R>>>78888>>>90
+MN-1>>>Brad Finstad>>>R>>>223232>>>Rachel Bohman>>>D>>>158916>>>99
+MN-2>>>Angie Craig>>>D>>>231774>>>Joe Teirab>>>R>>>175611>>>99
+MN-3>>>Kelly Morrison>>>D>>>240208>>>Tad Jude>>>R>>>170426>>>94
+MN-4>>>Betty McCollum>>>D>>>242801>>>May Lor Xiong>>>R>>>117618>>>91
+MN-5>>>Ilhan Omar>>>D>>>261061>>>Dalia Al-Aqidi>>>R>>>86210>>>88
+MN-6>>>Tom Emmer>>>R>>>260097>>>Jeanne Hendricks>>>D>>>155836>>>99
+MN-7>>>Michelle Fischbach>>>R>>>275104>>>AJ Peters>>>D>>>114993>>>99
+MN-8>>>Pete Stauber>>>R>>>247541>>>Jen Schultz>>>D>>>176762>>>99
+MO-1>>>Wesley Bell>>>D>>>231330>>>Andrew Jones>>>R>>>56009>>>86
+MO-2>>>Ann Wagner>>>R>>>231954>>>Ray Hartmann>>>D>>>180660>>>99
+MO-3>>>Bob Onder>>>R>>>240137>>>Bethany Mann>>>D>>>138106>>>97
+MO-4>>>Mark Alford>>>R>>>259496>>>Jeanette Cass>>>D>>>96310>>>99
+MO-5>>>Emanuel Cleaver>>>D>>>198292>>>Sean Smith>>>R>>>120350>>>93
+MO-6>>>Sam Graves>>>R>>>264801>>>Pam May>>>D>>>100724>>>99
+MO-7>>>Eric Burlison>>>R>>>254965>>>Missi Hesketh>>>D>>>93903>>>99
+MO-8>>>Jason Smith>>>R>>>271491>>>Randi McCallian>>>D>>>77459>>>99
+MS-1>>>Trent Kelly>>>R>>>216854>>>Dianne Black>>>D>>>93774>>>94
+MS-2>>>Bennie Thompson>>>D>>>158354>>>Ron Eller>>>R>>>100195>>>78
+MS-3>>>Michael Guest>>>R>>>10247>>>undefined>>>undefined>>>undefined>>>4
+MS-4>>>Mike Ezell>>>R>>>187783>>>Craig Raybon>>>D>>>65539>>>85
+MT-1>>>Ryan Zinke>>>R>>>162542>>>Monica Tranel>>>D>>>138286>>>97
+MT-2>>>Troy Downing>>>R>>>176591>>>John Driscoll>>>D>>>94834>>>94
+NC-1>>>Don Davis>>>D>>>184993>>>Laurie Buckhout>>>R>>>179167>>>91
+NC-2>>>Deborah Ross>>>D>>>265386>>>Alan Swain>>>R>>>126852>>>92
+NC-3>>>Greg Murphy>>>R>>>245964>>>Gheorghe Cormos>>>L>>>71394>>>91
+NC-4>>>Valerie Foushee>>>D>>>305116>>>Eric Blankenburg>>>R>>>111140>>>98
+NC-5>>>Virginia Foxx>>>R>>>237292>>>Chuck Hubbard>>>D>>>161348>>>94
+NC-6>>>Addison McDowell>>>R>>>231894>>>Kevin Hayes>>>CS>>>103053>>>99
+NC-7>>>David Rouzer>>>R>>>251640>>>Marlando Pridgen>>>D>>>176917>>>97
+NC-8>>>Mark Harris>>>R>>>237405>>>Justin Dues>>>D>>>160708>>>94
+NC-9>>>Richard Hudson>>>R>>>208775>>>Nigel Bristow>>>D>>>139357>>>92
+NC-10>>>Pat Harrigan>>>R>>>231425>>>Ralph Scott>>>D>>>152401>>>95
+NC-11>>>Chuck Edwards>>>R>>>244146>>>Caleb Rudow>>>D>>>186057>>>94
+NC-12>>>Alma Adams>>>D>>>258491>>>Addul Ali>>>R>>>90866>>>94
+NC-13>>>Brad Knott>>>R>>>242208>>>Frank Pierce>>>D>>>170161>>>99
+NC-14>>>Tim Moore>>>R>>>232029>>>Pam Genant>>>D>>>167425>>>95
+ND-1>>>Julie Fedorchak>>>R>>>248572>>>Trygve Hammer>>>D>>>108974>>>99
+NE-1>>>Mike Flood>>>R>>>184252>>>Carol Blood>>>D>>>121523>>>99
+NE-2>>>Don Bacon>>>R>>>157246>>>Tony Vargas>>>D>>>150096>>>98
+NE-3>>>Adrian Smith>>>R>>>242008>>>Daniel Ebers>>>D>>>58856>>>91
+NH-1>>>Chris Pappas>>>D>>>218431>>>Russell Prescott>>>R>>>185813>>>99
+NH-2>>>Maggie Goodlander>>>D>>>211733>>>Lily Tang Williams>>>R>>>188807>>>99
+NJ-1>>>Donald Norcross>>>D>>>198345>>>Teddy Liddell>>>R>>>138315>>>87
+NJ-2>>>Jeff Van Drew>>>R>>>211321>>>Joe Salerno>>>D>>>148121>>>90
+NJ-3>>>Herb Conaway>>>D>>>191181>>>Rajesh Mohan>>>R>>>162465>>>83
+NJ-4>>>Chris Smith>>>R>>>260534>>>Matthew Jenkins>>>D>>>121958>>>94
+NJ-5>>>Josh Gottheimer>>>D>>>201523>>>Mary Jo Guinchard>>>R>>>161410>>>87
+NJ-6>>>Frank Pallone>>>D>>>159884>>>Scott Fegler>>>R>>>116763>>>83
+NJ-7>>>Thomas Kean Jr.>>>R>>>216626>>>Sue Altman>>>D>>>189585>>>90
+NJ-8>>>Rob Menendez>>>D>>>111294>>>Anthony Valdes>>>R>>>65043>>>77
+NJ-9>>>Nellie Pou>>>D>>>123946>>>Billy Prempeh>>>R>>>113056>>>98
+NJ-10>>>LaMonica McIver>>>D>>>173923>>>Carmen Bucco>>>R>>>52597>>>83
+NJ-11>>>Mikie Sherrill>>>D>>>212789>>>Joseph Belnome>>>R>>>159700>>>88
+NJ-12>>>Bonnie Watson Coleman>>>D>>>180272>>>Darius Mayfield>>>R>>>110330>>>85
+NM-1>>>Melanie Stansbury>>>D>>>192521>>>Steve Jones>>>R>>>148959>>>98
+NM-2>>>Gabriel Vasquez>>>D>>>137574>>>Yvette Herrell>>>R>>>126822>>>99
+NM-3>>>Teresa Leger Fernandez>>>D>>>160926>>>Sharon Clahchischilliage>>>R>>>125902>>>99
+NV-1>>>Dina Titus>>>D>>>164909>>>Mark Robertson>>>R>>>141050>>>93
+NV-2>>>Mark Amodei>>>R>>>209013>>>Greg Kidd>>>ND>>>135153>>>91
+NV-3>>>Susie Lee>>>D>>>187605>>>Drew Johnson>>>R>>>177031>>>99
+NV-4>>>Steven Horsford>>>D>>>171775>>>John Lee>>>R>>>145096>>>99
+NY-1>>>Nicholas LaLota>>>R>>>217461>>>John Avlon>>>D>>>172700>>>92
+NY-2>>>Andrew Garbarino>>>R>>>197419>>>Rob Lubin>>>D>>>130636>>>91
+NY-3>>>Thomas Suozzi>>>D>>>185184>>>Mike LiPetri>>>R>>>167825>>>90
+NY-4>>>Laura Gillen>>>D>>>186148>>>Anthony D'Esposito>>>R>>>178655>>>94
+NY-5>>>Gregory Meeks>>>D>>>157225>>>Paul King>>>R>>>58380>>>83
+NY-6>>>Grace Meng>>>D>>>111592>>>Thomas Zmich>>>R>>>70566>>>82
+NY-7>>>Nydia Velazquez>>>D>>>158015>>>Bill Kregler>>>R>>>45243>>>83
+NY-8>>>Hakeem Jeffries>>>D>>>155866>>>John Delaney>>>R>>>52216>>>81
+NY-9>>>Yvette Clarke>>>D>>>160481>>>Menachem Raitport>>>R>>>56614>>>82
+NY-10>>>Dan Goldman>>>D>>>186991>>>Alexander Dodenhoff>>>R>>>34577>>>99
+NY-11>>>Nicole Malliotakis>>>R>>>160908>>>Andrea Morse>>>D>>>87640>>>85
+NY-12>>>Jerrold Nadler>>>D>>>235856>>>Michael Zumbluskas>>>R>>>57403>>>99
+NY-13>>>Adriano Espaillat>>>D>>>164402>>>Ruben Dario Vargas>>>R>>>32316>>>91
+NY-14>>>Alexandria Ocasio-Cortez>>>D>>>123269>>>Tina Forte>>>R>>>55580>>>79
+NY-15>>>Ritchie Torres>>>D>>>121318>>>Gonzalo Duran>>>R>>>33405>>>75
+NY-16>>>George Latimer>>>D>>>210200>>>Miriam Flisser>>>R>>>83555>>>90
+NY-17>>>Mike Lawler>>>R>>>192111>>>Mondaire Jones>>>D>>>167329>>>95
+NY-18>>>Pat Ryan>>>D>>>196904>>>Alison Esposito>>>R>>>149896>>>97
+NY-19>>>Josh Riley>>>D>>>181726>>>Marc Molinaro>>>R>>>177739>>>95
+NY-20>>>Paul Tonko>>>D>>>212654>>>Kevin Waltz>>>R>>>136999>>>93
+NY-21>>>Elise Stefanik>>>R>>>209038>>>Paula Collins>>>D>>>126595>>>96
+NY-22>>>John Mannion>>>D>>>183473>>>Brandon Williams>>>R>>>155496>>>92
+NY-23>>>Nick Langworthy>>>R>>>240596>>>Thomas Carle>>>D>>>123811>>>92
+NY-24>>>Claudia Tenney>>>R>>>230359>>>Dave Wagenhauser>>>D>>>119609>>>95
+NY-25>>>Joseph Morelle>>>D>>>209722>>>Gregg Sadwick>>>R>>>137445>>>90
+NY-26>>>Timothy Kennedy>>>D>>>201350>>>Anthony Marecki>>>R>>>108611>>>90
+OH-1>>>Greg Landsman>>>D>>>208650>>>Orlando Sonza>>>R>>>174621>>>95
+OH-2>>>David Taylor>>>R>>>263782>>>Samantha Meadows>>>D>>>95185>>>96
+OH-3>>>Joyce Beatty>>>D>>>243991>>>Michael Young>>>R>>>97389>>>86
+OH-4>>>Jim Jordan>>>R>>>268510>>>Tamie Wilson>>>D>>>123693>>>99
+OH-5>>>Bob Latta>>>R>>>251828>>>Keith Mundy>>>D>>>120887>>>96
+OH-6>>>Michael Rulli>>>R>>>242189>>>Michael Kripchak>>>D>>>120739>>>91
+OH-7>>>Max Miller>>>R>>>200962>>>Matt Diemer>>>D>>>141741>>>94
+OH-8>>>Warren Davidson>>>R>>>283611>>>Vanessa Enoch>>>D>>>163298>>>99
+OH-9>>>Marcy Kaptur>>>D>>>176228>>>Derek Merrin>>>R>>>175035>>>94
+OH-10>>>Mike Turner>>>R>>>209347>>>Amy Cox>>>D>>>141567>>>95
+OH-11>>>Shontel Brown>>>D>>>229628>>>Alan Rapoport>>>R>>>57779>>>84
+OH-12>>>Troy Balderson>>>R>>>255359>>>Jerrad Christian>>>D>>>119826>>>98
+OH-13>>>Emilia Sykes>>>D>>>193575>>>Kevin Coughlin>>>R>>>185622>>>98
+OH-14>>>David Joyce>>>R>>>239054>>>Brian Kenderes>>>D>>>137727>>>93
+OH-15>>>Mike Carey>>>R>>>192477>>>Adam Miller>>>D>>>148045>>>99
+OK-1>>>Kevin Hern>>>R>>>188832>>>Dennis Baker>>>D>>>107903>>>97
+OK-2>>>Josh Brecheen>>>R>>>238105>>>Brandon Wade>>>D>>>68836>>>99
+OK-3>>>Frank Lucas>>>R>>>0>>>undefined>>>undefined>>>undefined>>>0
+OK-4>>>Tom Cole>>>R>>>201689>>>Mary Brannon>>>D>>>79086>>>96
+OK-5>>>Stephanie Bice>>>R>>>207636>>>Madison Horn>>>D>>>134471>>>99
+OR-1>>>Suzanne Bonamici>>>D>>>209911>>>Bob Todd>>>R>>>85634>>>77
+OR-2>>>Cliff Bentz>>>R>>>218827>>>Dan Ruby>>>D>>>111303>>>90
+OR-3>>>Maxine Dexter>>>D>>>219003>>>Joanna Harbour>>>R>>>80696>>>81
+OR-4>>>Val Hoyle>>>D>>>187954>>>Monique DeSpain>>>R>>>160967>>>89
+OR-5>>>Janelle Bynum>>>D>>>178054>>>Lori Chavez-DeRemer>>>R>>>167600>>>88
+OR-6>>>Andrea Salinas>>>D>>>155288>>>Mike Erickson>>>R>>>136898>>>79
+PA-1>>>Brian Fitzpatrick>>>R>>>258728>>>Ashley Ehasz>>>D>>>198744>>>98
+PA-2>>>Brendan Boyle>>>D>>>191200>>>Aaron Bashir>>>R>>>76739>>>86
+PA-3>>>Dwight Evans>>>D>>>334545>>>undefined>>>undefined>>>undefined>>>99
+PA-4>>>Madeleine Dean>>>D>>>264143>>>David Winkler>>>R>>>184439>>>94
+PA-5>>>Mary Gay Scanlon>>>D>>>262387>>>Alfeia Goodwin>>>R>>>140694>>>99
+PA-6>>>Chrissy Houlahan>>>D>>>234263>>>Neil Young>>>R>>>182927>>>99
+PA-7>>>Ryan Mackenzie>>>R>>>200933>>>Susan Wild>>>D>>>195961>>>99
+PA-8>>>Rob Bresnahan>>>R>>>193407>>>Matt Cartwright>>>D>>>186294>>>99
+PA-9>>>Dan Meuser>>>R>>>274317>>>Amanda Waldman>>>D>>>114091>>>99
+PA-10>>>Scott Perry>>>R>>>203590>>>Janelle Stelson>>>D>>>197493>>>99
+PA-11>>>Lloyd Smucker>>>R>>>251452>>>Jim Atkinson>>>D>>>147172>>>99
+PA-12>>>Summer Lee>>>D>>>229480>>>James Hayes>>>R>>>179363>>>95
+PA-13>>>John Joyce>>>R>>>300711>>>Beth Farnham>>>D>>>104270>>>99
+PA-14>>>Guy Reschenthaler>>>R>>>266879>>>Chris Dziados>>>D>>>133629>>>97
+PA-15>>>Glenn Thompson>>>R>>>279068>>>Zach Womer>>>D>>>110447>>>99
+PA-16>>>Mike Kelly>>>R>>>253610>>>Preston Nouri>>>D>>>143372>>>98
+PA-17>>>Chris Deluzio>>>D>>>239115>>>Rob Mercuri>>>R>>>206002>>>98
+RI-1>>>Gabriel Amo>>>D>>>137429>>>Allen Waters>>>R>>>70320>>>90
+RI-2>>>Seth Magaziner>>>D>>>151899>>>Steven Corvi>>>R>>>108883>>>95
+SC-1>>>Nancy Mace>>>R>>>228228>>>Michael Moore>>>D>>>162393>>>99
+SC-2>>>Joe Wilson>>>R>>>211305>>>David Robinson>>>D>>>142876>>>97
+SC-3>>>Sheri Biggs>>>R>>>248451>>>Bryon Best>>>D>>>87735>>>99
+SC-4>>>William Timmons>>>R>>>206973>>>Kathryn Harvey>>>D>>>129164>>>99
+SC-5>>>Ralph Norman>>>R>>>228260>>>Evangeline Hundley>>>D>>>130592>>>98
+SC-6>>>Jim Clyburn>>>D>>>182198>>>Duke Buckner>>>R>>>113549>>>91
+SC-7>>>Russell Fry>>>R>>>240326>>>Mal Hyman>>>D>>>129522>>>99
+SD-1>>>Dusty Johnson>>>R>>>303630>>>Sheryl Johnson>>>D>>>117818>>>99
+TN-1>>>Diana Harshbarger>>>R>>>260317>>>Kevin  Jenkins>>>D>>>64682>>>99
+TN-2>>>Tim Burchett>>>R>>>250002>>>Jane George>>>D>>>111094>>>99
+TN-3>>>Chuck Fleischmann>>>R>>>236258>>>Jack Allen>>>D>>>102747>>>99
+TN-4>>>Scott DesJarlais>>>R>>>218980>>>Victoria Broderick>>>D>>>83758>>>98
+TN-5>>>Andy Ogles>>>R>>>204807>>>Maryam Abolfazli>>>D>>>142136>>>99
+TN-6>>>John Rose>>>R>>>225457>>>Lore Bergman>>>D>>>106050>>>96
+TN-7>>>Mark Green>>>R>>>191832>>>Megan Barry>>>D>>>122593>>>98
+TN-8>>>David Kustoff>>>R>>>240309>>>Sarah Freeman>>>D>>>84993>>>94
+TN-9>>>Steve Cohen>>>D>>>159434>>>Charlotte Bergmann>>>R>>>57378>>>78
+TX-1>>>Nathaniel Moran>>>R>>>257792>>>undefined>>>undefined>>>undefined>>>82
+TX-2>>>Dan Crenshaw>>>R>>>214150>>>Peter Filler>>>D>>>111694>>>94
+TX-3>>>Keith Self>>>R>>>237030>>>Sandeep Srivastava>>>D>>>141906>>>97
+TX-4>>>Pat Fallon>>>R>>>240996>>>Simon Cardell>>>D>>>110925>>>94
+TX-5>>>Lance Gooden>>>R>>>191508>>>Ruth Torres>>>D>>>106959>>>94
+TX-6>>>Jake Ellzey>>>R>>>192723>>>John Love>>>D>>>94629>>>94
+TX-7>>>Lizzie Fletcher>>>D>>>148406>>>Caroline Kane>>>R>>>94206>>>82
+TX-8>>>Morgan Luttrell>>>R>>>232986>>>Laura Jones>>>D>>>108301>>>99
+TX-9>>>Al Green>>>D>>>182990>>>undefined>>>undefined>>>undefined>>>83
+TX-10>>>Michael McCaul>>>R>>>220908>>>Theresa Boisseau>>>D>>>117937>>>96
+TX-11>>>August Pfluger>>>R>>>223159>>>undefined>>>undefined>>>undefined>>>86
+TX-12>>>Craig Goldman>>>R>>>215112>>>Trey Hunt>>>D>>>123666>>>97
+TX-13>>>Ronny Jackson>>>R>>>241270>>>undefined>>>undefined>>>undefined>>>83
+TX-14>>>Randy Weber>>>R>>>223997>>>Rhonda Hart>>>D>>>91152>>>94
+TX-15>>>Monica De La Cruz>>>R>>>127644>>>Michelle Vallejo>>>D>>>95752>>>90
+TX-16>>>Veronica Escobar>>>D>>>131144>>>Irene Armendariz Jackson>>>R>>>89146>>>85
+TX-17>>>Pete Sessions>>>R>>>192876>>>Mark Lorenzen>>>D>>>97755>>>90
+TX-18>>>Sylvester Turner>>>D>>>150774>>>Lana Centonze>>>R>>>66561>>>84
+2024-HP-TX-18>>>Erica Lee Carter>>>D>>>115742>>>Maria Dunn>>>R>>>35726>>>64
+TX-19>>>Jodey Arrington>>>R>>>214600>>>Nathan Lewis>>>I>>>27386>>>98
+TX-20>>>Joaquin Castro>>>D>>>157211>>>undefined>>>undefined>>>undefined>>>62
+TX-21>>>Chip Roy>>>R>>>263002>>>Kristin Hook>>>D>>>152900>>>95
+TX-22>>>Troy Nehls>>>R>>>208810>>>Marquette Greene-Scott>>>D>>>126882>>>93
+TX-23>>>Tony Gonzales>>>R>>>181401>>>Santos Limon>>>D>>>109483>>>93
+TX-24>>>Beth Van Duyne>>>R>>>225733>>>Sam Eppler>>>D>>>147577>>>88
+TX-25>>>Roger Williams>>>R>>>262514>>>undefined>>>undefined>>>undefined>>>91
+TX-26>>>Brandon Gill>>>R>>>240101>>>Ernest Lineberger>>>D>>>137530>>>99
+TX-27>>>Michael Cloud>>>R>>>183570>>>Tanya Lloyd>>>D>>>94217>>>90
+TX-28>>>Henry Cuellar>>>D>>>125688>>>Jay Furman>>>R>>>113750>>>89
+TX-29>>>Sylvia Garcia>>>D>>>98842>>>Alan Garza>>>R>>>52689>>>82
+TX-30>>>Jasmine Crockett>>>D>>>195852>>>Jrmar Jefferson>>>L>>>34906>>>85
+TX-31>>>John Carter>>>R>>>228520>>>Stuart Whitlow>>>D>>>125959>>>96
+TX-32>>>Julie Johnson>>>D>>>138545>>>Darrell Day>>>R>>>85170>>>82
+TX-33>>>Marc Veasey>>>D>>>113462>>>Patrick Gillespie>>>R>>>51607>>>83
+TX-34>>>Vicente Gonzalez>>>D>>>102598>>>Mayra Flores>>>R>>>97465>>>90
+TX-35>>>Greg Casar>>>D>>>169896>>>Steven Wright>>>R>>>82354>>>90
+TX-36>>>Brian Babin>>>R>>>205539>>>Dayna Steele>>>D>>>90458>>>91
+TX-37>>>Lloyd Doggett>>>D>>>252442>>>Jenny Garcia Sharon>>>R>>>80267>>>83
+TX-38>>>Wesley Hunt>>>R>>>214076>>>Melissa McDonough>>>D>>>126408>>>89
+UT-1>>>Blake Moore>>>R>>>212379>>>Bill Campbell>>>D>>>107149>>>86
+UT-2>>>Celeste Maloy>>>R>>>186338>>>Nathaniel Woodward>>>D>>>111421>>>85
+UT-3>>>Mike Kennedy>>>R>>>209086>>>Glenn Wright>>>D>>>108705>>>78
+UT-4>>>Burgess Owens>>>R>>>203090>>>Katrina Fallick-Wang>>>D>>>99597>>>86
+VA-1>>>Rob Wittman>>>R>>>265779>>>Leslie Mehta>>>D>>>204545>>>99
+VA-2>>>Jen Kiggans>>>R>>>201209>>>Missy Cotter Smasal>>>D>>>184467>>>98
+VA-3>>>Bobby Scott>>>D>>>211102>>>John Sitka>>>R>>>90751>>>89
+VA-4>>>Jennifer McClellan>>>D>>>242855>>>Bill Moher>>>R>>>119112>>>91
+VA-5>>>John McGuire>>>R>>>243618>>>Gloria Witt>>>D>>>178996>>>97
+VA-6>>>Ben Cline>>>R>>>249982>>>Ken Mitchell>>>D>>>136115>>>99
+VA-7>>>Eugene Vindman>>>D>>>197828>>>Derrick Anderson>>>R>>>188054>>>77
+VA-8>>>Donald Beyer>>>D>>>266058>>>Jerry Torres>>>R>>>90990>>>92
+VA-9>>>Morgan Griffith>>>R>>>284579>>>Karen Baker>>>D>>>105627>>>97
+VA-10>>>Suhas Subramanyam>>>D>>>210727>>>Mike Clancy>>>R>>>191871>>>97
+VA-11>>>Gerry Connolly>>>D>>>264469>>>Mike Van Meter>>>R>>>130695>>>93
+VT-1>>>Becca Balint>>>D>>>218395>>>Mark Coester>>>R>>>104448>>>95
+WA-1>>>Suzan DelBene>>>D>>>216081>>>Jeb Brewer>>>R>>>126567>>>87
+WA-2>>>Rick Larsen>>>D>>>245902>>>Cody Hart>>>R>>>136434>>>87
+WA-3>>>Marie Gluesenkamp Perez>>>D>>>205425>>>Joe Kent>>>R>>>189085>>>93
+WA-4>>>Dan Newhouse>>>R>>>127559>>>Jerrod Sessler>>>R>>>115050>>>75
+WA-5>>>Michael Baumgartner>>>R>>>208942>>>Carmela Conroy>>>D>>>138085>>>83
+WA-6>>>Emily Randall>>>D>>>213995>>>Drew MacEwen>>>R>>>162740>>>84
+WA-7>>>Pramila Jayapal>>>D>>>324181>>>Dan Alexander>>>R>>>60373>>>85
+WA-8>>>Kim Schrier>>>D>>>213160>>>Carmen Goers>>>R>>>182407>>>91
+WA-9>>>Adam Smith>>>D>>>169641>>>Melissa Chaudhry>>>D>>>80338>>>70
+WA-10>>>Marilyn Strickland>>>D>>>189295>>>Don Hewett>>>R>>>133440>>>86
+WI-1>>>Bryan Steil>>>R>>>212483>>>Peter Barca>>>D>>>172371>>>99
+WI-2>>>Mark Pocan>>>D>>>320283>>>Erik Olsen>>>R>>>136349>>>99
+WI-3>>>Derrick Van Orden>>>R>>>211709>>>Rebecca Cooke>>>D>>>200567>>>99
+WI-4>>>Gwen Moore>>>D>>>249919>>>Tim Rogers>>>R>>>74920>>>98
+WI-5>>>Scott Fitzgerald>>>R>>>300512>>>Ben Steinhoff>>>D>>>165638>>>99
+WI-6>>>Glenn Grothman>>>R>>>242793>>>John Zarbano>>>D>>>148015>>>94
+WI-7>>>Tom Tiffany>>>R>>>274153>>>Kyle Kilbourn>>>D>>>156719>>>99
+WI-8>>>Tony Wied>>>R>>>241498>>>Kristin Lyerly>>>D>>>179554>>>99
+2024-HP-WI-8>>>Tony Wied>>>R>>>241816>>>Kristin Lyerly>>>D>>>179558>>>99
+WV-1>>>Carol Miller>>>R>>>227194>>>Chris Reed>>>D>>>89355>>>92
+WV-2>>>Riley  Moore>>>R>>>263749>>>Steven Wendelin>>>D>>>107660>>>95
+WY-1>>>Harriet Hageman>>>R>>>184626>>>Kyle Cameron>>>D>>>60763>>>95

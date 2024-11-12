@@ -1,0 +1,1342 @@
+{
+    "stores": [
+      {
+        "recommendation": {
+          "isUsual": false
+        },
+        "storeNumber": "58293-292459",
+        "id": "1028928",
+        "name": "127 Conception Bay Highway",
+        "phoneNumber": "7098341871",
+        "coordinates": {
+          "latitude": 47.5175,
+          "longitude": -52.95859
+        },
+        "regulations": [],
+        "address": {
+          "streetAddressLine1": "127 Conception Bay Highway",
+          "streetAddressLine2": "Conception Bay South",
+          "streetAddressLine3": null,
+          "city": "Conception Bay South",
+          "countrySubdivisionCode": "NL",
+          "countryCode": "CA",
+          "postalCode": "A1W 3A3"
+        },
+        "timeZoneInfo": {
+          "currentTimeOffset": -150,
+          "windowsTimeZoneId": "Newfoundland Standard Time",
+          "olsonTimeZoneId": "GMT-03:50 America/St_Johns"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+          "state": "notSupported"
+        },
+        "acceptsNonSvcMop": true,
+        "open": true,
+        "openStatusText": "Open until 10:00 p.m.",
+        "warnings": [],
+        "addressLines": [
+          "127 Conception Bay Highway",
+          "Conception Bay South"
+        ],
+        "mop": {
+          "ready": true,
+          "wait": "Prep time: 4-9 min"
+        },
+        "schedule": [
+          {
+            "dayName": "Today",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Tomorrow",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Wednesday",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Thursday",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Friday",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Saturday",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Sunday",
+            "hours": "7:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          }
+        ],
+        "features": [
+          {
+            "code": "WA",
+            "name": "Oven-Warmed Food"
+          },
+          {
+            "code": "DT",
+            "name": "Drive-Thru"
+          },
+          {
+            "code": "DR",
+            "name": "Redeem Rewards"
+          },
+          {
+            "code": "GO",
+            "name": "Google Wi-Fi"
+          },
+          {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+          },
+          {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+          },
+          {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+          },
+          {
+            "code": "16",
+            "name": "In store"
+          },
+          {
+            "code": "UC",
+            "name": "tbd - UCP"
+          },
+          {
+            "code": "DL",
+            "name": "tbd - Delivery"
+          },
+          {
+            "code": "DD",
+            "name": "tbd - DoorDash"
+          }
+        ],
+        "slug": "127-conception-bay-highway-127-conception-bay-highway-conception-bay-south-nl"
+      },
+      {
+        "recommendation": {
+          "isUsual": false
+        },
+        "storeNumber": "55467-289338",
+        "id": "1027149",
+        "name": "35 Danny Drive",
+        "phoneNumber": "7093512793",
+        "coordinates": {
+          "latitude": 47.50766,
+          "longitude": -52.83188
+        },
+        "regulations": [],
+        "address": {
+          "streetAddressLine1": "35 Danny Drive",
+          "streetAddressLine2": "The Shoppes at Galway",
+          "streetAddressLine3": "C8.1",
+          "city": "St. John's",
+          "countrySubdivisionCode": "NL",
+          "countryCode": "CA",
+          "postalCode": "A1H 0P1"
+        },
+        "timeZoneInfo": {
+          "currentTimeOffset": -150,
+          "windowsTimeZoneId": "Newfoundland Standard Time",
+          "olsonTimeZoneId": "GMT-03:50 America/St_Johns"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+          "state": "notSupported"
+        },
+        "acceptsNonSvcMop": true,
+        "open": true,
+        "openStatusText": "Open until 9:00 p.m.",
+        "warnings": [],
+        "addressLines": [
+          "35 Danny Drive",
+          "The Shoppes at Galway"
+        ],
+        "mop": {
+          "ready": true,
+          "wait": "Prep time: 4-9 min"
+        },
+        "schedule": [
+          {
+            "dayName": "Today",
+            "hours": "7:00 a.m. to 9:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Tomorrow",
+            "hours": "7:00 a.m. to 9:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Wednesday",
+            "hours": "7:00 a.m. to 9:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Thursday",
+            "hours": "7:00 a.m. to 9:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Friday",
+            "hours": "7:00 a.m. to 9:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Saturday",
+            "hours": "7:00 a.m. to 9:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Sunday",
+            "hours": "7:00 a.m. to 8:00 p.m.",
+            "open": true,
+            "holiday": ""
+          }
+        ],
+        "features": [
+          {
+            "code": "WA",
+            "name": "Oven-Warmed Food"
+          },
+          {
+            "code": "DT",
+            "name": "Drive-Thru"
+          },
+          {
+            "code": "DR",
+            "name": "Redeem Rewards"
+          },
+          {
+            "code": "GO",
+            "name": "Google Wi-Fi"
+          },
+          {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+          },
+          {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+          },
+          {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+          },
+          {
+            "code": "16",
+            "name": "In store"
+          },
+          {
+            "code": "UC",
+            "name": "tbd - UCP"
+          },
+          {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+          },
+          {
+            "code": "DL",
+            "name": "tbd - Delivery"
+          },
+          {
+            "code": "DD",
+            "name": "tbd - DoorDash"
+          }
+        ],
+        "slug": "35-danny-drive-35-danny-drive-c-8-1-st-johns-nl-a-1-h-0-p-1-ca"
+      },
+      {
+        "recommendation": {
+          "isUsual": false
+        },
+        "storeNumber": "56860-290784",
+        "id": "1025243",
+        "name": "1641 Topsail Road",
+        "phoneNumber": "7093512973",
+        "coordinates": {
+          "latitude": 47.52687,
+          "longitude": -52.87453
+        },
+        "regulations": [],
+        "address": {
+          "streetAddressLine1": "1641 Topsail Road",
+          "streetAddressLine2": null,
+          "streetAddressLine3": null,
+          "city": "Paradise",
+          "countrySubdivisionCode": "NL",
+          "countryCode": "CA",
+          "postalCode": "A1L 1V1"
+        },
+        "timeZoneInfo": {
+          "currentTimeOffset": -150,
+          "windowsTimeZoneId": "Newfoundland Standard Time",
+          "olsonTimeZoneId": "GMT-03:50 America/St_Johns"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+          "state": "notSupported"
+        },
+        "acceptsNonSvcMop": true,
+        "open": true,
+        "openStatusText": "Open until 10:00 p.m.",
+        "warnings": [],
+        "addressLines": [
+          "1641 Topsail Road"
+        ],
+        "mop": {
+          "ready": true,
+          "wait": "Prep time: 4-9 min"
+        },
+        "schedule": [
+          {
+            "dayName": "Today",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Tomorrow",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Wednesday",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Thursday",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Friday",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Saturday",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Sunday",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          }
+        ],
+        "features": [
+          {
+            "code": "WA",
+            "name": "Oven-Warmed Food"
+          },
+          {
+            "code": "DT",
+            "name": "Drive-Thru"
+          },
+          {
+            "code": "DR",
+            "name": "Redeem Rewards"
+          },
+          {
+            "code": "GO",
+            "name": "Google Wi-Fi"
+          },
+          {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+          },
+          {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+          },
+          {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+          },
+          {
+            "code": "16",
+            "name": "In store"
+          },
+          {
+            "code": "UC",
+            "name": "tbd - UCP"
+          },
+          {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+          },
+          {
+            "code": "DL",
+            "name": "tbd - Delivery"
+          },
+          {
+            "code": "DD",
+            "name": "tbd - DoorDash"
+          }
+        ],
+        "slug": "1641-topsail-road-1641-topsail-road-paradise-nl-a-1-l-1-v-1-ca"
+      },
+      {
+        "recommendation": {
+          "isUsual": false
+        },
+        "storeNumber": "22606-222684",
+        "id": "1007058",
+        "name": "670 Topsail Road",
+        "phoneNumber": "7097456688",
+        "coordinates": {
+          "latitude": 47.52435,
+          "longitude": -52.77234
+        },
+        "regulations": [],
+        "address": {
+          "streetAddressLine1": "670 Topsail Road",
+          "streetAddressLine2": "Topsail Road & Burgeo Street",
+          "streetAddressLine3": null,
+          "city": "St. John's",
+          "countrySubdivisionCode": "NL",
+          "countryCode": "CA",
+          "postalCode": "A1E 2E2"
+        },
+        "timeZoneInfo": {
+          "currentTimeOffset": -150,
+          "windowsTimeZoneId": "Newfoundland Standard Time",
+          "olsonTimeZoneId": "GMT-03:50 America/St_Johns"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+          "state": "notSupported"
+        },
+        "acceptsNonSvcMop": true,
+        "open": true,
+        "openStatusText": "Open until 10:00 p.m.",
+        "warnings": [],
+        "addressLines": [
+          "670 Topsail Road",
+          "Topsail Road & Burgeo Street"
+        ],
+        "mop": {
+          "ready": true,
+          "wait": "Prep time: 6-10 min"
+        },
+        "schedule": [
+          {
+            "dayName": "Today",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Tomorrow",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Wednesday",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Thursday",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Friday",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Saturday",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Sunday",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          }
+        ],
+        "features": [
+          {
+            "code": "WA",
+            "name": "Oven-Warmed Food"
+          },
+          {
+            "code": "DT",
+            "name": "Drive-Thru"
+          },
+          {
+            "code": "DR",
+            "name": "Redeem Rewards"
+          },
+          {
+            "code": "GO",
+            "name": "Google Wi-Fi"
+          },
+          {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+          },
+          {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+          },
+          {
+            "code": "16",
+            "name": "In store"
+          },
+          {
+            "code": "UC",
+            "name": "tbd - UCP"
+          },
+          {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+          },
+          {
+            "code": "DL",
+            "name": "tbd - Delivery"
+          },
+          {
+            "code": "DD",
+            "name": "tbd - DoorDash"
+          }
+        ],
+        "slug": "670-topsail-road-670-topsail-road-st-johns-nl-a-1-e-2-e-2-ca"
+      },
+      {
+        "recommendation": {
+          "isUsual": false
+        },
+        "storeNumber": "4093-140807",
+        "id": "857",
+        "name": "191 Kenmount Rd",
+        "phoneNumber": "7097266240",
+        "coordinates": {
+          "latitude": 47.55433,
+          "longitude": -52.76817
+        },
+        "regulations": [],
+        "address": {
+          "streetAddressLine1": "191 Kenmount Rd",
+          "streetAddressLine2": null,
+          "streetAddressLine3": null,
+          "city": "St. John's",
+          "countrySubdivisionCode": "NL",
+          "countryCode": "CA",
+          "postalCode": "A1B 3P9"
+        },
+        "timeZoneInfo": {
+          "currentTimeOffset": -150,
+          "windowsTimeZoneId": "Newfoundland Standard Time",
+          "olsonTimeZoneId": "GMT-03:50 America/St_Johns"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+          "state": "notSupported"
+        },
+        "acceptsNonSvcMop": true,
+        "open": true,
+        "openStatusText": "Open until 10:30 p.m.",
+        "warnings": [],
+        "addressLines": [
+          "191 Kenmount Rd"
+        ],
+        "mop": {
+          "ready": true,
+          "wait": "Prep time: 5-10 min"
+        },
+        "schedule": [
+          {
+            "dayName": "Today",
+            "hours": "6:00 a.m. to 10:30 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Tomorrow",
+            "hours": "6:00 a.m. to 10:30 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Wednesday",
+            "hours": "6:00 a.m. to 10:30 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Thursday",
+            "hours": "6:00 a.m. to 10:30 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Friday",
+            "hours": "6:00 a.m. to 10:30 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Saturday",
+            "hours": "6:30 a.m. to 10:30 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Sunday",
+            "hours": "6:30 a.m. to 10:30 p.m.",
+            "open": true,
+            "holiday": ""
+          }
+        ],
+        "features": [
+          {
+            "code": "WA",
+            "name": "Oven-Warmed Food"
+          },
+          {
+            "code": "DT",
+            "name": "Drive-Thru"
+          },
+          {
+            "code": "DR",
+            "name": "Redeem Rewards"
+          },
+          {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+          },
+          {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+          },
+          {
+            "code": "16",
+            "name": "In store"
+          },
+          {
+            "code": "UC",
+            "name": "tbd - UCP"
+          },
+          {
+            "code": "DL",
+            "name": "tbd - Delivery"
+          },
+          {
+            "code": "DD",
+            "name": "tbd - DoorDash"
+          }
+        ],
+        "slug": "191-kenmount-rd-191-kenmount-rd-st-johns-nl-a-1-b-3-p-9-ca"
+      },
+      {
+        "recommendation": {
+          "isUsual": false
+        },
+        "storeNumber": "22605-295813",
+        "id": "1032112",
+        "name": "Avalon Mall - Level 2",
+        "phoneNumber": "7093511254",
+        "coordinates": {
+          "latitude": 47.56085,
+          "longitude": -52.7564
+        },
+        "regulations": [],
+        "address": {
+          "streetAddressLine1": "Avalon Mall - 48 Kenmount Road",
+          "streetAddressLine2": null,
+          "streetAddressLine3": "Unit # 2000",
+          "city": "St John's",
+          "countrySubdivisionCode": "NL",
+          "countryCode": "CA",
+          "postalCode": "A1B 1W3"
+        },
+        "timeZoneInfo": {
+          "currentTimeOffset": -150,
+          "windowsTimeZoneId": "Newfoundland Standard Time",
+          "olsonTimeZoneId": "GMT-03:50 America/St_Johns"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+          "state": "notSupported"
+        },
+        "acceptsNonSvcMop": true,
+        "open": true,
+        "openStatusText": "Open until 10:00 p.m.",
+        "warnings": [],
+        "addressLines": [
+          "Avalon Mall - 48 Kenmount Road"
+        ],
+        "mop": {
+          "ready": true,
+          "wait": "Prep time: 5-10 min"
+        },
+        "schedule": [
+          {
+            "dayName": "Today",
+            "hours": "7:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Tomorrow",
+            "hours": "7:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Wednesday",
+            "hours": "7:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Thursday",
+            "hours": "7:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Friday",
+            "hours": "7:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Saturday",
+            "hours": "7:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Sunday",
+            "hours": "9:00 a.m. to 6:00 p.m.",
+            "open": true,
+            "holiday": ""
+          }
+        ],
+        "features": [
+          {
+            "code": "WA",
+            "name": "Oven-Warmed Food"
+          },
+          {
+            "code": "DR",
+            "name": "Redeem Rewards"
+          },
+          {
+            "code": "GO",
+            "name": "Google Wi-Fi"
+          },
+          {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+          },
+          {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+          },
+          {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+          },
+          {
+            "code": "16",
+            "name": "In store"
+          },
+          {
+            "code": "UC",
+            "name": "tbd - UCP"
+          },
+          {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+          },
+          {
+            "code": "DL",
+            "name": "tbd - Delivery"
+          }
+        ],
+        "slug": "avalon-mall-level-2-avalon-mall-48-kenmount-road-unit-2000-st-johns-nl"
+      },
+      {
+        "recommendation": {
+          "isUsual": false
+        },
+        "storeNumber": "61925-295860",
+        "id": "1032204",
+        "name": "40 Kenmount Road",
+        "phoneNumber": "7093512189",
+        "coordinates": {
+          "latitude": 47.55987,
+          "longitude": -52.75165
+        },
+        "regulations": [],
+        "address": {
+          "streetAddressLine1": "40 Kenmount Road",
+          "streetAddressLine2": "Mall Parking Lot",
+          "streetAddressLine3": "Unit # 6000",
+          "city": "St John's",
+          "countrySubdivisionCode": "NL",
+          "countryCode": "CA",
+          "postalCode": "A1B 1W3"
+        },
+        "timeZoneInfo": {
+          "currentTimeOffset": -150,
+          "windowsTimeZoneId": "Newfoundland Standard Time",
+          "olsonTimeZoneId": "GMT-03:50 America/St_Johns"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+          "state": "notSupported"
+        },
+        "acceptsNonSvcMop": true,
+        "open": true,
+        "openStatusText": "Open until 10:00 p.m.",
+        "warnings": [],
+        "addressLines": [
+          "40 Kenmount Road",
+          "Mall Parking Lot"
+        ],
+        "mop": {
+          "ready": true,
+          "wait": "Prep time: 4-9 min"
+        },
+        "schedule": [
+          {
+            "dayName": "Today",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Tomorrow",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Wednesday",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Thursday",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Friday",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Saturday",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Sunday",
+            "hours": "7:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          }
+        ],
+        "features": [
+          {
+            "code": "WA",
+            "name": "Oven-Warmed Food"
+          },
+          {
+            "code": "DT",
+            "name": "Drive-Thru"
+          },
+          {
+            "code": "DR",
+            "name": "Redeem Rewards"
+          },
+          {
+            "code": "GO",
+            "name": "Google Wi-Fi"
+          },
+          {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+          },
+          {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+          },
+          {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+          },
+          {
+            "code": "16",
+            "name": "In store"
+          },
+          {
+            "code": "UC",
+            "name": "tbd - UCP"
+          },
+          {
+            "code": "DL",
+            "name": "tbd - Delivery"
+          },
+          {
+            "code": "DD",
+            "name": "tbd - DoorDash"
+          }
+        ],
+        "slug": "40-kenmount-road-40-kenmount-road-unit-6000-st-johns-nl-a-1-b-1-w-3"
+      },
+      {
+        "recommendation": {
+          "isUsual": false
+        },
+        "storeNumber": "16187-159524",
+        "id": "69654",
+        "name": "2 Stavanger Drive",
+        "phoneNumber": "7095797828",
+        "coordinates": {
+          "latitude": 47.61413,
+          "longitude": -52.72117
+        },
+        "regulations": [],
+        "address": {
+          "streetAddressLine1": "2 Stavanger Drive",
+          "streetAddressLine2": null,
+          "streetAddressLine3": null,
+          "city": "St. John's",
+          "countrySubdivisionCode": "NL",
+          "countryCode": "CA",
+          "postalCode": "A1A 5E8"
+        },
+        "timeZoneInfo": {
+          "currentTimeOffset": -150,
+          "windowsTimeZoneId": "Newfoundland Standard Time",
+          "olsonTimeZoneId": "GMT-03:50 America/St_Johns"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+          "state": "notSupported"
+        },
+        "acceptsNonSvcMop": true,
+        "open": true,
+        "openStatusText": "Open until 10:00 p.m.",
+        "warnings": [],
+        "addressLines": [
+          "2 Stavanger Drive"
+        ],
+        "mop": {
+          "ready": true,
+          "wait": "Prep time: 5-10 min"
+        },
+        "schedule": [
+          {
+            "dayName": "Today",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Tomorrow",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Wednesday",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Thursday",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Friday",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Saturday",
+            "hours": "7:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Sunday",
+            "hours": "7:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          }
+        ],
+        "features": [
+          {
+            "code": "WA",
+            "name": "Oven-Warmed Food"
+          },
+          {
+            "code": "DT",
+            "name": "Drive-Thru"
+          },
+          {
+            "code": "DR",
+            "name": "Redeem Rewards"
+          },
+          {
+            "code": "GO",
+            "name": "Google Wi-Fi"
+          },
+          {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+          },
+          {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+          },
+          {
+            "code": "16",
+            "name": "In store"
+          },
+          {
+            "code": "UC",
+            "name": "tbd - UCP"
+          },
+          {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+          },
+          {
+            "code": "DL",
+            "name": "tbd - Delivery"
+          },
+          {
+            "code": "DD",
+            "name": "tbd - DoorDash"
+          }
+        ],
+        "slug": "2-stavanger-drive-2-stavanger-drive-st-johns-nl-a-1-a-5-e-8-ca"
+      },
+      {
+        "recommendation": {
+          "isUsual": false
+        },
+        "storeNumber": "23046-222104",
+        "id": "1008897",
+        "name": "12 Hebron Way",
+        "phoneNumber": "7097547021",
+        "coordinates": {
+          "latitude": 47.61815,
+          "longitude": -52.72369
+        },
+        "regulations": [],
+        "address": {
+          "streetAddressLine1": "12 Hebron Way",
+          "streetAddressLine2": null,
+          "streetAddressLine3": null,
+          "city": "St. John's",
+          "countrySubdivisionCode": "NL",
+          "countryCode": "CA",
+          "postalCode": "A1A 0L9"
+        },
+        "timeZoneInfo": {
+          "currentTimeOffset": -150,
+          "windowsTimeZoneId": "Newfoundland Standard Time",
+          "olsonTimeZoneId": "GMT-03:50 America/St_Johns"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+          "state": "notSupported"
+        },
+        "acceptsNonSvcMop": true,
+        "open": true,
+        "openStatusText": "Open until 10:00 p.m.",
+        "warnings": [],
+        "addressLines": [
+          "12 Hebron Way"
+        ],
+        "mop": {
+          "ready": true,
+          "wait": "Prep time: 6-12 min"
+        },
+        "schedule": [
+          {
+            "dayName": "Today",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Tomorrow",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Wednesday",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Thursday",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Friday",
+            "hours": "6:00 a.m. to 10:30 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Saturday",
+            "hours": "6:30 a.m. to 10:30 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Sunday",
+            "hours": "7:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          }
+        ],
+        "features": [
+          {
+            "code": "WA",
+            "name": "Oven-Warmed Food"
+          },
+          {
+            "code": "DT",
+            "name": "Drive-Thru"
+          },
+          {
+            "code": "DR",
+            "name": "Redeem Rewards"
+          },
+          {
+            "code": "GO",
+            "name": "Google Wi-Fi"
+          },
+          {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+          },
+          {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+          },
+          {
+            "code": "16",
+            "name": "In store"
+          },
+          {
+            "code": "UC",
+            "name": "tbd - UCP"
+          },
+          {
+            "code": "DL",
+            "name": "tbd - Delivery"
+          },
+          {
+            "code": "DD",
+            "name": "tbd - DoorDash"
+          }
+        ],
+        "slug": "12-hebron-way-12-hebron-way-st-johns-nl-a-1-a-0-l-9-ca"
+      },
+      {
+        "recommendation": {
+          "isUsual": false
+        },
+        "storeNumber": "58808-293011",
+        "id": "1034165",
+        "name": "123 Columbus Drive",
+        "phoneNumber": "7092605553",
+        "coordinates": {
+          "latitude": 47.72573,
+          "longitude": -53.24522
+        },
+        "regulations": [],
+        "address": {
+          "streetAddressLine1": "123 Columbus Drive",
+          "streetAddressLine2": null,
+          "streetAddressLine3": null,
+          "city": "Carbonear",
+          "countrySubdivisionCode": "NL",
+          "countryCode": "CA",
+          "postalCode": "A1Y 1A6"
+        },
+        "timeZoneInfo": {
+          "currentTimeOffset": -150,
+          "windowsTimeZoneId": "Newfoundland Standard Time",
+          "olsonTimeZoneId": "GMT-03:50 America/St_Johns"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+          "state": "notSupported"
+        },
+        "acceptsNonSvcMop": true,
+        "open": true,
+        "openStatusText": "Open until 10:00 p.m.",
+        "warnings": [],
+        "addressLines": [
+          "123 Columbus Drive"
+        ],
+        "mop": {
+          "ready": true,
+          "wait": "Prep time: 4-9 min"
+        },
+        "schedule": [
+          {
+            "dayName": "Today",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Tomorrow",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Wednesday",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Thursday",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Friday",
+            "hours": "6:00 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Saturday",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          },
+          {
+            "dayName": "Sunday",
+            "hours": "6:30 a.m. to 10:00 p.m.",
+            "open": true,
+            "holiday": ""
+          }
+        ],
+        "features": [
+          {
+            "code": "WA",
+            "name": "Oven-Warmed Food"
+          },
+          {
+            "code": "DT",
+            "name": "Drive-Thru"
+          },
+          {
+            "code": "DR",
+            "name": "Redeem Rewards"
+          },
+          {
+            "code": "GO",
+            "name": "Google Wi-Fi"
+          },
+          {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+          },
+          {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+          },
+          {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+          },
+          {
+            "code": "16",
+            "name": "In store"
+          },
+          {
+            "code": "UC",
+            "name": "tbd - UCP"
+          }
+        ],
+        "slug": "123-columbus-drive-123-columbus-drive-carbonear-nl-a-1-y-1-a-6-ca"
+      }
+    ]
+  }

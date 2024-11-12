@@ -1,0 +1,763 @@
+<div class="app-dialog__main background-color-dialog job-fullpreview__container job-details-page-container">
+    <job-details-checker params="viewData: viewData, jobId: jobId, isExpired: isExpired"><!-- ko if: state().type === 'expired' --><!-- /ko -->
+
+<!-- ko if: state().type === 'ok' -->
+<job-details-loader params="viewData: viewData, jobId: jobId"><!-- ko if: state().type === 'loaded' -->
+<job-details-page params="viewData: viewData, pageData: state().data"><div>
+<job-details-header params="viewData: viewData, pageData: pageData"><div class="job-details__header">
+<div class="app-dialog__bar job-actions text-color-secondary" data-bind="i18nLang: lang" dir="ltr">
+    <!-- ko template: { nodes: $componentTemplateNodes, data: $parent } -->
+    <!-- ko component: {
+        name: 'job-details-header-content',
+        params: {
+            job: pageData().job,
+            addThisConfig: pageData().addThisConfig,
+            displaySettings: headerDisplaySettings,
+        }
+    } --><!-- ko if: showShareWidget -->
+<div class="job-actions__section" data-bind="i18nLang: job.lang " dir="ltr">
+<share-widget params="
+        id: jobId,
+        isAddThisEnabled: addThisConfig.isAddThisEnabled,
+        addThisInlineSharing: addThisConfig.addThisInlineSharing,
+        addThisAttributes: addThisAttributes,
+        showCopyLink: showCopyLink,
+        showAddThisLink: showAddThisLink,
+        context: context,
+    "><div class="share-widget">
+<!-- ko if: showAddThisLink  --><!-- /ko -->
+
+<!-- ko if: showCopyLink -->
+<copy-link params="id: id(), context: context, language: lang"><input type="text" tabindex="-1" readonly="" class="share-widget__link" data-bind="value: link, i18nAttr: { 'aria-label': 'job-details.copy-link-button' }" aria-label="Copy Link">
+
+<button class="share-widget__action focused-tooltip-left" data-bind="hasFocus:true,
+    i18nAttr: {title: 'job-details.copy-link-button', 'aria-label': 'job-details.copy-link-button'},
+    copyToClipboard: {
+        inputSelector: '.share-widget__link',
+        afterCallback: afterCopy
+    }" title="Copy Link" aria-label="Copy Link">
+<em class="copy-link__icon"></em>
+</button>
+</copy-link>
+<!-- /ko -->
+</div>
+</share-widget>
+</div>
+<!-- /ko -->
+
+<div class="job-actions__section">
+<!-- ko if: !displaySettings().iconHiddenFavorite -->
+<button class="favourite-star job-actions__favorited focused-tooltip" data-bind="
+        click: toggleFavourite,
+        css: { 'favourite-star--active': isFavourite },
+        i18nAttr: { title: !isFavourite() ? 'favourite.a11y.pin-job' : 'favourite.a11y.unpin-job',
+        'aria-label': !isFavourite() ? 'favourite.a11y.pin-job' : 'favourite.a11y.unpin-job' }
+    " title="Add Job to My Job Selections" aria-label="Add Job to My Job Selections"></button>
+<!-- /ko -->
+</div>
+<!-- /ko -->
+<!-- /ko -->
+
+    <!-- ko ifnot: $componentTemplateNodes.length --><!-- /ko -->
+
+    <div class="job-actions__section">
+        <!-- ko if: viewType === 'fullscreen'-->
+        <button class="job-actions__view-all-jobs" id="viewAllJobsButton" data-bind="click: close,
+            i18nAttr: {'title': 'job-details.view-more-jobs', 'aria-label': 'job-details.view-more-jobs'},
+            css: { 'job-fullpreview__close--has-return-route': !pageData?.job}," title="View More Jobs" aria-label="View More Jobs">
+            <span class="job-actions__view-all-jobs-icon">
+                <span class="job-actions__search-results" data-bind="i18n: 'job-details.view-more-jobs'">View More Jobs</span>
+            </span>
+        </button>
+        <!-- /ko -->
+        <!-- ko if: viewType !== 'fullscreen'--><!-- /ko -->
+    </div>
+</div>
+</div>
+</job-details-header>
+<article>
+    <job-details-content params="
+        pageData: pageData,
+        viewData: viewData,
+        onMessage: onMessage,
+    "><div class="job-details" data-bind="
+    i18nLang: pageData().job.lang,
+    a11y.skipTo: {
+        elementsFocused: '.apply-now-button',
+        skipToElement: '.skip-navigation-link-dialog--active',
+        updateSkip: overlayVisible()
+    },
+    css: { 'job-details--with-similar-jobs': pageData().similarJobsState().hasJobs }" dir="ltr">
+<!-- ko if: isGJSEnabled --><!-- /ko -->
+
+<!-- ko component: {
+    name: 'cc-page',
+    params: {
+        page: viewData.customPage(),
+        pageData: pageData,
+        onMessage: onMessage,
+        classModifier: classModifier
+    }
+} --><div class="cc-page cc-page--boxed cc-page--job-details-fullscreen" data-bind="
+    css: {'cc-page--boxed': isPageDisplayBoxed},
+    class: classWithModifier,
+    a11y.skipTo: (classWithModifier === 'cc-page--custom-page') ? { elementsContainer: '.cc-page--custom-page' } : ''
+">
+<div class="cc-page__content">
+    <!-- ko foreach: { data: page.sections, as: 'section' } -->
+    <!-- ko component: {
+        name: 'cc-section',
+        params: {
+            section: section,
+            pageData: $parent.pageData,
+            onMessage: $parent.onMessage,
+        }
+    } --><section class="cc-section cc-section--width-null" data-bind="css: cssClass, style: { backgroundColor: params.backgroundColor, backgroundImage: backgroundSrc }" style="background-color: rgba(255, 255, 255, 0);">
+<cc-parallax params="backgroundSrc: backgroundSrc, isParallaxEnabled: isParallaxEnabled"><!-- ko if: isParallaxEnabled --><!-- /ko -->
+</cc-parallax>
+
+<cc-video-background params="videoUrl: section.params.backgroundVideo, videoWrapper: true, isFullscreen: false"><!-- ko if: videoUrl --><!-- /ko -->
+</cc-video-background>
+
+<div class="cc-section__content">
+    <!-- ko foreach: { data: components, as: 'component' } --><!-- /ko -->
+
+    <!-- ko foreach: { data: rows, as: 'row' } -->
+    <!-- ko component: { name: 'cc-row', params: { row: row, pageData: $parent.pageData, onMessage: $parent.onMessage } } --><div class="cc-row">
+<div class="cc-row__content cc-columns-count-1" data-bind="class: 'cc-columns-count-' + columns.length">
+    <!-- ko foreach: { data: columns, as: 'column' } -->
+    <!-- ko component: {
+        name: 'cc-column',
+        params: {
+            column: column,
+            pageData: $parent.pageData,
+            onMessage: $parent.onMessage,
+        }
+    } --><div class="cc-column cc-column--default" data-bind="style: { backgroundColor: params.backgroundColor, backgroundImage: backgroundSrc },
+           class: 'cc-column--' + size()" style="background-color: rgba(255, 255, 255, 0);">
+<cc-parallax params="backgroundSrc: backgroundSrc, isParallaxEnabled: isParallaxEnabled"><!-- ko if: isParallaxEnabled --><!-- /ko -->
+</cc-parallax>
+
+<cc-video-background params="videoUrl: params.backgroundVideo, videoWrapper: true, isFullscreen: false"><!-- ko if: videoUrl --><!-- /ko -->
+</cc-video-background>
+
+<div class="cc-column__content">
+    <!-- ko foreach: { data: components, as: 'component' } -->
+    <!-- ko component: { name: component.params.type, params: component } --><div data-bind="class: uniqueWrapperClass" class="component-styling-wrapper-18025">
+<style data-bind="text: customCss"></style>
+
+<h1 class="heading job-details__title" data-bind="
+        text: pageData().job.title,
+        class: customizationParams.commonParams.cssClass,
+        attr: { id: customizationParams.commonParams.cssId },
+        customStyles: customizationParams.commonParams,
+    ">Senior Manager, Digital Technology</h1>
+</div>
+<!-- /ko -->
+    
+    <!-- ko component: { name: component.params.type, params: component } --><div data-bind="class: uniqueWrapperClass" class="component-styling-wrapper-18024">
+<style data-bind="text: customCss"></style>
+
+<div class="job-details__subtitle text-color-secondary" data-bind="
+        class: customizationParams.commonParams.cssClass,
+        attr: { id: customizationParams.commonParams.cssId },
+        customStyles: customizationParams.commonParams,
+    ">
+    <!-- ko component: { 
+            name: 'posting-locations', 
+            params: { 
+                primaryLocation: pageData().job.primaryLocation,
+                secondaryLocations: pageData().job.secondaryLocations,
+                workplaceType: {
+                    name: pageData().job.workplaceType,
+                    code: pageData().job.workplaceTypeCode,
+                },
+                mode: customizationParams.content.displayAdditionalLocations() ? 'normal' : 'tooltip'
+            }
+        } --><!-- ko if: isTooltipMode() -->
+<span data-bind="html: primaryLocation">Edison, NJ, United States</span>
+<!-- ko if: secondaryLocationsCount > 0 --><!-- /ko -->
+<!-- /ko -->
+<!-- ko if: !isTooltipMode() --><!-- /ko -->
+
+<!-- ko if: workplaceTypeName -->
+<span data-bind="text: workplaceTypeName">(On-site)</span>
+<!-- /ko -->
+<!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    
+    <!-- ko component: { name: component.params.type, params: component } --><!-- ko if: pageData().job && areJobTagsVisible --><!-- /ko -->
+<!-- /ko -->
+    
+    <!-- ko component: { name: component.params.type, params: component } --><div class="cc-element cc-element--rule cc-rule--align-center cc-element--rule-job-details" data-bind="css: cssClass, style: { backgroundColor: params.backgroundColor }, attr: { id: params.cssId }, customStyles: params">
+<div class="cc-element-rule__line" data-bind="style: { width: percentageWidth, backgroundColor: params.lineColor }" style="width: 100%;"></div>
+</div>
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    
+    <!-- ko component: { name: 'cc-row', params: { row: row, pageData: $parent.pageData, onMessage: $parent.onMessage } } --><div class="cc-row">
+<div class="cc-row__content cc-columns-count-1" data-bind="class: 'cc-columns-count-' + columns.length">
+    <!-- ko foreach: { data: columns, as: 'column' } -->
+    <!-- ko component: {
+        name: 'cc-column',
+        params: {
+            column: column,
+            pageData: $parent.pageData,
+            onMessage: $parent.onMessage,
+        }
+    } --><div class="cc-column cc-column--default" data-bind="style: { backgroundColor: params.backgroundColor, backgroundImage: backgroundSrc },
+           class: 'cc-column--' + size()" style="background-color: rgba(255, 255, 255, 0);">
+<cc-parallax params="backgroundSrc: backgroundSrc, isParallaxEnabled: isParallaxEnabled"><!-- ko if: isParallaxEnabled --><!-- /ko -->
+</cc-parallax>
+
+<cc-video-background params="videoUrl: params.backgroundVideo, videoWrapper: true, isFullscreen: false"><!-- ko if: videoUrl --><!-- /ko -->
+</cc-video-background>
+
+<div class="cc-column__content">
+    <!-- ko foreach: { data: components, as: 'component' } -->
+    <!-- ko component: { name: component.params.type, params: component } --><!-- ko if: pageData().job.corporateDescription -->
+<div data-bind="class: uniqueWrapperClass" class="component-styling-wrapper-18033">
+<style data-bind="text: customCss"></style>
+
+<div class="job-details__section" data-bind="
+        class: customizationParams.commonParams.cssClass,
+        attr: { id: customizationParams.commonParams.cssId },
+        customStyles: customizationParams.commonParams,
+    ">
+    <!-- ko ifnot: customizationParams.content.isTitleHidden -->
+    <h2 class="job-details__description-header text-color-secondary font-family-secondary" data-bind="i18n: 'job-details.employer-description-title'">About Us</h2>
+    <!-- /ko -->
+
+    <div class="job-details__description-content basic-formatter" data-bind="html: pageData().job.corporateDescription"><p><b>Who we are:&nbsp;</b></p>
+<p></p>
+<p>Since 1975, TUMI has been creating world-class business, travel and performance luxury essentials, designed to upgrade, uncomplicate, and beautify all aspects of life on the move. Blending flawless functionality with a spirit of ingenuity, we’re committed to empowering journeys as a lifelong partner to movers and makers in pursuit of their passions. The brand is sold globally in over 75 countries with approximately 2,000 points of sale.</p></div>
+</div>
+</div>
+<!-- /ko -->
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    
+    <!-- ko component: { name: 'cc-row', params: { row: row, pageData: $parent.pageData, onMessage: $parent.onMessage } } --><div class="cc-row">
+<div class="cc-row__content cc-columns-count-1" data-bind="class: 'cc-columns-count-' + columns.length">
+    <!-- ko foreach: { data: columns, as: 'column' } -->
+    <!-- ko component: {
+        name: 'cc-column',
+        params: {
+            column: column,
+            pageData: $parent.pageData,
+            onMessage: $parent.onMessage,
+        }
+    } --><div class="cc-column cc-column--default" data-bind="style: { backgroundColor: params.backgroundColor, backgroundImage: backgroundSrc },
+           class: 'cc-column--' + size()" style="background-color: rgba(255, 255, 255, 0);">
+<cc-parallax params="backgroundSrc: backgroundSrc, isParallaxEnabled: isParallaxEnabled"><!-- ko if: isParallaxEnabled --><!-- /ko -->
+</cc-parallax>
+
+<cc-video-background params="videoUrl: params.backgroundVideo, videoWrapper: true, isFullscreen: false"><!-- ko if: videoUrl --><!-- /ko -->
+</cc-video-background>
+
+<div class="cc-column__content">
+    <!-- ko foreach: { data: components, as: 'component' } -->
+    <!-- ko component: { name: component.params.type, params: component } --><!-- ko if: pageData().job.description -->
+<div data-bind="class: uniqueWrapperClass" class="component-styling-wrapper-18027">
+<style data-bind="text: customCss"></style>
+
+<div class="job-details__section" data-bind="
+        class: customizationParams.commonParams.cssClass,
+        attr: { id: customizationParams.commonParams.cssId },
+        customStyles: customizationParams.commonParams,
+    ">
+    <!-- ko ifnot: customizationParams.content.isTitleHidden -->
+    <h2 class="job-details__description-header text-color-secondary font-family-secondary" data-bind="i18n: 'job-details.job-description-title'">Job Description</h2>
+    <!-- /ko -->
+
+    <div class="job-details__description-content basic-formatter" data-bind="html: pageData().job.description"><p><strong>Your role at Tumi:&nbsp;</strong></p>
+<p>Tumi is seeking Senior Manager, Digital Technology to join our technology and operations team for Ecommerce who will architect, design, and deliver business initiatives that drive revenue and/or improve efficiency. The individual will maintain an in-depth view of the organization’s technologies and architectures. This role will be accountable for an aspirational roadmap for the Digital stack with a focus on industry specific trends, emerging technologies, and strategic differentiators. The individual will present and socialize the current and future state of Digital Products and Platforms to various stakeholders. This role will report to the Director of Digital Operations and Technology. This is a newly created role on the team, with oversight on multiple teams and vendors involved.</p>
+<ul>
+<li>Own, ideate, architect, and drive the projects in ecommerce roadmap.</li>
+<li>Evaluate emerging technologies around Salesforce, and build a path for adoption into the current technology stack.</li>
+<li>Partner with multiple teams to create prototypes, provide resolutions, and proof of concepts.</li>
+<li>Establish non-functional benchmarks and corresponding requirements across platforms and ensure the overall architecture is scalable, performs well, and is supportable</li>
+<li>Evaluate, design, scope, and document integration effort for new products, processes, technologies, and solutions.</li>
+<li>Conduct evaluation of 3rd party solutions relative to business requirements and processes and guide formulation of solution recommendations.</li>
+<li>Proactively identify systems / tools that need a technology refresh and create the future state point of view.</li>
+<li>Conduct feasibility studies, point-of-views, competitive and impact analysis to support various strategic and tactical business needs.</li>
+<li>Create and maintain key architecture artifacts – current state, transition state, and future state of the overall digital ecosystem and establish Digital point of view.</li>
+<li>Define the future state technology strategy for key business capabilities, align with key business and technology stake holders and establish vision and platform roadmap.</li>
+</ul></div>
+</div>
+</div>
+<!-- /ko -->
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    
+    <!-- ko component: { name: 'cc-row', params: { row: row, pageData: $parent.pageData, onMessage: $parent.onMessage } } --><div class="cc-row">
+<div class="cc-row__content cc-columns-count-1" data-bind="class: 'cc-columns-count-' + columns.length">
+    <!-- ko foreach: { data: columns, as: 'column' } -->
+    <!-- ko component: {
+        name: 'cc-column',
+        params: {
+            column: column,
+            pageData: $parent.pageData,
+            onMessage: $parent.onMessage,
+        }
+    } --><div class="cc-column cc-column--default" data-bind="style: { backgroundColor: params.backgroundColor, backgroundImage: backgroundSrc },
+           class: 'cc-column--' + size()" style="background-color: rgba(255, 255, 255, 0);">
+<cc-parallax params="backgroundSrc: backgroundSrc, isParallaxEnabled: isParallaxEnabled"><!-- ko if: isParallaxEnabled --><!-- /ko -->
+</cc-parallax>
+
+<cc-video-background params="videoUrl: params.backgroundVideo, videoWrapper: true, isFullscreen: false"><!-- ko if: videoUrl --><!-- /ko -->
+</cc-video-background>
+
+<div class="cc-column__content">
+    <!-- ko foreach: { data: components, as: 'component' } -->
+    <!-- ko component: { name: component.params.type, params: component } --><!-- ko if: pageData().job.responsibilities --><!-- /ko -->
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    
+    <!-- ko component: { name: 'cc-row', params: { row: row, pageData: $parent.pageData, onMessage: $parent.onMessage } } --><div class="cc-row">
+<div class="cc-row__content cc-columns-count-1" data-bind="class: 'cc-columns-count-' + columns.length">
+    <!-- ko foreach: { data: columns, as: 'column' } -->
+    <!-- ko component: {
+        name: 'cc-column',
+        params: {
+            column: column,
+            pageData: $parent.pageData,
+            onMessage: $parent.onMessage,
+        }
+    } --><div class="cc-column cc-column--default" data-bind="style: { backgroundColor: params.backgroundColor, backgroundImage: backgroundSrc },
+           class: 'cc-column--' + size()" style="background-color: rgba(255, 255, 255, 0);">
+<cc-parallax params="backgroundSrc: backgroundSrc, isParallaxEnabled: isParallaxEnabled"><!-- ko if: isParallaxEnabled --><!-- /ko -->
+</cc-parallax>
+
+<cc-video-background params="videoUrl: params.backgroundVideo, videoWrapper: true, isFullscreen: false"><!-- ko if: videoUrl --><!-- /ko -->
+</cc-video-background>
+
+<div class="cc-column__content">
+    <!-- ko foreach: { data: components, as: 'component' } -->
+    <!-- ko component: { name: component.params.type, params: component } --><!-- ko if: pageData().job.qualifications -->
+<div data-bind="class: uniqueWrapperClass" class="component-styling-wrapper-18035">
+<style data-bind="text: customCss"></style>
+
+<div class="job-details__section" data-bind="
+        class: customizationParams.commonParams.cssClass,
+        attr: { id: customizationParams.commonParams.cssId },
+        customStyles: customizationParams.commonParams,
+    ">
+    <!-- ko ifnot: customizationParams.content.isTitleHidden --><!-- /ko -->
+
+    <div class="job-details__description-content basic-formatter" data-bind="html: pageData().job.qualifications"><p><strong>We're excited if you have:</strong></p>
+<ul>
+<li>Experience working on Salesforce Commerce Cloud E-commerce platform and sound knowledge of Web Applications on various infrastructures</li>
+<li>Strong understanding of SFCC, SFRA, CDN, NodeJS, ETL, Build Processes, Web Vitals, Code quality evaluations, Atlassian processes, and Microservices.</li>
+<li>Experience in implementation and integration of various solutions such as Product Information Management (PIM), Content Management Systems (CMS), Digital Asset Management (DAM) and A/B Testing Solutions.</li>
+<li>Demonstrated ability architecting multi-tenant systems and platforms with a focus on building reference applications, across a variety of platforms.</li>
+<li>Deep understanding of Content Delivery Networks, Network traffic routing and Service Workers.</li>
+<li>Deep understanding of Payment and Order Management systems and integration concepts – REST, SOAP, Batch, SFTP, API Gateways.</li>
+<li>Experience in headless architecture, progressive web apps as well as API Orchestration with an overarching focus on performance optimization.</li>
+<li>Prior exposure or experience in one of the cloud providers like AWS, GCP or Azure.</li>
+<li>Knowledge of Sales Force Marketing Cloud and Sales Force Service Cloud is a plus.</li>
+<li>Knowledge of IT security and regulatory compliance (PCI, PII, etc.)</li>
+<li>Bachelor’s degree in Computer Science, or Applications, or related technology field, OR equivalent work experience</li>
+<li>Minimum 10 years of Digital Solution Architecture experience in Retail or Consumer web environment</li>
+<li>Excellent analytical and technical skills and ability to lead, direct and challenge teams in process, methods, and approach.</li>
+<li>Should have strong communication, leadership, and negotiation skills to work closely with business and other cross-functional teams.</li>
+<li>Strong understanding of ecommerce ecosystems and processes that include end-to-end data flows and processing from order management, fulfillment, payments, customer service and other back-end systems</li>
+<li>Experienced in working across multiple teams and adapting the architecture to meet business needs&nbsp;</li>
+</ul></div>
+</div>
+</div>
+<!-- /ko -->
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    
+    <!-- ko component: { name: 'cc-row', params: { row: row, pageData: $parent.pageData, onMessage: $parent.onMessage } } --><div class="cc-row">
+<div class="cc-row__content cc-columns-count-1" data-bind="class: 'cc-columns-count-' + columns.length">
+    <!-- ko foreach: { data: columns, as: 'column' } -->
+    <!-- ko component: {
+        name: 'cc-column',
+        params: {
+            column: column,
+            pageData: $parent.pageData,
+            onMessage: $parent.onMessage,
+        }
+    } --><div class="cc-column cc-column--default" data-bind="style: { backgroundColor: params.backgroundColor, backgroundImage: backgroundSrc },
+           class: 'cc-column--' + size()" style="background-color: rgba(255, 255, 255, 0);">
+<cc-parallax params="backgroundSrc: backgroundSrc, isParallaxEnabled: isParallaxEnabled"><!-- ko if: isParallaxEnabled --><!-- /ko -->
+</cc-parallax>
+
+<cc-video-background params="videoUrl: params.backgroundVideo, videoWrapper: true, isFullscreen: false"><!-- ko if: videoUrl --><!-- /ko -->
+</cc-video-background>
+
+<div class="cc-column__content">
+    <!-- ko foreach: { data: components, as: 'component' } -->
+    <!-- ko component: { name: component.params.type, params: component } --><!-- ko if: pageData().job.organizationDescription -->
+<div data-bind="class: uniqueWrapperClass" class="component-styling-wrapper-18032">
+<style data-bind="text: customCss"></style>
+
+<div class="job-details__section" data-bind="
+        class: customizationParams.commonParams.cssClass,
+        attr: { id: customizationParams.commonParams.cssId },
+        customStyles: customizationParams.commonParams,
+    ">
+    <!-- ko ifnot: customizationParams.content.isTitleHidden -->
+    <h2 class="job-details__description-header text-color-secondary font-family-secondary" data-bind="i18n: 'job-details.organization-description-title'">About the Team</h2>
+    <!-- /ko -->
+
+    <div class="job-details__description-content basic-formatter" data-bind="html: pageData().job.organizationDescription"><b>Why you'll love working here:</b>
+<div>
+<b><br></b>
+<div>
+At TUMI, you’ll find a dynamic working environment, joining a community where each team member is empowered with an entrepreneurial spirit. Associates are respected as a vital part of the organization and recognized for their contributions. We believe in a workplace that gives every individual the opportunity to make an impact, and our ongoing commitment is to provide all the tools you need to succeed— guidance towards individual career growth, professional training and development initiatives, and a motivating, exciting environment— along with competitive salaries and comprehensive benefits programs.
+</div>
+<div>
+<br>
+</div>
+<div>
+<b>What we value:&nbsp;</b>
+</div>
+<div>
+<ul>
+<li>INNOVATIVE BY NATURE. SUSTAINABLE BY CHOICE.&nbsp; TUMI protects the things that matter most, the things you own and the planet you travel to see. Our planet is an astonishing place and we believe it’s our responsibility to preserve it for travelers of the future. By putting excellence and quality first, we ensure that every TUMI product has lifelong purpose, supported by our rigorous testing standards, exploration of recycled materials, and global repair network.</li>
+<li>PARTNERS WE BELIEVE IN.&nbsp; Staying true to our values by helping take care of the most vulnerable among us aligns with our mission and is a core element of what we do. We focus on three main areas: promoting wellbeing; empowering vulnerable communities; and protecting the earth’s beautiful places. Each year we extend our philanthropic efforts to partners that help better the world. From supporting St. Jude Children’s Research Hospital fight to cure childhood cancer to Waves for Water who provides clean water to communities in need, we proudly stand by the profound changes they enact.</li>
+<li>DIVERSITY &amp; INCLUSION.&nbsp; As an organization, we are committed to a diverse and vibrant culture, welcoming people from all walks of life. Our long-standing commitment to diversity and inclusion empowers each of us to bring our authentic selves and unique differences to work every day.</li>
+</ul>
+<div>
+The actual rate of pay offered depends on various factors, including qualifications for the position and relevant experience; as well as other legitimate, non-discriminatory business factors specific to the position or location.
+</div>
+<div>
+<br>
+</div>
+</div>
+<div>
+Tumi is an equal opportunity employer and is committed to promoting and maintaining a work environment in which all applicants, associates, customers, and other individuals are treated with dignity and respect free from unlawful harassment, discrimination, or retaliation.
+</div>
+<div>
+<br>
+</div>
+</div></div>
+</div>
+</div>
+<!-- /ko -->
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    
+    <!-- ko component: { name: 'cc-row', params: { row: row, pageData: $parent.pageData, onMessage: $parent.onMessage } } --><div class="cc-row">
+<div class="cc-row__content cc-columns-count-1" data-bind="class: 'cc-columns-count-' + columns.length">
+    <!-- ko foreach: { data: columns, as: 'column' } -->
+    <!-- ko component: {
+        name: 'cc-column',
+        params: {
+            column: column,
+            pageData: $parent.pageData,
+            onMessage: $parent.onMessage,
+        }
+    } --><div class="cc-column cc-column--default" data-bind="style: { backgroundColor: params.backgroundColor, backgroundImage: backgroundSrc },
+           class: 'cc-column--' + size()" style="background-color: rgba(255, 255, 255, 0);">
+<cc-parallax params="backgroundSrc: backgroundSrc, isParallaxEnabled: isParallaxEnabled"><!-- ko if: isParallaxEnabled --><!-- /ko -->
+</cc-parallax>
+
+<cc-video-background params="videoUrl: params.backgroundVideo, videoWrapper: true, isFullscreen: false"><!-- ko if: videoUrl --><!-- /ko -->
+</cc-video-background>
+
+<div class="cc-column__content">
+    <!-- ko foreach: { data: components, as: 'component' } -->
+    <!-- ko component: { name: component.params.type, params: component } --><div data-bind="class: uniqueWrapperClass" class="component-styling-wrapper-18030">
+<style data-bind="text: customCss">.component-styling-wrapper-18030 .apply-now-button, .apply-with-indeed-button { max-width: 270px; }
+.component-styling-wrapper-18030 .apply-now-button, .apply-with-indeed-button { height: 60px; }</style>
+
+<div class="job-details__section job-details__section-apply-button font-family-secondary theme-color-1" data-bind="
+        class: customizationParams.commonParams.cssClass,
+        attr: { id: customizationParams.commonParams.cssId },
+        customStyles: customizationParams.commonParams,
+    ">
+    <button class="button apply-now-button theme-color-1 apply-now-button--apply-now" data-bind="click: click, enable: isEnable,
+    class: buttonStatusClass">
+        <span class="button__label" data-bind="i18n: label">Apply Now</span>
+    </button>
+
+    <!-- ko if: isAdminMode --><!-- /ko -->
+
+    <!-- ko if: showIndeedButton() --><!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    
+    <!-- ko component: { name: 'cc-row', params: { row: row, pageData: $parent.pageData, onMessage: $parent.onMessage } } --><div class="cc-row">
+<div class="cc-row__content cc-columns-count-1" data-bind="class: 'cc-columns-count-' + columns.length">
+    <!-- ko foreach: { data: columns, as: 'column' } -->
+    <!-- ko component: {
+        name: 'cc-column',
+        params: {
+            column: column,
+            pageData: $parent.pageData,
+            onMessage: $parent.onMessage,
+        }
+    } --><div class="cc-column cc-column--default" data-bind="style: { backgroundColor: params.backgroundColor, backgroundImage: backgroundSrc },
+           class: 'cc-column--' + size()" style="background-color: rgba(255, 255, 255, 0);">
+<cc-parallax params="backgroundSrc: backgroundSrc, isParallaxEnabled: isParallaxEnabled"><!-- ko if: isParallaxEnabled --><!-- /ko -->
+</cc-parallax>
+
+<cc-video-background params="videoUrl: params.backgroundVideo, videoWrapper: true, isFullscreen: false"><!-- ko if: videoUrl --><!-- /ko -->
+</cc-video-background>
+
+<div class="cc-column__content">
+    <!-- ko foreach: { data: components, as: 'component' } -->
+    <!-- ko component: { name: component.params.type, params: component } --><!-- ko if: pageData().job -->
+<div data-bind="class: uniqueWrapperClass" class="component-styling-wrapper-18028">
+<style data-bind="text: customCss"></style>
+
+<div class="job-details__section" data-bind="
+        class: customizationParams.commonParams.cssClass,
+        attr: { id: customizationParams.commonParams.cssId },
+        customStyles: customizationParams.commonParams,
+    ">
+    <!-- ko ifnot: customizationParams.content.isTitleHidden -->
+    <h2 class="job-details__description-header text-color-secondary font-family-secondary" data-bind="i18n: 'job-details.job-info-title'">Job Info</h2>
+    <!-- /ko -->
+
+    <div class="job-details__info-section">
+        <div class="job-meta">
+            <div class="job-meta__inner">
+                <ul class="job-meta__list">
+                    <!-- ko foreach: jobDetailsInfoItems -->
+                    <!-- ko component: { name: 'job-meta-item', params: $data } --><li class="job-meta__item">
+<!-- ko component: { name: componentName, params: componentData } --><span class="job-meta__title" data-bind="text: name">Job Identification</span>
+<span class="job-meta__subitem" data-bind="text: value">1094</span>
+<!-- /ko -->
+</li>
+<!-- /ko -->
+                    
+                    <!-- ko component: { name: 'job-meta-item', params: $data } --><li class="job-meta__item">
+<!-- ko component: { name: componentName, params: componentData } --><span class="job-meta__title" data-bind="text: name">Job Schedule</span>
+<span class="job-meta__subitem" data-bind="text: value">Full time</span>
+<!-- /ko -->
+</li>
+<!-- /ko -->
+                    
+                    <!-- ko component: { name: 'job-meta-item', params: $data } --><li class="job-meta__item">
+<!-- ko component: { name: componentName, params: componentData } --><span class="job-meta__title" data-bind="text: name">Display Work Location</span>
+<span class="job-meta__subitem" data-bind="text: value">Tumi NJ HEADQUARTERS</span>
+<!-- /ko -->
+</li>
+<!-- /ko -->
+                    
+                    <!-- ko component: { name: 'job-meta-item', params: $data } --><li class="job-meta__item">
+<!-- ko component: { name: componentName, params: componentData } --><span class="job-meta__title" data-bind="text: name">Compensation Currency</span>
+<span class="job-meta__subitem" data-bind="text: value">US Dollar</span>
+<!-- /ko -->
+</li>
+<!-- /ko -->
+                    
+                    <!-- ko component: { name: 'job-meta-item', params: $data } --><li class="job-meta__item">
+<!-- ko component: { name: componentName, params: componentData } --><span class="job-meta__title job-meta__title--locations" data-bind="text: name">Locations</span>
+<span class="job-meta__subitem">
+<span class="job-meta__locations">
+    <!-- ko foreach: value -->
+    <span class="job-meta__pin-item">
+        <em class="job-meta__pin-icon"></em>
+        <!-- ko text: $data -->Edison, NJ, United States<!-- /ko -->
+    </span>
+    <!-- /ko -->
+</span>
+<!-- ko if: workplaceTypeName -->
+<span data-bind="text: workplaceTypeName, css:{ 'job-meta__workplace-type': hasLocationsAcrossMultipleRows()}" class="job-meta__workplace-type">(On-site)</span>
+<!-- /ko -->
+</span>
+<!-- /ko -->
+</li>
+<!-- /ko -->
+                    <!-- /ko -->
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<!-- /ko -->
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    
+    <!-- ko component: { name: 'cc-row', params: { row: row, pageData: $parent.pageData, onMessage: $parent.onMessage } } --><div class="cc-row">
+<div class="cc-row__content cc-columns-count-1" data-bind="class: 'cc-columns-count-' + columns.length">
+    <!-- ko foreach: { data: columns, as: 'column' } -->
+    <!-- ko component: {
+        name: 'cc-column',
+        params: {
+            column: column,
+            pageData: $parent.pageData,
+            onMessage: $parent.onMessage,
+        }
+    } --><div class="cc-column cc-column--default" data-bind="style: { backgroundColor: params.backgroundColor, backgroundImage: backgroundSrc },
+           class: 'cc-column--' + size()" style="background-color: rgba(255, 255, 255, 0);">
+<cc-parallax params="backgroundSrc: backgroundSrc, isParallaxEnabled: isParallaxEnabled"><!-- ko if: isParallaxEnabled --><!-- /ko -->
+</cc-parallax>
+
+<cc-video-background params="videoUrl: params.backgroundVideo, videoWrapper: true, isFullscreen: false"><!-- ko if: videoUrl --><!-- /ko -->
+</cc-video-background>
+
+<div class="cc-column__content">
+    <!-- ko foreach: { data: components, as: 'component' } -->
+    <!-- ko component: { name: component.params.type, params: component } --><!-- ko if: pageData().job.media -->
+<div data-bind="class: uniqueWrapperClass" class="component-styling-wrapper-18031">
+<style data-bind="text: customCss"></style>
+
+<div class="job-details__section job-details__media-slider" data-bind="
+        class: customizationParams.commonParams.cssClass,
+        attr: { id: customizationParams.commonParams.cssId },
+        customStyles: customizationParams.commonParams,
+    ">
+    <div class="job-details__description-content basic-formatter">
+        <media-slider params="slides: pageData().job.media, isAdminMode: isAdminMode"><!-- ko if: slides.length --><!-- /ko -->
+</media-slider>
+    </div>
+</div>
+</div>
+<!-- /ko -->
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    
+    <!-- ko component: { name: 'cc-row', params: { row: row, pageData: $parent.pageData, onMessage: $parent.onMessage } } --><div class="cc-row">
+<div class="cc-row__content cc-columns-count-1" data-bind="class: 'cc-columns-count-' + columns.length">
+    <!-- ko foreach: { data: columns, as: 'column' } -->
+    <!-- ko component: {
+        name: 'cc-column',
+        params: {
+            column: column,
+            pageData: $parent.pageData,
+            onMessage: $parent.onMessage,
+        }
+    } --><div class="cc-column cc-column--default" data-bind="style: { backgroundColor: params.backgroundColor, backgroundImage: backgroundSrc },
+           class: 'cc-column--' + size()" style="background-color: rgba(255, 255, 255, 0);">
+<cc-parallax params="backgroundSrc: backgroundSrc, isParallaxEnabled: isParallaxEnabled"><!-- ko if: isParallaxEnabled --><!-- /ko -->
+</cc-parallax>
+
+<cc-video-background params="videoUrl: params.backgroundVideo, videoWrapper: true, isFullscreen: false"><!-- ko if: videoUrl --><!-- /ko -->
+</cc-video-background>
+
+<div class="cc-column__content">
+    <!-- ko foreach: { data: components, as: 'component' } -->
+    <!-- ko component: { name: component.params.type, params: component } --><div class="cc-element cc-element--rich-text basic-formatter cc-paragraph" data-bind="html: content, css: params.cssClass, attr: { id: params.cssId }, customStyles: params"><p class="job-details__similar-jobs-header" style="text-align: center">Similar Jobs</p></div>
+<!-- /ko -->
+    
+    <!-- ko component: { name: component.params.type, params: component } --><div data-bind="class: uniqueWrapperClass" class="component-styling-wrapper-18034">
+<style data-bind="text: customCss">@media all and (min-width: 768px) { .component-styling-wrapper-18034 .jobs-list__list, .component-styling-wrapper-18034 .jobs-list__header, .component-styling-wrapper-18034 .search-job-results__map-container { max-width: 100%; } }</style>
+
+<!-- ko if: pageData().similarJobsState().type === 'loading'   --><!--  /ko  -->
+
+<!-- ko if: pageData().similarJobsState().type === 'loaded'   -->
+<div class="job-details__similar-jobs jobs-list" data-bind="
+        class: customizationParams.commonParams.cssClass,
+        css: { 'jobs-list': isList(), 'jobs-grid': !isList() },
+        attr: { id: customizationParams.commonParams.cssId },
+        customStyles: customizationParams.commonParams,
+    ">
+    <ul data-bind="class: isList() ? 'jobs-list__list' : 'jobs-grid__list'" class="jobs-list__list">
+        <!-- ko foreach: { data: pageData().similarJobsState().requisitions, as: 'job' } --><!-- /ko -->
+    </ul>
+
+    <!-- ko if: pageData().similarJobsState().hasMoreResults() && !customizationParams.content.hideMoreJobsButton() --><!-- /ko -->
+</div>
+<!--  /ko  -->
+</div>
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</section>
+<!-- /ko -->
+    <!-- /ko -->
+</div>
+</div>
+<!-- /ko -->
+
+<!-- ko if: pageData().addThisConfig.isAddThisEnabled && pageData().addThisConfig.addThisRelatedPost --><!-- /ko -->
+
+<!-- ko generateGoogleJobSearchTags: pageData().job --><script type="application/ld+json">{"@context":"https://schema.org","@type":"JobPosting","title":"Senior Manager, Digital Technology","employmentType":"Full time","educationRequirements":null,"url":"https://careers.samsonite.com/#en/sites/CX_1/job/1094?utm_medium=search+engine&utm_source=google","description":"<p><strong>Your role at Tumi:&nbsp;</strong></p>\n<p>Tumi is seeking Senior Manager, Digital Technology to join our technology and operations team for Ecommerce who will architect, design, and deliver business initiatives that drive revenue and/or improve efficiency. The individual will maintain an in-depth view of the organization’s technologies and architectures. This role will be accountable for an aspirational roadmap for the Digital stack with a focus on industry specific trends, emerging technologies, and strategic differentiators. The individual will present and socialize the current and future state of Digital Products and Platforms to various stakeholders. This role will report to the Director of Digital Operations and Technology. This is a newly created role on the team, with oversight on multiple teams and vendors involved.</p>\n<ul>\n <li>Own, ideate, architect, and drive the projects in ecommerce roadmap.</li>\n <li>Evaluate emerging technologies around Salesforce, and build a path for adoption into the current technology stack.</li>\n <li>Partner with multiple teams to create prototypes, provide resolutions, and proof of concepts.</li>\n <li>Establish non-functional benchmarks and corresponding requirements across platforms and ensure the overall architecture is scalable, performs well, and is supportable</li>\n <li>Evaluate, design, scope, and document integration effort for new products, processes, technologies, and solutions.</li>\n <li>Conduct evaluation of 3rd party solutions relative to business requirements and processes and guide formulation of solution recommendations.</li>\n <li>Proactively identify systems / tools that need a technology refresh and create the future state point of view.</li>\n <li>Conduct feasibility studies, point-of-views, competitive and impact analysis to support various strategic and tactical business needs.</li>\n <li>Create and maintain key architecture artifacts – current state, transition state, and future state of the overall digital ecosystem and establish Digital point of view.</li>\n <li>Define the future state technology strategy for key business capabilities, align with key business and technology stake holders and establish vision and platform roadmap.</li>\n</ul>","hiringOrganization":{"@type":"Organization","name":"Tumi","sameAs":"https://careers.samsonite.com/#","logo":"https://cdn.media.amplience.net/i/tumi/tulip-tumi-logo"},"identifier":{"@type":"PropertyValue","name":"Tumi","value":"1094"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Edison","addressRegion":"NJ","addressCountry":"United States"}}}</script>
+<!-- /ko -->
+</div>
+</job-details-content>
+</article>
+</div>
+</job-details-page>
+<!-- /ko -->
+
+<!-- ko if: state().type === 'loading' --><!-- /ko -->
+
+<!-- ko if: state().type === 'error' --><!-- /ko -->
+</job-details-loader>
+<!-- /ko -->
+</job-details-checker>
+</div>

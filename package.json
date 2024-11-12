@@ -23,6 +23,9 @@
   },
   "homepage": "https://github.com/grancier/node-serve-html#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.6.2"
   }
 }

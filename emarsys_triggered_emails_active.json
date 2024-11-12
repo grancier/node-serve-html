@@ -1,0 +1,1313 @@
+[
+    {
+      "id": 1320576,
+      "name": {
+        "html": "(DAN) Tumi eReceipt",
+        "sort_by": "(DAN) Tumi eReceipt"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "livotee",
+      "event": "Aptos_Return",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-1320576\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-1320576\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 1320578,
+      "name": {
+        "html": "(DAN) Tumi eReceipt - Sale",
+        "sort_by": "(DAN) Tumi eReceipt - Sale"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "livotee",
+      "event": "Aptos_Sale",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-1320578\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-1320578\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 2682544,
+      "name": {
+        "html": "(DAN) Tumi eReceipt - Sale_SFCC",
+        "sort_by": "(DAN) Tumi eReceipt - Sale_SFCC"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "livotee",
+      "event": "APTOS_SALE_TESTING",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-2682544\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-2682544\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 2682565,
+      "name": {
+        "html": "(DAN) Tumi eReceipt_SFCC",
+        "sort_by": "(DAN) Tumi eReceipt_SFCC"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "livotee",
+      "event": "APTOS_RETURN_TESTING",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-2682565\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-2682565\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 4463252,
+      "name": {
+        "html": "(Emarsys) Account Activation 2023",
+        "sort_by": "(Emarsys) Account Activation 2023"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-4463252\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-4463252\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 40786,
+      "name": {
+        "html": "(EMARSYS) Account Expiration",
+        "sort_by": "(EMARSYS) Account Expiration"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Account Expiration",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-40786\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-40786\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 2573645,
+      "name": {
+        "html": "(EMARSYS) Account Expiration_SFCC_TEST",
+        "sort_by": "(EMARSYS) Account Expiration_SFCC_TEST"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "livotee",
+      "event": "ACCOUNT_EXPIRATION_TESTING",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-2573645\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-2573645\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 41026,
+      "name": {
+        "html": "(EMARSYS) Account Verification",
+        "sort_by": "(EMARSYS) Account Verification"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Account Verification",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-41026\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-41026\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 226920,
+      "name": {
+        "html": "(EMARSYS) country suppression test",
+        "sort_by": "(EMARSYS) country suppression test"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Test Event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-226920\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-226920\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 5202446,
+      "name": {
+        "html": "(Emarsys) Gift Card - Balance",
+        "sort_by": "(Emarsys) Gift Card - Balance"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-5202446\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-5202446\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 4936940,
+      "name": {
+        "html": "(Emarsys) Gift Card - Recipient",
+        "sort_by": "(Emarsys) Gift Card - Recipient"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-4936940\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-4936940\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 4936961,
+      "name": {
+        "html": "(Emarsys) Gift Card - Sender",
+        "sort_by": "(Emarsys) Gift Card - Sender"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-4936961\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-4936961\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 4497951,
+      "name": {
+        "html": "(Emarsys) Order Acknowledgement 2023",
+        "sort_by": "(Emarsys) Order Acknowledgement 2023"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-4497951\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-4497951\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 4506051,
+      "name": {
+        "html": "(Emarsys) Order Cancel 2023",
+        "sort_by": "(Emarsys) Order Cancel 2023"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-4506051\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-4506051\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 5273547,
+      "name": {
+        "html": "(Emarsys) Order Cancel 2024",
+        "sort_by": "(Emarsys) Order Cancel 2024"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "patsywalsh",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-5273547\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-5273547\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 5229853,
+      "name": {
+        "html": "(Emarsys) Order Confirmation 2023",
+        "sort_by": "(Emarsys) Order Confirmation 2023"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "patsywalsh",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-5229853\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-5229853\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 2477529,
+      "name": {
+        "html": "(EMARSYS) Order Confirmation NEW - Linc (Production)",
+        "sort_by": "(EMARSYS) Order Confirmation NEW - Linc (Production)"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "livotee",
+      "event": "Purchase Confirmation",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-2477529\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-2477529\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 2682485,
+      "name": {
+        "html": "(EMARSYS) Order Confirmation NEW - Linc (Production)_SFCC",
+        "sort_by": "(EMARSYS) Order Confirmation NEW - Linc (Production)_SFCC"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "livotee",
+      "event": "PURCHASE_CONFIRMATION_TESTING",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-2682485\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-2682485\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 1079653,
+      "name": {
+        "html": "(EMARSYS) Order Modified  - NEW 2",
+        "sort_by": "(EMARSYS) Order Modified  - NEW 2"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "livotee",
+      "event": "Order Modified",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-1079653\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-1079653\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 2682584,
+      "name": {
+        "html": "(EMARSYS) Order Modified  - NEW 2_SFCC",
+        "sort_by": "(EMARSYS) Order Modified  - NEW 2_SFCC"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "livotee",
+      "event": "ORDER_MODIFIED_TESTING",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-2682584\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-2682584\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 4466579,
+      "name": {
+        "html": "(Emarsys) Password Reset 2023",
+        "sort_by": "(Emarsys) Password Reset 2023"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-4466579\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-4466579\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 4463253,
+      "name": {
+        "html": "(Emarsys) Profile Update 2023",
+        "sort_by": "(Emarsys) Profile Update 2023"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-4463253\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-4463253\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 1079706,
+      "name": {
+        "html": "(EMARSYS) Repair Request  - NEW 2",
+        "sort_by": "(EMARSYS) Repair Request  - NEW 2"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "livotee",
+      "event": "Repair Email",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-1079706\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-1079706\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 2682684,
+      "name": {
+        "html": "(EMARSYS) Repair Request  - NEW 2_SFCC",
+        "sort_by": "(EMARSYS) Repair Request  - NEW 2_SFCC"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "livotee",
+      "event": "REPAIR_EMAIL_TESTING",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-2682684\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-2682684\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 4517575,
+      "name": {
+        "html": "(Emarsys) Return Processed 2023",
+        "sort_by": "(Emarsys) Return Processed 2023"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-4517575\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-4517575\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 4498016,
+      "name": {
+        "html": "(Emarsys) Shipping Confirmation 2023",
+        "sort_by": "(Emarsys) Shipping Confirmation 2023"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-4498016\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-4498016\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 4517699,
+      "name": {
+        "html": "(Emarsys) SPMK_Customer 2023",
+        "sort_by": "(Emarsys) SPMK_Customer 2023"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-4517699\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-4517699\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 4517822,
+      "name": {
+        "html": "(Emarsys) SPMK_Representative 2023",
+        "sort_by": "(Emarsys) SPMK_Representative 2023"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-4517822\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-4517822\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 4466833,
+      "name": {
+        "html": "(Emarsys) Tracer Registration 2023",
+        "sort_by": "(Emarsys) Tracer Registration 2023"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-4466833\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-4466833\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 5532453,
+      "name": {
+        "html": "(Tumi) Delivery Confirmation 2024",
+        "sort_by": "(Tumi) Delivery Confirmation 2024"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "patsywalsh",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-5532453\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-5532453\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 631849,
+      "name": {
+        "html": "{LU 7} Order Confirmation (Indonesia)",
+        "sort_by": "{LU 7} Order Confirmation (Indonesia)"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "livotee",
+      "event": "TEST - Order Confirmation (INDONESIA)",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-631849\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-631849\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121587,
+      "name": {
+        "html": "bx-backinstock-1",
+        "sort_by": "bx-backinstock-1"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-backinstock-1",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121587\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121587\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121593,
+      "name": {
+        "html": "bx-backinstock-2",
+        "sort_by": "bx-backinstock-2"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-backinstock-2",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121593\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121593\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 115183,
+      "name": {
+        "html": "bx-cart-abandonment-prospects-1",
+        "sort_by": "bx-cart-abandonment-prospects-1"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-cart-abandonment-prospects-1",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-115183\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-115183\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 115377,
+      "name": {
+        "html": "bx-cart-abandonment-prospects-2",
+        "sort_by": "bx-cart-abandonment-prospects-2"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-cart-abandonment-prospects-2",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-115377\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-115377\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121608,
+      "name": {
+        "html": "bx-cartabandonment-customers-1",
+        "sort_by": "bx-cartabandonment-customers-1"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-cartabandonment-customers-1",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121608\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121608\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121609,
+      "name": {
+        "html": "bx-cartabandonment-customers-2",
+        "sort_by": "bx-cartabandonment-customers-2"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-cartabandonment-customers-2",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121609\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121609\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121610,
+      "name": {
+        "html": "bx-cartabandonment-customers-3",
+        "sort_by": "bx-cartabandonment-customers-3"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-cartabandonment-customers-3",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121610\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121610\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 5349010,
+      "name": {
+        "html": "bx-cartabandonment-customers-4",
+        "sort_by": "bx-cartabandonment-customers-4"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-cartabandonment-customers-4",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-5349010\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-5349010\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 5349018,
+      "name": {
+        "html": "bx-cartabandonment-customers-5",
+        "sort_by": "bx-cartabandonment-customers-5"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-cartabandonment-customers-5",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-5349018\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-5349018\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121600,
+      "name": {
+        "html": "bx-cartabandonment-prospects-3",
+        "sort_by": "bx-cartabandonment-prospects-3"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-cartabandonment-prospects-3",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121600\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121600\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121601,
+      "name": {
+        "html": "bx-cartabandonment-prospects-4",
+        "sort_by": "bx-cartabandonment-prospects-4"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-cartabandonment-prospects-4",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121601\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121601\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 5349133,
+      "name": {
+        "html": "bx-cartabandonment-prospects-5",
+        "sort_by": "bx-cartabandonment-prospects-5"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-cartabandonment-prospects-5",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-5349133\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-5349133\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 3680101,
+      "name": {
+        "html": "bx-category-recap-customers-1",
+        "sort_by": "bx-category-recap-customers-1"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-category-recap-customers-1",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-3680101\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-3680101\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 3680104,
+      "name": {
+        "html": "bx-category-recap-customers-2",
+        "sort_by": "bx-category-recap-customers-2"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-category-recap-customers-2",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-3680104\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-3680104\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 3680105,
+      "name": {
+        "html": "bx-category-recap-customers-3",
+        "sort_by": "bx-category-recap-customers-3"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-category-recap-customers-3",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-3680105\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-3680105\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 3680108,
+      "name": {
+        "html": "bx-category-recap-customers-4",
+        "sort_by": "bx-category-recap-customers-4"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-category-recap-customers-4",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-3680108\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-3680108\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 3680110,
+      "name": {
+        "html": "bx-category-recap-prospects-1",
+        "sort_by": "bx-category-recap-prospects-1"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-category-recap-prospects-1",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-3680110\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-3680110\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 3680111,
+      "name": {
+        "html": "bx-category-recap-prospects-2",
+        "sort_by": "bx-category-recap-prospects-2"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-category-recap-prospects-2",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-3680111\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-3680111\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 3680112,
+      "name": {
+        "html": "bx-category-recap-prospects-3",
+        "sort_by": "bx-category-recap-prospects-3"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-category-recap-prospects-3",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-3680112\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-3680112\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 3680113,
+      "name": {
+        "html": "bx-category-recap-prospects-4",
+        "sort_by": "bx-category-recap-prospects-4"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-category-recap-prospects-4",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-3680113\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-3680113\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121570,
+      "name": {
+        "html": "bx-lowstock-1",
+        "sort_by": "bx-lowstock-1"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-lowstock-1",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121570\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121570\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121573,
+      "name": {
+        "html": "bx-lowstock-2",
+        "sort_by": "bx-lowstock-2"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-lowstock-2",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121573\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121573\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121558,
+      "name": {
+        "html": "bx-pricedrop-1",
+        "sort_by": "bx-pricedrop-1"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-pricedrop-1",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121558\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121558\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121562,
+      "name": {
+        "html": "bx-pricedrop-2",
+        "sort_by": "bx-pricedrop-2"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-pricedrop-2",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121562\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121562\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121568,
+      "name": {
+        "html": "bx-pricedrop-prodabancopy-1",
+        "sort_by": "bx-pricedrop-prodabancopy-1"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-pricedrop-prodabancopy-1",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121568\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121568\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121602,
+      "name": {
+        "html": "bx-productabandonment-customers-1",
+        "sort_by": "bx-productabandonment-customers-1"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-productabandonment-customers-1",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121602\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121602\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121603,
+      "name": {
+        "html": "bx-productabandonment-customers-2",
+        "sort_by": "bx-productabandonment-customers-2"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-productabandonment-customers-2",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121603\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121603\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121607,
+      "name": {
+        "html": "bx-productabandonment-customers-3",
+        "sort_by": "bx-productabandonment-customers-3"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-productabandonment-customers-3",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121607\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121607\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121594,
+      "name": {
+        "html": "bx-productabandonment-prospects-1",
+        "sort_by": "bx-productabandonment-prospects-1"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-productabandonment-prospects-1",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121594\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121594\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121595,
+      "name": {
+        "html": "bx-productabandonment-prospects-2",
+        "sort_by": "bx-productabandonment-prospects-2"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-productabandonment-prospects-2",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121595\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121595\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121597,
+      "name": {
+        "html": "bx-productabandonment-prospects-3",
+        "sort_by": "bx-productabandonment-prospects-3"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-productabandonment-prospects-3",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121597\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121597\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121598,
+      "name": {
+        "html": "bx-productabandonment-prospects-4",
+        "sort_by": "bx-productabandonment-prospects-4"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-productabandonment-prospects-4",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121598\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121598\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121611,
+      "name": {
+        "html": "bx-savemycart-prospects-1",
+        "sort_by": "bx-savemycart-prospects-1"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-savemycart-prospects-1",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121611\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121611\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121612,
+      "name": {
+        "html": "bx-savemycart-prospects-2",
+        "sort_by": "bx-savemycart-prospects-2"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-savemycart-prospects-2",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121612\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121612\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 121613,
+      "name": {
+        "html": "bx-savemycart-prospects-3",
+        "sort_by": "bx-savemycart-prospects-3"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "bx-savemycart-prospects-3",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-121613\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-121613\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 115251,
+      "name": {
+        "html": "bx-test",
+        "sort_by": "bx-test"
+      },
+      "template": {
+        "html": "            <e-icon icon='custom' type='table'></e-icon>\n            HTML        ",
+        "sort_by": "HTML"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "WKNDAudiencesUI",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-115251\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-115251\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 4770701,
+      "name": {
+        "html": "Copy of (Tumi) Delivery Confirmation 2023",
+        "sort_by": "Copy of (Tumi) Delivery Confirmation 2023"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "patsywalsh",
+      "event": "Broadcast event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-4770701\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-4770701\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    },
+    {
+      "id": 346005,
+      "name": {
+        "html": "Emarsys XML Endpoint Test Email 2",
+        "sort_by": "Emarsys XML Endpoint Test Email 2"
+      },
+      "template": {
+        "html": "            <e-icon icon='e-blocks' type='table'></e-icon>\n            Block-based        ",
+        "sort_by": "Block-based"
+      },
+      "status_code": "active",
+      "status": {
+        "html": "            <span class=\"status-field\">\n            \n        <span>\n            Active                    </span>\n\n                    </span>\n            ",
+        "sort_by": "Active"
+      },
+      "admin": "admin",
+      "event": "Emarsys XML Endpoint Test Event",
+      "action": "            <td class=\"e-table__col e-table__col-actions\">\n\n                        <span class=\"e-field\">\n            <span class=\"e-switch activation-switch \">\n                <e-tooltip content=\"Deactivate\">\n                    <input type=\"checkbox\" id=\"activation-switch-346005\"\n                       class=\"e-switch__input\" 1 checked=\"checked\">\n                    <label for=\"activation-switch-346005\" class=\"e-switch__toggle\"></label>\n                </e-tooltip>\n            </span>\n        </span>\n        <e-spinner data-size=\"small\" class=\"activation-spinner e-hidden\"></e-spinner>\n    \n                                        <e-tooltip valign=\"baseline\" content=\"Edit\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-edit-btt\">\n                <e-icon icon=\"pencil\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Copy\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-copy-btt\">\n                        <e-icon icon=\"files-o\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                <e-tooltip valign=\"baseline\" content=\"Preview\">\n                    <a href=\"#\" class=\"e-svgclickfix mailstream-preview-btt\">\n                        <e-icon icon=\"eye\" type=\"table\"></e-icon>\n                    </a>\n                </e-tooltip>\n                        <e-tooltip valign=\"baseline\" content=\"Analysis\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-analysis-btt\">\n                <e-icon icon=\"bar-chart\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                                <e-tooltip valign=\"baseline\" content=\"You need to deactivate or abort this mail stream before you can delete it.\">\n            <a href=\"#\" class=\"e-svgclickfix mailstream-delete-btt e-btn-disabled\">\n                <e-icon icon=\"trash-o\" type=\"table\"></e-icon>\n            </a>\n        </e-tooltip>\n                    </td>\n        "
+    }
+  ]
